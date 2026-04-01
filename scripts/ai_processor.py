@@ -1,9 +1,14 @@
 import os
 from google import genai
+from google.genai import types
 
 def summarize_with_ai(title, content, tag):
-    # Initialize the new Client
-    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("GEMINI_API_KEY environment variable is not set.")
+
+    # Explicitly initialize the client for the Gemini 1.5 Flash model
+    client = genai.Client(api_key=api_key)
     
     prompt = f"""
     Context: Professional Chinese newsroom in Poland. Focus: {tag}.
@@ -16,14 +21,19 @@ def summarize_with_ai(title, content, tag):
     
     Content to process:
     Title: {title}
-    Text: {content[:3000]}
+    Text: {content[:4000]}
     """
     
-    # New method call: models.generate_content
-    response = client.models.generate_content(
-        model="gemini-1.5-flash",
-        contents=prompt
-    )
-    
-    return response.text
-    
+    try:
+        # Use the most stable call for the Flash model
+        response = client.models.generate_content(
+            model="gemini-1.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                temperature=0.7,
+            )
+        )
+        return response.text
+    except Exception as e:
+        print(f"AI Generation Error: {e}")
+        return f"Summary generation failed for: {title}"
