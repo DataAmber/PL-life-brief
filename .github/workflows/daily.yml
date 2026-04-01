@@ -27,7 +27,8 @@ jobs:
 
       - name: Run Scraper Engine
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }} # Map your secret to the standard name
+          
         run: python scripts/engine.py
 
       - name: Commit and Push New Posts
