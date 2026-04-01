@@ -1,0 +1,40 @@
+name: Daily Brief Automation
+
+on:
+  schedule:
+    # Runs at 05:00 UTC (06:00/07:00 Warsaw time)
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Allows manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  run-daily-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip' # Speeds up subsequent runs
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper Engine
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/engine.py
+
+      - name: Commit and Push New Posts
+        run: |
+          git config --global user.name "BriefBot"
+          git config --global user.email "bot@dataamber.com"
+          git add content/posts/*.md
+          # Only commit if there are actually new files
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: Update News $(date +%F)" && git push)
+          
