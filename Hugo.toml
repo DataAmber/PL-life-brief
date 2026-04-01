@@ -1,0 +1,26 @@
+baseURL = "https://dataamber.github.io/PL-life-brief/"
+languageCode = "zh-cn"
+title = "波兰生活简报 | PL Life Brief"
+theme = "newsroom"
+
+[params]
+    description = "针对波兰华人的每日实用资讯与政策解读"
+    author = "DataAmber"
+    # Newsroom 特色配置
+    primaryColor = "#dc3545" # 波兰红风格
+    darkMode = true
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+[[menu.main]]
+    name = "每日预警"
+    url = "/categories/warning/"
+    weight = 1
+[[menu.main]]
+    name = "办事指南"
+    url = "/categories/guide/"
+    weight = 2
+    
