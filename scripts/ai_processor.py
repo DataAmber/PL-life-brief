@@ -9,7 +9,8 @@ def summarize_with_ai(title, content, tag):
     try:
         # Force the stable 'v1' version via http_options
         client = genai.Client()
-        
+        for m in client.models.list():
+           print(m.name)
         prompt = f"""
         Context: Professional Chinese newsroom in Poland. Focus: {tag}.
         Task: Summarize this Polish news into Chinese for local residents.
