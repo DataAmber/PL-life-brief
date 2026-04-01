@@ -2,41 +2,35 @@ import os
 from google import genai
 
 def summarize_with_ai(title, content, tag):
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        raise ValueError("GEMINI_API_KEY is not set in environment variables.")
-
-    # According to the latest docs, explicitly disabling vertexai 
-    # forces the client to use the API Key for authentication.
-    client = genai.Client(
-        api_key=api_key,
-        vertexai=False
-    )
-
-    prompt = f"""
-    Context: Professional Chinese newsroom in Poland. Focus: {tag}.
-    Task: Summarize this Polish news into Chinese for local residents.
-    
-    Structure:
-    - Chinese Title with emoji
-    - 3 Bullet points in Chinese
-    - 3 Polish-Chinese vocabulary pairs
-    
-    Source Title: {title}
-    Source Content: {content[:3500]}
     """
-
+    The SDK automatically authenticates using the GOOGLE_API_KEY 
+    environment variable provided by the GitHub Action.
+    """
     try:
-        # Use the simple model string; the SDK handles the rest.
+        # No arguments needed if GOOGLE_API_KEY is set in the environment
+        client = genai.Client(vertexai=False)
+        
+        prompt = f"""
+        Context: Professional Chinese newsroom in Poland. Focus: {tag}.
+        Task: Summarize this Polish news into Chinese for local residents.
+        
+        Format:
+        1. Catchy Chinese Title with emoji
+        2. 3 Bullet points in Chinese
+        3. 3 Polish-Chinese vocabulary pairs
+        
+        Source Title: {title}
+        Source Content: {content[:3500]}
+        """
+
         response = client.models.generate_content(
             model="gemini-1.5-flash",
             contents=prompt
         )
         
-        # The response object in google-genai returns a 'text' attribute
-        return response.text
-        
+        return response.text if response.text else "AI summary empty."
+
     except Exception as e:
-        print(f"GenAI Client Error: {e}")
+        print(f"GenAI SDK Error: {e}")
         raise e
         
