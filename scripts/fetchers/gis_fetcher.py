@@ -8,7 +8,6 @@ def fetch_list():
     soup = BeautifulSoup(response.text, 'html.parser')
 
     alert_elements = soup.find_all('div', class_='art-prev')
-
     results = []
     for element in alert_elements[:3]:
         link_tag = element.find('a')
@@ -17,11 +16,11 @@ def fetch_list():
 
         title_tag = link_tag.find('div', class_='title')
         title = title_tag.text.strip() if title_tag else ""
-        full_url = "https://www.gov.pl" + link_tag['href']
-
-        # Use the URL slug as a unique ID (e.g., 'public-warning-eggs')
-        slug = link_tag['href'].split('/')[-1]
-
+        href = link_tag.get('href')
+        if not href:
+            continue
+        full_url = "https://www.gov.pl" + href
+        slug = href.split('/')[-1]
         results.append({
             "title": title,
             "url": full_url,
