@@ -8,10 +8,7 @@ def summarize_with_ai(title, content, tag):
     """
     try:
         # Force the stable 'v1' version via http_options
-        client = genai.Client(
-            vertexai=False,
-            http_options={'api_version': 'v1'}
-        )
+        client = genai.Client()
         
         prompt = f"""
         Context: Professional Chinese newsroom in Poland. Focus: {tag}.
