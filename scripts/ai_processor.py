@@ -3,12 +3,15 @@ from google import genai
 
 def summarize_with_ai(title, content, tag):
     """
-    The SDK automatically authenticates using the GOOGLE_API_KEY 
-    environment variable provided by the GitHub Action.
+    Explicitly using the stable 'v1' API version to avoid the 404 beta error.
+    The SDK pulls GOOGLE_API_KEY from the environment.
     """
     try:
-        # No arguments needed if GOOGLE_API_KEY is set in the environment
-        client = genai.Client(vertexai=False)
+        # Force the stable 'v1' version via http_options
+        client = genai.Client(
+            vertexai=False,
+            http_options={'api_version': 'v1'}
+        )
         
         prompt = f"""
         Context: Professional Chinese newsroom in Poland. Focus: {tag}.
