@@ -1,39 +1,38 @@
 import os
 from google import genai
-from google.genai import types
 
 def summarize_with_ai(title, content, tag):
-    api_key = os.environ.get("GEMINI_API_KEY")
+    # Retrieve the key from the environment injected by GitHub
+    api_key = os.getenv("GEMINI_API_KEY")
+    
     if not api_key:
-        raise ValueError("GEMINI_API_KEY environment variable is not set.")
+        raise ValueError("Environment variable GEMINI_API_KEY is not set.")
 
-    # Explicitly initialize the client for the Gemini 1.5 Flash model
-    client = genai.Client(api_key=api_key)
+    # Initialize the client specifically for the Generative AI (non-Vertex) endpoint
+    client = genai.Client(api_key=api_key, http_options={'api_version': 'v1beta'})
     
     prompt = f"""
-    Context: Professional Chinese newsroom in Poland. Focus: {tag}.
-    Task: Summarize this Polish news into Chinese for local residents.
+    Context: Professional Chinese newsroom in Poland. Topic: {tag}.
+    Task: Summarize this Polish news into Chinese.
     
-    Requirements:
-    1. Title: Catchy Chinese title with one relevant emoji.
-    2. Summary: 3 clear bullet points in Chinese.
-    3. Vocabulary: 3 key Polish terms from the text with Chinese meanings.
+    Structure:
+    - Chinese Title with emoji
+    - 3 Bullet points in Chinese
+    - 3 Polish-Chinese vocabulary pairs
     
-    Content to process:
-    Title: {title}
-    Text: {content[:4000]}
+    News Title: {title}
+    News Content: {content[:3500]}
     """
     
     try:
-        # Use the most stable call for the Flash model
+        # Standard model string for the Flash model
         response = client.models.generate_content(
             model="gemini-1.5-flash",
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                temperature=0.7,
-            )
+            contents=prompt
         )
         return response.text
     except Exception as e:
-        print(f"AI Generation Error: {e}")
-        return f"Summary generation failed for: {title}"
+        # We print the error but NOT the API key
+        print(f"Error during AI processing: {type(e).__name__}")
+        raise e
+        
