@@ -1,9 +1,9 @@
 import os
-import google.generativeai as genai
+from google import genai
 
-def summarize_with_ai(title, content, tag): # Ensure this name is exactly this
-    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    model = genai.GenerativeModel('gemini-1.5-flash')
+def summarize_with_ai(title, content, tag):
+    # Initialize the new Client
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     
     prompt = f"""
     Context: Professional Chinese newsroom in Poland. Focus: {tag}.
@@ -19,6 +19,11 @@ def summarize_with_ai(title, content, tag): # Ensure this name is exactly this
     Text: {content[:3000]}
     """
     
-    response = model.generate_content(prompt)
+    # New method call: models.generate_content
+    response = client.models.generate_content(
+        model="gemini-1.5-flash",
+        contents=prompt
+    )
+    
     return response.text
     
