@@ -30,7 +30,7 @@ RSS_SOURCES = [
 ]
 
 # How many articles to fetch per source per run
-ARTICLES_PER_SOURCE = 3
+ARTICLES_PER_SOURCE = 10
 
 
 def fetch_list():
