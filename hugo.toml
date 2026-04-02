@@ -6,7 +6,7 @@ theme = "newsroom"
 [params]
     description = "针对波兰华人的每日实用资讯与政策解读"
     author = "DataAmber"
-    designer = "DataAmber"
+    designed_by= "DataAmber"
     # Newsroom 特色配置
     primaryColor = "#dc3545" # 波兰红风格
     darkMode = true
