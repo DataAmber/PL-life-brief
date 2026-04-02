@@ -7,8 +7,7 @@ theme = "newsroom"
 [params]
     description = "针对波兰华人的每日实用资讯与政策解读"
     author = "DataAmber"
-    designed_by= "DataAmber"
-    # Newsroom 特色配置
+    designed_by = "DataAmber"
     primaryColor = "#dc3545" # 波兰红风格
     darkMode = true
 
@@ -18,11 +17,41 @@ theme = "newsroom"
     series = "series"
 
 [[menu.main]]
-    name = "每日预警"
-    url = "/categories/warning/"
+    name = "🏠 首页"
+    url = "/"
     weight = 1
+
 [[menu.main]]
-    name = "办事指南"
-    url = "/categories/guide/"
+    name = "📋 所有文章"
+    url = "/posts/"
     weight = 2
-    
+
+[[menu.main]]
+    name = "🛡️ 食品安全"
+    url = "/tags/安全/"
+    weight = 3
+
+[[menu.main]]
+    name = "🏛️ 移民签证"
+    url = "/tags/Immigration/"
+    weight = 4
+
+[[menu.main]]
+    name = "💰 经济财经"
+    url = "/tags/经济财经/"
+    weight = 5
+
+[[menu.main]]
+    name = "🏙️ 华沙生活"
+    url = "/tags/华沙生活/"
+    weight = 6
+
+[[menu.main]]
+    name = "⚕️ 健康医疗"
+    url = "/tags/健康医疗/"
+    weight = 7
+
+[[menu.main]]
+    name = "⚖️ 法律法规"
+    url = "/tags/法律法规/"
+    weight = 8
