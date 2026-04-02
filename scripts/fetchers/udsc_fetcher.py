@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 def fetch_list():
-    """Returns a list of the 3 latest news items from the Office for Foreigners (UDSC)."""
+    """Returns a list of the 10 latest news items from the Office for Foreigners (UDSC)."""
     url = "https://www.gov.pl/web/udsc-en/news-OFF"
     response = requests.get(url, timeout=10)
     response.raise_for_status()
@@ -10,7 +10,7 @@ def fetch_list():
 
     alert_elements = soup.find_all('div', class_='art-prev')
     results = []
-    for element in alert_elements[:3]:
+    for element in alert_elements[:10]:
         link_tag = element.find('a')
         if not link_tag:
             continue
