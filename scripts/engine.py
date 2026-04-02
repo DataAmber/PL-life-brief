@@ -40,7 +40,6 @@ def run_engine():
                 # Merge AI-generated fields into item
                 item['title'] = summary['title']
                 item['tags'] = summary['tags']
-                item['category'] = summary['category']   # ← add this line
 
                 save_post(file_path, summary['body'], item)
 
