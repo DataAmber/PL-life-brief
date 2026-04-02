@@ -1,4 +1,5 @@
 baseURL = "https://dataamber.github.io/PL-life-brief/"
+canonifyURLs = true
 languageCode = "zh-cn"
 title = "波兰简报"
 theme = "newsroom"
