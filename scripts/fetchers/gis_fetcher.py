@@ -26,7 +26,7 @@ def fetch_list():
             "url": full_url,
             "slug": slug,
             "tag": "Safety",
-            "category": "Daily"
+            "category": "Health"
         })
     return results
 
