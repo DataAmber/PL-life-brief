@@ -23,7 +23,7 @@ Summarize the following Polish news into Chinese.
 Return ONLY a valid JSON object. No markdown fences, no preamble, no explanation.
 
 {{
-  "title": "A catchy Chinese title with a relevant emoji at the start",
+  "title": "A catchy Chinese title with a relevant emoji. MUST be under 20 Chinese characters. No subtitles, no colons.",
   "tags": ["Chinese tag 1", "Chinese tag 2", "Chinese tag 3"],
   "body": "Full markdown body in Chinese using the exact format below"
 }}
