@@ -10,7 +10,7 @@ def fetch_list():
 
     alert_elements = soup.find_all('div', class_='art-prev')
     results = []
-    for element in alert_elements[:10]:
+    for element in alert_elements[:3]:
         link_tag = element.find('a')
         if not link_tag:
             continue
