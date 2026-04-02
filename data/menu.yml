@@ -1,0 +1,21 @@
+main:
+  - item: 全部
+    url: ""
+
+  - item: 新闻
+    url: categories/news/
+
+  - item: 经济
+    url: categories/economy/
+
+  - item: 健康
+    url: categories/health/
+
+  - item: 法律
+    url: categories/law/
+
+  - item: 华沙
+    url: categories/warsaw/
+
+  - item: 生活
+    url: categories/lifestyle/
