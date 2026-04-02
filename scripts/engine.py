@@ -1,10 +1,10 @@
 import os
 from datetime import datetime
 from ai_processor import summarize_with_ai
-from fetchers import gis_fetcher
+from fetchers import gis_fetcher, udsc_fetcher
 
 # Register your fetcher modules here
-SOURCES = [gis_fetcher]
+SOURCES = [gis_fetcher, udsc_fetcher]
 POSTS_DIR = "content/posts/"
 
 def run_engine():
