@@ -2,14 +2,14 @@ import requests
 from bs4 import BeautifulSoup
 
 def fetch_list():
-    """Returns a list of the 3 latest alert metadata."""
+    """Returns a list of the 10 latest alert metadata."""
     url = "https://www.gov.pl/web/gis/ostrzezenia"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
     alert_elements = soup.find_all('div', class_='art-prev')
     results = []
-    for element in alert_elements[:3]:
+    for element in alert_elements[:10]:
         link_tag = element.find('a')
         if not link_tag:
             continue
