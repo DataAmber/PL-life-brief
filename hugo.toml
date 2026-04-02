@@ -1,11 +1,12 @@
 baseURL = "https://dataamber.github.io/PL-life-brief/"
 languageCode = "zh-cn"
-title = "PL波兰生活简报"
+title = "波兰简报"
 theme = "newsroom"
 
 [params]
     description = "针对波兰华人的每日实用资讯与政策解读"
     author = "DataAmber"
+    designer = "DataAmber"
     # Newsroom 特色配置
     primaryColor = "#dc3545" # 波兰红风格
     darkMode = true
