@@ -1,10 +1,16 @@
 import os
 from datetime import datetime
 from ai_processor import summarize_with_ai
-from fetchers import gis_fetcher, udsc_fetcher
+from fetchers import gis_fetcher, udsc_fetcher, rss_fetcher
 
-# Register your fetcher modules here
-SOURCES = [gis_fetcher, udsc_fetcher]
+# ---------------------------------------------------------------
+# Register fetcher modules here. Each must implement:
+#   fetch_list() -> list of dicts with keys:
+#       title, url, slug, tag, category
+#   fetch_content(url) -> str
+# ---------------------------------------------------------------
+SOURCES = [gis_fetcher, udsc_fetcher, rss_fetcher]
+
 POSTS_DIR = "content/posts/"
 
 def run_engine():
