@@ -28,7 +28,7 @@ def fetch_list():
             "url": full_url,
             "slug": slug,
             "tag": "Immigration",
-            "category": "Daily"
+            "category": "Immigration"
         })
     return results
 
