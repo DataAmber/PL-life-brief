@@ -1,0 +1,18 @@
+{{ $p := .Paginator }}
+<div class="pagination wrap">
+  <div>
+    {{ if $p.HasPrev }}
+      <a href="{{ $p.Prev.URL | absURL }}">&laquo;&laquo;</a>
+    {{ else }}
+      <span class="disabled">&laquo;&laquo;</span>
+    {{ end }}
+  </div>
+  <p>{{ $p.PageNumber }} of {{ $p.TotalPages }}</p>
+  <div>
+    {{ if $p.HasNext }}
+      <a href="{{ $p.Next.URL | absURL }}">&raquo;&raquo;</a>
+    {{ else }}
+      <span class="disabled">&raquo;&raquo;</span>
+    {{ end }}
+  </div>
+</div>
