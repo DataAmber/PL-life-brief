@@ -53,7 +53,7 @@ Source Content: {content[:3500]}
         )
 
         # Respect 15 RPM free tier limit
-        time.sleep(1)
+        time.sleep(10)
 
         raw = response.text or ""
 
