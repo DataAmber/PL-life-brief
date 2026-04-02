@@ -29,7 +29,7 @@ Return ONLY a valid JSON object. No markdown fences, no preamble, no explanation
 }}
 
 Body format (use this structure exactly):
-### 🚨 预警详情
+### 🚨 关键信息
 [2-3 sentence summary in Chinese]
 
 **具体信息：**
@@ -48,7 +48,7 @@ Source Content: {content[:3500]}
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-flash-lite",
+            model="gemini-2.0-flash-lite",
             contents=prompt
         )
 
