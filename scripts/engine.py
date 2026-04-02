@@ -14,39 +14,54 @@ def run_engine():
     for module in SOURCES:
         print(f"--- Checking Source: {module.__name__} ---")
         items = module.fetch_list()
-        
-        for item in items:
-            # File naming convention: slug.md
-            file_path = os.path.join(POSTS_DIR, f"{item['slug']}.md")
-            
-            # IDEMPOTENCY CHECK: Skip if file already exists
-            if os.path.exists(file_path):
-                print(f"Skipping: {item['slug']} (Already exists)")
-                continue
-            
-            print(f"New Content Found: {item['title']}")
-            
-            # Only fetch detail and call AI if it's a NEW post
-            raw_text = module.fetch_content(item['url'])
-            chinese_summary = summarize_with_ai(item['title'], raw_text, item['tag'])
-            
-            save_post(file_path, chinese_summary, item)
 
-def save_post(path, content, meta):
+        for item in items:
+            file_path = os.path.join(POSTS_DIR, f"{item['slug']}.md")
+
+            # IDEMPOTENCY CHECK: Skip if already processed
+            if os.path.exists(file_path):
+                print(f"Skipping: {item['slug']} (already exists)")
+                continue
+
+            print(f"New content found: {item['title']}")
+
+            try:
+                raw_text = module.fetch_content(item['url'])
+
+                # Returns a structured dict, not raw text
+                summary = summarize_with_ai(item['title'], raw_text, item['tag'])
+
+                # Merge AI-generated fields into item
+                item['title'] = summary['title']
+                item['tags'] = summary['tags']
+
+                save_post(file_path, summary['body'], item)
+
+            except Exception as e:
+                print(f"Failed on {item['slug']}: {e} — skipping.")
+                continue
+
+def save_post(path, body, meta):
+    # Build Chinese tags list, always append "Automated" in English for filtering
+    tags = meta.get('tags', []) + ['Automated']
+    tags_str = '", "'.join(tags)
+
+    # Timezone-aware ISO 8601 timestamp (Warsaw time via system timezone in CI)
+    date_str = datetime.now().astimezone().isoformat()
+
     header = f"""---
 title: "{meta['title']}"
-date: {datetime.now().isoformat()}
+date: {date_str}
 categories: ["{meta['category']}"]
-tags: ["{meta['tag']}", "Automated"]
+tags: ["{tags_str}"]
 ---
 
 > Original Source: [{meta['url']}]({meta['url']})
 
 """
     with open(path, "w", encoding="utf-8") as f:
-        f.write(header + content)
+        f.write(header + body)
     print(f"Successfully deployed: {path}")
 
 if __name__ == "__main__":
     run_engine()
-
