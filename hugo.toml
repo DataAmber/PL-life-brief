@@ -1,6 +1,6 @@
 baseURL = "https://dataamber.github.io/PL-life-brief/"
 languageCode = "zh-cn"
-title = "波兰生活简报 | PL Life Brief"
+title = "PL波兰生活简报"
 theme = "newsroom"
 
 [params]
