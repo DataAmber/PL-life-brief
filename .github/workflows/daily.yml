@@ -3,7 +3,7 @@ name: Daily Brief Automation
 on:
   schedule:
     # Runs at 05:00 UTC (06:00/07:00 Warsaw time)
-    - cron: '0 5 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch: # Allows manual trigger for testing
 
 permissions:
