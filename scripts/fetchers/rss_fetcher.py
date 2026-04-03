@@ -22,11 +22,11 @@ RSS_SOURCES = [
         "description": "Warsaw Insider – culture, food, entertainment, travel"
     },
     {
-        "url": "https://tvpworld.com/feed",
-        "tag": "新闻",
-        "category": "News",
-        "slug_prefix": "tvp",
-        "description": "TVP World – Poland's English-language state broadcaster"
+        "url": "https://kidsinthecity.pl/feed",
+        "tag": "活动资讯",
+        "category": "Events",
+        "slug_prefix": "kitc",
+        "description": "Kids in the City – family events, festivals, exhibitions in Warsaw"
     },
 
     # ── Polish sources — Tier 1 ──────────────────────────────────
@@ -52,46 +52,23 @@ RSS_SOURCES = [
         "description": "Fakt.pl – Poland's #1 daily, everyday life and society"
     },
     {
-        "url": "https://www.zw.com.pl/rss/1.html",
-        "tag": "华沙生活",
-        "category": "Warsaw",
-        "slug_prefix": "zw",
-        "description": "Życie Warszawy – Warsaw city life, transport, events"
-    },
-
-    # ── Polish sources — Tier 2 ──────────────────────────────────
-    {
-        "url": "https://rp.pl/rss/671-prawo",
-        "tag": "法律法规",
-        "category": "Law",
-        "slug_prefix": "rp-prawo",
-        "description": "Rzeczpospolita Prawo – law changes affecting daily life"
-    },
-    {
-        "url": "https://rp.pl/rss/3551-zdrowie",
-        "tag": "健康医疗",
-        "category": "Health",
-        "slug_prefix": "rp-zdrowie",
-        "description": "Rzeczpospolita Zdrowie – health system, NFZ, pharmacy"
-    },
-    {
-        "url": "https://rp.pl/rss/631-praca",
-        "tag": "就业市场",
-        "category": "Economy",
-        "slug_prefix": "rp-praca",
-        "description": "Rzeczpospolita Praca – jobs, salaries, labour law"
-    },
-    {
         "url": "https://www.money.pl/rss/",
         "tag": "个人理财",
         "category": "Economy",
         "slug_prefix": "money",
         "description": "Money.pl – personal finance, inflation, ZUS, taxes"
     },
+
+    # ── Removed (confirmed broken feeds) ────────────────────────
+    # https://tvpworld.com/feed         — malformed
+    # https://www.zw.com.pl/rss/1.html  — malformed
+    # https://rp.pl/rss/671-prawo       — malformed
+    # https://rp.pl/rss/3551-zdrowie    — malformed
+    # https://rp.pl/rss/631-praca       — malformed
 ]
 
 # How many articles to fetch per source per run
-ARTICLES_PER_SOURCE = 3
+ARTICLES_PER_SOURCE = 10
 
 
 def fetch_list():
