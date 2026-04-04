@@ -62,11 +62,14 @@ categories: ["{meta['category']}"]
 tags: ["{tags_str}"]
 ---
 
-> Original Source: [{meta['url']}]({meta['url']})
+"""
+    footer = f"""
 
+---
+> 📰 原文来源：[{meta['url']}]({meta['url']})
 """
     with open(path, "w", encoding="utf-8") as f:
-        f.write(header + body)
+        f.write(header + body + footer)
     print(f"Successfully deployed: {path}")
 
 if __name__ == "__main__":
