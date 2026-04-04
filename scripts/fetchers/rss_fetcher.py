@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 # Add or remove sources here. No other code changes needed.
 # ---------------------------------------------------------------
 RSS_SOURCES = [
-    # ── English sources ──────────────────────────────────────────
+    # ── English news ─────────────────────────────────────────────
     {
         "url": "https://notesfrompoland.com/feed",
         "tag": "社会",
@@ -29,7 +29,7 @@ RSS_SOURCES = [
         "description": "Kids in the City – family events, festivals, exhibitions in Warsaw"
     },
 
-    # ── Polish sources — Tier 1 ──────────────────────────────────
+    # ── Polish news ───────────────────────────────────────────────
     {
         "url": "https://www.tvn24.pl/wiadomosci-z-kraju,3.xml",
         "tag": "国内新闻",
@@ -59,12 +59,52 @@ RSS_SOURCES = [
         "description": "Money.pl – personal finance, inflation, ZUS, taxes"
     },
 
-    # ── Removed (confirmed broken feeds) ────────────────────────
+    # ── Analysis & commentary ─────────────────────────────────────
+    {
+        "url": "https://expatinpoland.pl/feed",
+        "tag": "移民解读",
+        "category": "Analysis",
+        "slug_prefix": "eip",
+        "description": "Expat in Poland – practical expat life advice and commentary"
+    },
+    {
+        "url": "https://polandunraveled.com/feed",
+        "tag": "波兰解读",
+        "category": "Analysis",
+        "slug_prefix": "pur",
+        "description": "Poland Unraveled – expat guide, culture, practical Poland info"
+    },
+    {
+        "url": "https://euractiv.com/?feed=mcfeed",
+        "tag": "欧盟政策",
+        "category": "Analysis",
+        "slug_prefix": "euractiv",
+        "description": "Euractiv – EU affairs and policy analysis relevant to Poland"
+    },
+
+    # ── Transport alerts ──────────────────────────────────────────
+    {
+        "url": "https://www.wtp.waw.pl/zmiany/feed/",
+        "tag": "交通变化",
+        "category": "Warsaw",
+        "slug_prefix": "wtp-zmiany",
+        "description": "WTP Warsaw – planned route changes"
+    },
+    {
+        "url": "https://www.wtp.waw.pl/utrudnienia/feed/",
+        "tag": "交通警报",
+        "category": "Warsaw",
+        "slug_prefix": "wtp-alert",
+        "description": "WTP Warsaw – live service disruptions"
+    },
+
+    # ── Removed (confirmed broken feeds) ─────────────────────────
     # https://tvpworld.com/feed         — malformed
     # https://www.zw.com.pl/rss/1.html  — malformed
     # https://rp.pl/rss/671-prawo       — malformed
     # https://rp.pl/rss/3551-zdrowie    — malformed
     # https://rp.pl/rss/631-praca       — malformed
+    # https://visegradinsight.eu/feed/  — paywalled
 ]
 
 # How many articles to fetch per source per run
