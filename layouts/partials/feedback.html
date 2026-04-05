@@ -1,14 +1,12 @@
 {{/* layouts/partials/feedback.html */}}
-{{/* Inject post metadata as JS variables */}}
 <script>
   const POST_SLUG     = {{ .File.BaseFileName | jsonify }};
   const POST_TITLE    = {{ .Title | jsonify }};
   const POST_CATEGORY = {{ index .Params.categories 0 | default "Daily" | jsonify }};
   const POST_TAGS     = {{ .Params.tags | jsonify }};
-  const POST_SOURCE   = {{ with .OutputFormats.Get "html" }}{{ .Permalink }}{{ end | jsonify }};
 
-  const SUPABASE_URL  = "https://lgkmgzbunvmdmphrgxzu.supabase.co"; 
-  const SUPABASE_KEY  = "sb_publishable_qhl2It20w0_h-NdyMZbgoA_nBkIvW0t"; 
+  const SUPABASE_URL  = "https://lgkmgzbunvmdmphrgxzu.supabase.co";
+  const SUPABASE_KEY  = "sb_publishable_qhl2It20w0_h-NdyMZbgoA_nBkIvW0t";
 </script>
 
 <div id="feedback-widget" style="
@@ -48,7 +46,6 @@
 </div>
 
 <script>
-  // Check if already voted (localStorage for instant UX)
   const voteKey = `vote_${POST_SLUG}`;
   const existingVote = localStorage.getItem(voteKey);
   if (existingVote) {
@@ -56,14 +53,11 @@
   }
 
   async function submitFeedback(vote) {
-    // Prevent double voting
     if (localStorage.getItem(voteKey)) return;
 
-    // Optimistic UI update
     localStorage.setItem(voteKey, vote);
     showDone(vote);
 
-    // Send to Supabase
     try {
       await fetch(`${SUPABASE_URL}/rest/v1/post_feedback`, {
         method: "POST",
@@ -94,4 +88,3 @@
     msg.textContent = vote === "like" ? "✅ 感谢您的反馈！" : "📝 感谢！我们会优化内容。";
   }
 </script>
-
