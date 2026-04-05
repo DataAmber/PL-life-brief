@@ -57,6 +57,7 @@ Body format (use this structure exactly):
 - **[Polish phrase]**: [Brief Chinese explanation]
 - **[Polish phrase]**: [Brief Chinese explanation]
 - **[Polish phrase]**: [Brief Chinese explanation]
+
 *语法小贴士：**
 [One short tip in Chinese about an interesting Polish grammar point from this article, e.g. case endings, verb conjugation, useful phrase pattern. Keep it practical for A2/B1 learners.]
 Source Title: {title}
