@@ -134,7 +134,9 @@ def save_post(path, body, meta):
     audio_html = ""
 
     if polish_text:
-        slug = meta['slug']
+        # Sanitize slug — strip query strings and invalid filename characters
+        slug = meta['slug'].split('?')[0]
+        slug = re.sub(r'[<>:"/\\|*]', '', slug)[:150]
         audio_filename = f"{slug}.mp3"
         audio_path = os.path.join(AUDIO_DIR, audio_filename)
 
