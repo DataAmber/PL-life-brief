@@ -20,7 +20,7 @@ def summarize_with_ai(title, content, tag, _retry=False):
         "tags": ["中文tag1", "tag2", "tag3"],
         "body": "full markdown body with Chinese summary + Polish learning section"
     }
-    Uses 'gemini-2.5-flash-lite' (Free Tier: 15 RPM, 20 RPD on free tier).
+    Uses 'gemini-3.1-flash-lite-preview' (Free Tier: 15 RPM).
     """
     prompt = f"""
 You are a professional Chinese editor at a Warsaw newsroom who also teaches Polish to Chinese speakers at A2/B1 level. Focus area: {tag}.
@@ -58,8 +58,9 @@ Body format (use this structure exactly):
 - **[Polish phrase]**: [Brief Chinese explanation]
 - **[Polish phrase]**: [Brief Chinese explanation]
 
-*语法小贴士：**
+**语法小贴士：**
 [One short tip in Chinese about an interesting Polish grammar point from this article, e.g. case endings, verb conjugation, useful phrase pattern. Keep it practical for A2/B1 learners.]
+
 Source Title: {title}
 Source Content: {content[:3500]}
 """
