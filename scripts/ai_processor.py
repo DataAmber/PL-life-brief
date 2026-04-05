@@ -46,23 +46,19 @@ Body format (use this structure exactly):
 
 ---
 
-### 🇵🇱 波兰语学习
+### 🇵🇱 波兰语学习 (3分钟速成)
 
-**波兰语简讯（A2/B1）：**
-[Write 3-4 simple Polish sentences summarising the news at A2/B1 level. Use short sentences, common vocabulary, present/past tense only. This is the most important part — help the reader understand the topic in Polish.]
+**🎧 听力文本 (Polish Text for Listening)：**
+[Write 2-3 simple Polish sentences at A2/B1 level summarizing the news. Keep it concise - this text will be converted to audio for listening practice.]
 
-**重点词汇：**
-| 波兰语 | 中文 |
-|--------|------|
-| Polish word 1 | Chinese meaning |
-| Polish word 2 | Chinese meaning |
-| Polish word 3 | Chinese meaning |
-| Polish word 4 | Chinese meaning |
-| Polish word 5 | Chinese meaning |
-
-**语法小贴士：**
+**💡 关键表达 (Key Expressions)：**
+- **[Polish phrase]**: [Brief Chinese explanation of meaning and when/how to use it]
+- **[Polish phrase]**: [Brief Chinese explanation]
+- **[Polish phrase]**: [Brief Chinese explanation]
+- **[Polish phrase]**: [Brief Chinese explanation]
+- **[Polish phrase]**: [Brief Chinese explanation]
+*语法小贴士：**
 [One short tip in Chinese about an interesting Polish grammar point from this article, e.g. case endings, verb conjugation, useful phrase pattern. Keep it practical for A2/B1 learners.]
-
 Source Title: {title}
 Source Content: {content[:3500]}
 """
