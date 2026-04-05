@@ -124,6 +124,7 @@ def fetch_list():
 
             for entry in feed.entries[:ARTICLES_PER_SOURCE]:
                 raw_slug = entry.get("link", "").rstrip("/").split("/")[-1]
+                raw_slug = raw_slug.split("?")[0]
                 if not raw_slug:
                     continue
 
