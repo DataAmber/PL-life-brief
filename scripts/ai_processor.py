@@ -23,7 +23,7 @@ def summarize_with_ai(title, content, tag, _retry=False):
     Uses 'gemini-2.5-flash-lite' (Free Tier: 15 RPM, 20 RPD on free tier).
     """
     prompt = f"""
-You are a professional Chinese editor at a Warsaw newsroom who also teaches Polish to Chinese speakers. Focus area: {tag}.
+You are a professional Chinese editor at a Warsaw newsroom who also teaches Polish to Chinese speakers at A2/B1 level. Focus area: {tag}.
 Summarize the following Polish news into Chinese, and add a Polish language learning section.
 
 Return ONLY a valid JSON object. No markdown fences, no preamble, no explanation.
@@ -48,27 +48,20 @@ Body format (use this structure exactly):
 
 ### 🇵🇱 波兰语学习
 
-**原文标题：**
-> [Polish original title here]
+**波兰语简讯（A2/B1）：**
+[Write 3-4 simple Polish sentences summarising the news at A2/B1 level. Use short sentences, common vocabulary, present/past tense only. This is the most important part — help the reader understand the topic in Polish.]
 
 **重点词汇：**
-| 波兰语 | 中文 | 发音提示 |
-|--------|------|----------|
-| Polish word 1 | Chinese meaning | pronunciation hint |
-| Polish word 2 | Chinese meaning | pronunciation hint |
-| Polish word 3 | Chinese meaning | pronunciation hint |
-| Polish word 4 | Chinese meaning | pronunciation hint |
-| Polish word 5 | Chinese meaning | pronunciation hint |
-
-**实用句子：**
-- 🇵🇱 *[key Polish sentence from the article]*
-  🇨🇳 [Chinese translation]
-
-- 🇵🇱 *[another useful Polish sentence]*
-  🇨🇳 [Chinese translation]
+| 波兰语 | 中文 |
+|--------|------|
+| Polish word 1 | Chinese meaning |
+| Polish word 2 | Chinese meaning |
+| Polish word 3 | Chinese meaning |
+| Polish word 4 | Chinese meaning |
+| Polish word 5 | Chinese meaning |
 
 **语法小贴士：**
-[One short tip in Chinese about an interesting Polish grammar point from this article, e.g. case endings, verb conjugation, etc.]
+[One short tip in Chinese about an interesting Polish grammar point from this article, e.g. case endings, verb conjugation, useful phrase pattern. Keep it practical for A2/B1 learners.]
 
 Source Title: {title}
 Source Content: {content[:3500]}
