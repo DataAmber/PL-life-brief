@@ -34,14 +34,6 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true # Required for SCSS compilation in 'newsroom' theme
-
-      - name: Initialize Theme
-        # Clone the newsroom theme repository into the themes directory
-        # This bypasses the need for Git Submodules during the POC phase
-        run: |
-          mkdir -p themes
-          git clone https://github.com/onweru/newsroom themes/newsroom
-
       - name: Execute Hugo Build
         # Minify output to optimize performance for users in Poland
         run: hugo --minify
