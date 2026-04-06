@@ -1,80 +1,93 @@
 {{ define "main" }}
-<div class="container mx-auto px-4 py-8 max-w-4xl">
-    <article class="bg-white shadow-lg rounded-2xl p-6 border border-gray-100">
-        
-        <header class="mb-8 border-b pb-6">
-            <h1 class="text-3xl font-bold text-gray-900 mb-4">{{ .Title }}</h1>
-            <div class="text-sm text-gray-500">
-                <span>发布日期: {{ .Date.Format "2006-01-02" }}</span>
-            </div>
-        </header>
+  <div class="wrap mt post">
+    <div>
+      {{- $date := (dateFormat "02. January 2006" .Date) -}}
+      <p class=post_date>{{ $date }}</p>
+      <h1 class="post_title">{{ .Title }}</h1>
+      <div class="post_body">
+        <div class="post_inner">
+        {{ $image := partial "func/getImage" . }}
+        {{ with .Params.image }}
+          <img src="{{ $image }}" alt="{{ . }}" class="post_thumbnail">
+        {{ end }}
 
-        <div class="prose max-w-none mb-10 text-gray-800 leading-relaxed">
-            {{ .Content }}
-        </div>
-
-        {{ if .Params.listening_material }}
-        <div class="mt-10 p-6 bg-red-50 rounded-xl border-l-4 border-red-500">
-            
-            <h2 class="text-xl font-bold text-gray-900 mb-6 uppercase tracking-wide">
-                Polish Listening Practice
-            </h2>
-
-            <div class="bg-white p-4 rounded-lg shadow-sm mb-6 border border-red-100">
-                {{ partial "audio_player.html" . }}
-            </div>
-
-            <div class="bg-white p-5 rounded-lg border border-gray-100 mb-8">
-                <p class="text-xs font-bold text-red-400 mb-2 uppercase">Text:</p>
-                <div class="text-xl text-gray-900 leading-snug font-medium">
-                    {{ .Params.listening_material | markdownify }}
-                </div>
-            </div>
-
-            {{ if .Params.key_expressions }}
-            <div class="mb-6">
-                <h3 class="text-lg font-bold text-gray-800 mb-4">Vocabulary & Phrases:</h3>
-                <div class="grid grid-cols-1 gap-3">
-                    {{ range .Params.key_expressions }}
-                    <div class="p-3 bg-white rounded border border-gray-50 flex items-baseline shadow-sm">
-                        <b class="text-blue-700 mr-2">{{ .word }}:</b>
-                        <span class="text-gray-600 text-sm">{{ .translation }}</span>
-                    </div>
-                    {{ end }}
-                </div>
-            </div>
-            {{ end }}
-
-            {{ if .Params.grammar_point }}
-            <div class="bg-blue-600 p-5 rounded-xl text-white shadow-md">
-                <p class="font-bold mb-2">Grammar Note:</p>
-                <div class="text-sm text-blue-50">
-                    {{ .Params.grammar_point | markdownify }}
-                </div>
-            </div>
-            {{ end }}
+        {{/* ── Audio player: Moved here to be before content ── */}}
+        {{ $slug := .File.BaseFileName }}
+        {{ $audioPath := printf "static/audio/%s.mp3" $slug }}
+        {{ if fileExists $audioPath }}
+        <div style="margin: 1.5rem 0; padding: 1rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #dc3545;">
+          <div style="font-size: 0.85rem; color: #666; margin-bottom: 0.5rem;">🎧 波兰语听力练习</div>
+          <audio controls style="width: 100%; display: block;">
+            <source src="{{ printf "/PL-life-brief/audio/%s.mp3" $slug }}" type="audio/mpeg">
+          </audio>
         </div>
         {{ end }}
 
-        <footer class="mt-12 pt-8 border-t">
-            {{ if .Params.source_url }}
-            <div class="mb-8 text-xs text-gray-400">
-                Source: <a href="{{ .Params.source_url }}" class="text-blue-400 underline break-all">{{ .Params.source_url }}</a>
-            </div>
-            {{ end }}
+          {{ .Content }}
+        </div>
 
-            {{ partial "feedback.html" . }}
+        {{/* ── Feedback widget ── */}}
+        {{ partial "feedback.html" . }}
 
-            <div class="flex justify-between items-center mt-10 pt-8 border-t">
-                {{ with .PrevInSection }}
-                <a href="{{ .RelPermalink }}" class="text-blue-600 text-sm font-bold hover:underline">← {{ .Title }}</a>
-                {{ end }}
-                
-                {{ with .NextInSection }}
-                <a href="{{ .RelPermalink }}" class="text-blue-600 text-sm font-bold hover:underline text-right">{{ .Title }} →</a>
-                {{ end }}
-            </div>
-        </footer>
-    </article>
-</div>
+        {{/* ── Prev / Next navigation ── */}}
+        <nav style="
+          display: flex;
+          justify-content: space-between;
+          gap: 1rem;
+          margin: 2rem 0;
+          padding-top: 1.5rem;
+          border-top: 1px solid #eee;
+        ">
+          {{ with .PrevInSection }}
+          <a href="{{ .Permalink }}" target="_self" style="
+            flex: 1;
+            padding: 0.8rem 1rem;
+            border: 1px solid #dc3545;
+            border-radius: 8px;
+            text-decoration: none;
+            color: #dc3545;
+            font-size: 0.9rem;
+            max-width: 48%;
+          ">
+            <div style="color: #888; font-size: 0.75rem; margin-bottom: 0.3rem;">← 上一篇</div>
+            <div style="font-weight: 500; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">{{ .Title }}</div>
+          </a>
+          {{ else }}
+          <div style="flex: 1; max-width: 48%;"></div>
+          {{ end }}
+
+          {{ with .NextInSection }}
+          <a href="{{ .Permalink }}" target="_self" style="
+            flex: 1;
+            padding: 0.8rem 1rem;
+            border: 1px solid #dc3545;
+            border-radius: 8px;
+            text-decoration: none;
+            color: #dc3545;
+            font-size: 0.9rem;
+            text-align: right;
+            max-width: 48%;
+          ">
+            <div style="color: #888; font-size: 0.75rem; margin-bottom: 0.3rem;">下一篇 →</div>
+            <div style="font-weight: 500; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">{{ .Title }}</div>
+          </a>
+          {{ else }}
+          <div style="flex: 1; max-width: 48%;"></div>
+          {{ end }}
+        </nav>
+
+        <div class="post_extra mb-2">
+          {{ partialCached "share" . }}
+        </div>
+        <div>
+        {{ template "_internal/disqus.html" . }}
+        </div>
+      </div>
+    </div>
+    <a href={{ absURL "" }} class="post_nav"><span class="post_next">{{ T "latest_posts" }}
+      <svg class="icon icon_scale">
+        <use href="#double-arrow"></use>
+      </svg>
+    </span></a>
+  </div>
 {{ end }}
