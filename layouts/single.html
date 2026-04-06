@@ -2,14 +2,14 @@
 <main class="container mx-auto px-4 py-8 max-w-4xl">
     <article class="mx-auto shadow-sm bg-white p-6 rounded-2xl border border-gray-100">
         
-        <header class="mb-8 border-b border-gray-100 pb-6">
+        <header class="mb-10 border-b border-gray-100 pb-6">
             <h1 class="text-3xl font-extrabold text-gray-900 mb-4 leading-tight">{{ .Title }}</h1>
             <div class="flex items-center text-sm text-gray-500 space-x-4">
                 <span>📅 {{ .Date.Format "2006-01-02" }}</span>
                 {{ with .Params.categories }}
                 <div class="flex gap-2">
                     {{ range . }}
-                    <span class="bg-blue-50 text-blue-600 px-2 py-0.5 rounded text-xs font-semibold uppercase">{{ . }}</span>
+                    <span class="bg-blue-50 text-blue-600 px-3 py-1 rounded-full font-semibold uppercase text-xs">{{ . }}</span>
                     {{ end }}
                 </div>
                 {{ end }}
@@ -21,9 +21,9 @@
         </div>
 
         {{ if .Params.listening_material }}
-        <div class="not-prose mt-12 pt-8 border-t-4 border-red-500 bg-red-50/50 p-6 rounded-xl">
+        <div class="not-prose mt-12 pt-8 border-t-4 border-red-500 bg-red-50/30 p-6 rounded-xl">
             
-            <h2 class="text-2xl font-bold text-gray-900 mb-4 flex items-center">
+            <h2 class="text-2xl font-bold text-gray-900 mb-6 flex items-center">
                 🎧 波兰语听力练习
             </h2>
 
@@ -32,7 +32,7 @@
             </div>
 
             <div class="listening-box bg-white p-5 rounded-xl border border-gray-100 shadow-inner mb-8">
-                <p class="text-xs font-bold text-red-400 uppercase tracking-widest mb-3 italic">Polish Text:</p>
+                <p class="text-xs font-bold text-red-400 uppercase tracking-widest mb-3 italic font-sans">Polish Text:</p>
                 <div class="text-xl text-gray-900 font-medium leading-snug">
                     {{ .Params.listening_material | markdownify }}
                 </div>
@@ -40,12 +40,12 @@
 
             {{ if .Params.key_expressions }}
             <div class="mb-8">
-                <h3 class="text-lg font-bold text-gray-800 mb-4 flex items-center">💡 关键表达:</h3>
+                <h3 class="text-lg font-bold text-gray-800 mb-4 flex items-center italic">💡 关键表达 (Key Expressions):</h3>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
                     {{ range .Params.key_expressions }}
-                    <div class="p-3 bg-white rounded-lg border border-gray-100 flex items-baseline">
+                    <div class="p-3 bg-white rounded-lg border border-gray-50 flex items-baseline shadow-sm text-base">
                         <b class="text-blue-700 mr-2 whitespace-nowrap">{{ .word }}:</b>
-                        <span class="text-gray-600 text-sm">{{ .translation }}</span>
+                        <span class="text-gray-600">{{ .translation }}</span>
                     </div>
                     {{ end }}
                 </div>
@@ -53,9 +53,9 @@
             {{ end }}
 
             {{ if .Params.grammar_point }}
-            <div class="bg-blue-600 p-6 rounded-xl text-white shadow-lg">
-                <h4 class="font-bold mb-2 flex items-center text-base">📝 语法小贴士:</h4>
-                <div class="text-blue-50 text-sm leading-relaxed">
+            <div class="bg-blue-600 p-6 rounded-2xl text-white shadow-lg text-base">
+                <h4 class="font-bold mb-2 flex items-center">📝 语法小贴士:</h4>
+                <div class="text-blue-50 leading-relaxed">
                     {{ .Params.grammar_point | markdownify }}
                 </div>
             </div>
@@ -65,9 +65,9 @@
 
         <footer class="mt-16 pt-8 border-t border-gray-100">
             {{ if .Params.source_url }}
-            <div class="mb-8 text-xs text-gray-400">
-                <span class="font-bold uppercase mr-1">Source:</span>
-                <a href="{{ .Params.source_url }}" target="_blank" class="text-blue-500 underline break-all">{{ .Params.source_url }}</a>
+            <div class="mb-8 p-3 bg-gray-50 rounded text-xs text-gray-500 border-l-4 border-green-500">
+                <span class="font-bold uppercase mr-2 text-gray-400">原文来源:</span>
+                <a href="{{ .Params.source_url }}" target="_blank" class="text-green-700 hover:underline break-all">{{ .Params.source_url }}</a>
             </div>
             {{ end }}
 
@@ -75,21 +75,21 @@
                 {{ partial "feedback.html" . }}
             </div>
 
-            <nav class="grid grid-cols-2 gap-4 pt-8 border-t border-gray-100">
+            <div class="grid grid-cols-2 gap-4 pt-8 border-t border-gray-100">
                 {{ with .PrevInSection }}
                 <a href="{{ .RelPermalink }}" class="p-4 bg-white border border-gray-200 rounded-xl hover:border-blue-400 shadow-sm transition-all group">
-                    <span class="text-[10px] text-gray-400 block mb-1 uppercase">← Older</span>
-                    <span class="text-sm font-bold text-gray-700 group-hover:text-blue-600 line-clamp-1 text-left">{{ .Title }}</span>
+                    <span class="text-[10px] text-gray-400 block mb-1 uppercase">← 上一篇</span>
+                    <span class="text-sm font-bold text-gray-700 group-hover:text-blue-600 line-clamp-1">{{ .Title }}</span>
                 </a>
                 {{ else }}<div></div>{{ end }}
 
                 {{ with .NextInSection }}
                 <a href="{{ .RelPermalink }}" class="p-4 bg-white border border-gray-200 rounded-xl hover:border-blue-400 shadow-sm transition-all group text-right">
-                    <span class="text-[10px] text-gray-400 block mb-1 uppercase">Newer →</span>
+                    <span class="text-[10px] text-gray-400 block mb-1 uppercase">下一篇 →</span>
                     <span class="text-sm font-bold text-gray-700 group-hover:text-blue-600 line-clamp-1">{{ .Title }}</span>
                 </a>
                 {{ end }}
-            </nav>
+            </div>
         </footer>
     </article>
 </main>
