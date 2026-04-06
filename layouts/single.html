@@ -13,6 +13,18 @@
           {{ .Content }}
         </div>
 
+        {{/* ── Audio player: check if mp3 exists for this slug ── */}}
+        {{ $slug := .File.BaseFileName }}
+        {{ $audioPath := printf "static/audio/%s.mp3" $slug }}
+        {{ if fileExists $audioPath }}
+        <div style="margin: 1.5rem 0; padding: 1rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #dc3545;">
+          <div style="font-size: 0.85rem; color: #666; margin-bottom: 0.5rem;">🎧 波兰语听力练习</div>
+          <audio controls style="width: 100%; display: block;">
+            <source src="{{ printf "/PL-life-brief/audio/%s.mp3" $slug }}" type="audio/mpeg">
+          </audio>
+        </div>
+        {{ end }}
+
         {{/* ── Feedback widget ── */}}
         {{ partial "feedback.html" . }}
 
