@@ -44,21 +44,56 @@
     img
       width: 100%
       max-width: 100%
+  // ── 精准优化：解决学习内容层级不清 ──
   &_inner
-    a
-      color: var(--theme)
-      transition: all 0.3s
-      &:hover
-        opacity: 0.8
-        text-decoration: underline
+    // 1. 将加粗文字（听力文本/关键表达）转化为带竖线的视觉锚点
+    strong
+      display: block
+      font-size: 1.15rem
+      color: #1a1a1a
+      margin: 1.8rem auto 0.6rem    // 增加上方间距(1.8rem)，拉开模块距离
+      border-left: 4px solid #dc3545 // 品牌红竖线
+      padding-left: 12px
+      line-height: 1.3
+      max-width: 840px
 
-    img:not(.icon)
-      max-width: 100%
-      margin-bottom: 2rem
-      box-shadow: 0 1.5rem 1rem -1rem rgba(0,0,0,0.25)
-      ~ h1, ~ h2, ~ h3, ~ h4
-        margin-top: 0
-        padding-top: 0
+    // 2. 优化听力文本区域（Blockquote）
+    // 增加浅灰背景，使其从白底中“浮”出来
+    blockquote
+      background: #f9f9f9
+      border: 1px solid #eee
+      border-radius: 8px
+      padding: 1.25rem !important
+      margin: 1rem auto !important
+      box-shadow: inset 2px 2px 5px rgba(0,0,0,0.02)
+      p
+        font-weight: 500
+        color: #333
+        padding: 0 !important // 取消原有的上下 padding，靠容器 padding 控制
+        line-height: 1.7
+        font-size: 1.05rem
+
+    // 3. 优化解释列表（关键表达内容）
+    ul, ol
+      margin-top: 0.5rem
+      margin-bottom: 1.5rem
+      padding-left: 2rem !important
+      li
+        margin-bottom: 0.8rem
+        color: #4a4a4a
+        line-height: 1.6
+        // 这里的 strong 是列表内的单词，不需要竖线
+        strong
+          display: inline
+          border-left: none
+          padding-left: 0
+          margin: 0
+          font-size: 1.05rem
+          color: #000
+
+    // 4. 语法贴士等额外说明的样式
+    p:has(strong)
+      margin-top: 1rem
 
   .icon
     margin-top: 0
