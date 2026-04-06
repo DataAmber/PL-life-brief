@@ -1,92 +1,79 @@
 {{ define "main" }}
-  <div class="wrap mt post">
-    <div>
-      {{- $date := (dateFormat "02. January 2006" .Date) -}}
-      <p class=post_date>{{ $date }}</p>
-      <h1 class="post_title">{{ .Title }}</h1>
-      <div class="post_body">
-        <div class="post_inner">
-        {{ $image := partial "func/getImage" . }}
-        {{ with .Params.image }}
-          <img src="{{ $image }}" alt="{{ . }}" class="post_thumbnail">
+<main class="container mx-auto px-4 py-8 max-w-4xl">
+    <article class="prose lg:prose-xl mx-auto">
+        <header class="mb-8">
+            <h1 class="text-4xl font-extrabold text-gray-900 mb-2">{{ .Title }}</h1>
+            <div class="text-sm text-gray-500 flex items-center space-x-4">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+                {{ with .Params.categories }}
+                <div class="flex space-x-2">
+                    {{ range . }}
+                    <span class="bg-blue-100 text-blue-800 px-2 py-0.5 rounded-full text-xs font-medium">{{ . }}</span>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+        </header>
+
+        <div class="content mb-12">
+            {{ .Content }}
+        </div>
+
+        {{ if .Params.listening_material }}
+        <div class="education-section border-t-2 border-red-100 pt-8 mt-8">
+            <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center">
+                <span class="mr-2">🎧</span> 听力文本 (Polish Text for Listening)
+            </h2>
+
+            <div class="audio-wrapper mb-6 bg-gray-50 p-4 rounded-xl border-l-4 border-red-500">
+                {{ partial "audio_player.html" . }}
+            </div>
+
+            <div class="listening-text mb-8 text-lg leading-relaxed text-gray-700 bg-white p-4 rounded-lg shadow-sm border border-gray-100">
+                {{ .Params.listening_material | markdownify }}
+            </div>
+
+            {{ if .Params.key_expressions }}
+            <div class="key-expressions mb-8">
+                <h3 class="text-xl font-bold text-gray-800 mb-4 flex items-center">
+                    <span class="mr-2">💡</span> 关键表达 (Key Expressions)
+                </h3>
+                <ul class="space-y-4">
+                    {{ range .Params.key_expressions }}
+                    <li class="border-b border-gray-50 pb-2">
+                        <strong class="text-blue-700">{{ .word }}:</strong> 
+                        <span class="text-gray-600 ml-1">{{ .translation }}</span>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+
+            {{ if .Params.grammar_point }}
+            <div class="grammar-note bg-blue-50 p-6 rounded-2xl border border-blue-100">
+                <h3 class="text-lg font-bold text-blue-900 mb-2">语法小贴士:</h3>
+                <div class="text-blue-800 leading-relaxed">
+                    {{ .Params.grammar_point | markdownify }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
         {{ end }}
-          {{ .Content }}
-        </div>
 
-        {{/* ── Audio player: check if mp3 exists for this slug ── */}}
-        {{ $slug := .File.BaseFileName }}
-        {{ $audioPath := printf "static/audio/%s.mp3" $slug }}
-        {{ if fileExists $audioPath }}
-        <div style="margin: 1.5rem 0; padding: 1rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #dc3545;">
-          <div style="font-size: 0.85rem; color: #666; margin-bottom: 0.5rem;">🎧 波兰语听力练习</div>
-          <audio controls style="width: 100%; display: block;">
-            <source src="{{ printf "/PL-life-brief/audio/%s.mp3" $slug }}" type="audio/mpeg">
-          </audio>
-        </div>
-        {{ end }}
+        <footer class="mt-16 pt-8 border-t border-gray-200">
+            {{ if .Params.source_url }}
+            <div class="source-link mb-8 p-4 bg-green-50 rounded-lg border-l-4 border-green-500">
+                <span class="text-gray-500 text-sm font-medium">📰 原文来源:</span>
+                <a href="{{ .Params.source_url }}" target="_blank" class="block text-green-700 hover:underline break-all text-sm mt-1">
+                    {{ .Params.source_url }}
+                </a>
+            </div>
+            {{ end }}
 
-        {{/* ── Feedback widget ── */}}
-        {{ partial "feedback.html" . }}
-
-        {{/* ── Prev / Next navigation ── */}}
-        <nav style="
-          display: flex;
-          justify-content: space-between;
-          gap: 1rem;
-          margin: 2rem 0;
-          padding-top: 1.5rem;
-          border-top: 1px solid #eee;
-        ">
-          {{ with .PrevInSection }}
-          <a href="{{ .Permalink }}" target="_self" style="
-            flex: 1;
-            padding: 0.8rem 1rem;
-            border: 1px solid #dc3545;
-            border-radius: 8px;
-            text-decoration: none;
-            color: #dc3545;
-            font-size: 0.9rem;
-            max-width: 48%;
-          ">
-            <div style="color: #888; font-size: 0.75rem; margin-bottom: 0.3rem;">← 上一篇</div>
-            <div style="font-weight: 500; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">{{ .Title }}</div>
-          </a>
-          {{ else }}
-          <div style="flex: 1; max-width: 48%;"></div>
-          {{ end }}
-
-          {{ with .NextInSection }}
-          <a href="{{ .Permalink }}" target="_self" style="
-            flex: 1;
-            padding: 0.8rem 1rem;
-            border: 1px solid #dc3545;
-            border-radius: 8px;
-            text-decoration: none;
-            color: #dc3545;
-            font-size: 0.9rem;
-            text-align: right;
-            max-width: 48%;
-          ">
-            <div style="color: #888; font-size: 0.75rem; margin-bottom: 0.3rem;">下一篇 →</div>
-            <div style="font-weight: 500; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">{{ .Title }}</div>
-          </a>
-          {{ else }}
-          <div style="flex: 1; max-width: 48%;"></div>
-          {{ end }}
-        </nav>
-
-        <div class="post_extra mb-2">
-          {{ partialCached "share" . }}
-        </div>
-        <div>
-        {{ template "_internal/disqus.html" . }}
-        </div>
-      </div>
-    </div>
-    <a href={{ absURL "" }} class="post_nav"><span class="post_next">{{ T "latest_posts" }}
-      <svg class="icon icon_scale">
-        <use href="#double-arrow"></use>
-      </svg>
-    </span></a>
-  </div>
+            <div class="feedback-wrapper">
+                {{ partial "feedback.html" . }}
+            </div>
+        </footer>
+    </article>
+</main>
 {{ end }}
