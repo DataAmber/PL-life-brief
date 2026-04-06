@@ -10,18 +10,16 @@
         {{ with .Params.image }}
           <img src="{{ $image }}" alt="{{ . }}" class="post_thumbnail">
         {{ end }}
-
-        {{/* ── Audio player: Moved here to be before content ── */}}
-        {{ $slug := .File.BaseFileName }}
-        {{ $audioPath := printf "static/audio/%s.mp3" $slug }}
-        {{ if fileExists $audioPath }}
-        <div style="margin: 1.5rem 0; padding: 1rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #dc3545;">
-          <div style="font-size: 0.85rem; color: #666; margin-bottom: 0.5rem;">🎧 波兰语听力练习</div>
-          <audio controls style="width: 100%; display: block;">
-            <source src="{{ printf "/PL-life-brief/audio/%s.mp3" $slug }}" type="audio/mpeg">
-          </audio>
-        </div>
-        {{ end }}
+          
+          {{/* ── 播放器放在听力文本之前 ── */}}
+          {{ with .Params.audio }}
+            <div class="audio_player" style="margin-bottom: 2rem;">
+              <audio controls style="width: 100%; margin-bottom: 1rem;">
+                <source src="{{ . }}" type="audio/mpeg">
+                Your browser does not support the audio element.
+              </audio>
+            </div>
+          {{ end }}
 
           {{ .Content }}
         </div>
