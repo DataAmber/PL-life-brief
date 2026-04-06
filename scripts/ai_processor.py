@@ -23,7 +23,7 @@ def summarize_with_ai(title, content, tag, _retry=False):
     Uses 'gemini-3.1-flash-lite-preview' (Free Tier: 15 RPM).
     """
     prompt = f"""
-You are a professional Chinese editor at a Warsaw newsroom who also teaches Polish to Chinese speakers at A2/B1 level. Focus area: {tag}.
+You are a professional Chinese editor at a Warsaw newsroom who also teaches Polish to Chinese speakers at B1 level. Focus area: {tag}.
 Summarize the following Polish news into Chinese, and add a Polish language learning section.
 
 Return ONLY a valid JSON object. No markdown fences, no preamble, no explanation.
@@ -37,19 +37,22 @@ Return ONLY a valid JSON object. No markdown fences, no preamble, no explanation
 Body format (use this structure exactly):
 
 ### 🗞️ 中文摘要
-[2-3 sentence summary in Chinese explaining what happened]
+[4-6 sentence summary in Chinese explaining what happened]
 
 **关键信息：**
 - **key point 1 in Chinese**
 - **key point 2 in Chinese**
 - **key point 3 in Chinese**
+- **key point 4 in Chinese**
+- **key point 5 in Chinese**
+
 
 ---
 
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
-[Write 2-3 simple Polish sentences at A2/B1 level summarizing the news. Keep it concise - this text will be converted to audio for listening practice.]
+[Write 4-6 simple Polish sentences at B1 level summarizing the news. Keep it concise - this text will be converted to audio for listening practice.]
 
 **💡 关键表达 (Key Expressions)：**
 - **[Polish phrase]**: [Brief Chinese explanation of meaning and when/how to use it]
@@ -58,7 +61,7 @@ Body format (use this structure exactly):
 - **[Polish phrase]**: [Brief Chinese explanation]
 - **[Polish phrase]**: [Brief Chinese explanation]
 
-**语法小贴士：**
+**📝 语法小贴士：**
 [One short tip in Chinese about an interesting Polish grammar point from this article, e.g. case endings, verb conjugation, useful phrase pattern. Keep it practical for A2/B1 learners.]
 
 Source Title: {title}
