@@ -1,51 +1,44 @@
 {{ define "main" }}
-<main class="container mx-auto px-4 py-8 max-w-4xl">
-    <article class="mx-auto shadow-sm bg-white p-6 rounded-2xl border border-gray-100">
+<div class="container mx-auto px-4 py-8 max-w-4xl">
+    <article class="bg-white shadow-lg rounded-2xl p-6 border border-gray-100">
         
-        <header class="mb-10 border-b border-gray-100 pb-6">
-            <h1 class="text-3xl font-extrabold text-gray-900 mb-4 leading-tight">{{ .Title }}</h1>
-            <div class="flex items-center text-sm text-gray-500 space-x-4">
-                <span>📅 {{ .Date.Format "2006-01-02" }}</span>
-                {{ with .Params.categories }}
-                <div class="flex gap-2">
-                    {{ range . }}
-                    <span class="bg-blue-50 text-blue-600 px-3 py-1 rounded-full font-semibold uppercase text-xs">{{ . }}</span>
-                    {{ end }}
-                </div>
-                {{ end }}
+        <header class="mb-8 border-b pb-6">
+            <h1 class="text-3xl font-bold text-gray-900 mb-4">{{ .Title }}</h1>
+            <div class="text-sm text-gray-500">
+                <span>发布日期: {{ .Date.Format "2006-01-02" }}</span>
             </div>
         </header>
 
-        <div class="prose prose-slate max-w-none mb-12 text-gray-800 leading-relaxed">
+        <div class="prose max-w-none mb-10 text-gray-800 leading-relaxed">
             {{ .Content }}
         </div>
 
         {{ if .Params.listening_material }}
-        <div class="not-prose mt-12 pt-8 border-t-4 border-red-500 bg-red-50/30 p-6 rounded-xl">
+        <div class="mt-10 p-6 bg-red-50 rounded-xl border-l-4 border-red-500">
             
-            <h2 class="text-2xl font-bold text-gray-900 mb-6 flex items-center">
-                🎧 波兰语听力练习
+            <h2 class="text-xl font-bold text-gray-900 mb-6 uppercase tracking-wide">
+                Polish Listening Practice
             </h2>
 
-            <div class="audio-wrapper mb-4 bg-white p-3 rounded-lg shadow-sm border border-red-100 w-full">
+            <div class="bg-white p-4 rounded-lg shadow-sm mb-6 border border-red-100">
                 {{ partial "audio_player.html" . }}
             </div>
 
-            <div class="listening-box bg-white p-5 rounded-xl border border-gray-100 shadow-inner mb-8">
-                <p class="text-xs font-bold text-red-400 uppercase tracking-widest mb-3 italic font-sans">Polish Text:</p>
-                <div class="text-xl text-gray-900 font-medium leading-snug">
+            <div class="bg-white p-5 rounded-lg border border-gray-100 mb-8">
+                <p class="text-xs font-bold text-red-400 mb-2 uppercase">Text:</p>
+                <div class="text-xl text-gray-900 leading-snug font-medium">
                     {{ .Params.listening_material | markdownify }}
                 </div>
             </div>
 
             {{ if .Params.key_expressions }}
-            <div class="mb-8">
-                <h3 class="text-lg font-bold text-gray-800 mb-4 flex items-center italic">💡 关键表达 (Key Expressions):</h3>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+            <div class="mb-6">
+                <h3 class="text-lg font-bold text-gray-800 mb-4">Vocabulary & Phrases:</h3>
+                <div class="grid grid-cols-1 gap-3">
                     {{ range .Params.key_expressions }}
-                    <div class="p-3 bg-white rounded-lg border border-gray-50 flex items-baseline shadow-sm text-base">
-                        <b class="text-blue-700 mr-2 whitespace-nowrap">{{ .word }}:</b>
-                        <span class="text-gray-600">{{ .translation }}</span>
+                    <div class="p-3 bg-white rounded border border-gray-50 flex items-baseline shadow-sm">
+                        <b class="text-blue-700 mr-2">{{ .word }}:</b>
+                        <span class="text-gray-600 text-sm">{{ .translation }}</span>
                     </div>
                     {{ end }}
                 </div>
@@ -53,9 +46,9 @@
             {{ end }}
 
             {{ if .Params.grammar_point }}
-            <div class="bg-blue-600 p-6 rounded-2xl text-white shadow-lg text-base">
-                <h4 class="font-bold mb-2 flex items-center">📝 语法小贴士:</h4>
-                <div class="text-blue-50 leading-relaxed">
+            <div class="bg-blue-600 p-5 rounded-xl text-white shadow-md">
+                <p class="font-bold mb-2">Grammar Note:</p>
+                <div class="text-sm text-blue-50">
                     {{ .Params.grammar_point | markdownify }}
                 </div>
             </div>
@@ -63,34 +56,25 @@
         </div>
         {{ end }}
 
-        <footer class="mt-16 pt-8 border-t border-gray-100">
+        <footer class="mt-12 pt-8 border-t">
             {{ if .Params.source_url }}
-            <div class="mb-8 p-3 bg-gray-50 rounded text-xs text-gray-500 border-l-4 border-green-500">
-                <span class="font-bold uppercase mr-2 text-gray-400">原文来源:</span>
-                <a href="{{ .Params.source_url }}" target="_blank" class="text-green-700 hover:underline break-all">{{ .Params.source_url }}</a>
+            <div class="mb-8 text-xs text-gray-400">
+                Source: <a href="{{ .Params.source_url }}" class="text-blue-400 underline break-all">{{ .Params.source_url }}</a>
             </div>
             {{ end }}
 
-            <div class="mb-10">
-                {{ partial "feedback.html" . }}
-            </div>
+            {{ partial "feedback.html" . }}
 
-            <div class="grid grid-cols-2 gap-4 pt-8 border-t border-gray-100">
+            <div class="flex justify-between items-center mt-10 pt-8 border-t">
                 {{ with .PrevInSection }}
-                <a href="{{ .RelPermalink }}" class="p-4 bg-white border border-gray-200 rounded-xl hover:border-blue-400 shadow-sm transition-all group">
-                    <span class="text-[10px] text-gray-400 block mb-1 uppercase">← 上一篇</span>
-                    <span class="text-sm font-bold text-gray-700 group-hover:text-blue-600 line-clamp-1">{{ .Title }}</span>
-                </a>
-                {{ else }}<div></div>{{ end }}
-
+                <a href="{{ .RelPermalink }}" class="text-blue-600 text-sm font-bold hover:underline">← {{ .Title }}</a>
+                {{ end }}
+                
                 {{ with .NextInSection }}
-                <a href="{{ .RelPermalink }}" class="p-4 bg-white border border-gray-200 rounded-xl hover:border-blue-400 shadow-sm transition-all group text-right">
-                    <span class="text-[10px] text-gray-400 block mb-1 uppercase">下一篇 →</span>
-                    <span class="text-sm font-bold text-gray-700 group-hover:text-blue-600 line-clamp-1">{{ .Title }}</span>
-                </a>
+                <a href="{{ .RelPermalink }}" class="text-blue-600 text-sm font-bold hover:underline text-right">{{ .Title }} →</a>
                 {{ end }}
             </div>
         </footer>
     </article>
-</main>
+</div>
 {{ end }}
