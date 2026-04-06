@@ -10,20 +10,17 @@
         {{ with .Params.image }}
           <img src="{{ $image }}" alt="{{ . }}" class="post_thumbnail">
         {{ end }}
+          
+          {{/* ── 播放器放在听力文本之前 ── */}}
+          {{ with .Params.audio }}
+            <div class="audio_player" style="margin-bottom: 2rem;">
+              <audio controls style="width: 100%; margin-bottom: 1rem;">
+                <source src="{{ . }}" type="audio/mpeg">
+                Your browser does not support the audio element.
+              </audio>
+            </div>
+          {{ end }}
 
-        {{/* ── 修改点：将 Audio player 移动到 .Content 之前 ── */}}
-        {{ $slug := .File.BaseFileName }}
-        {{ $audioPath := printf "static/audio/%s.mp3" $slug }}
-        {{ if fileExists $audioPath }}
-        <div style="margin: 0.5rem 0 1.5rem 0; padding: 1rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #dc3545;">
-          <div style="font-size: 0.85rem; color: #666; margin-bottom: 0.5rem;">🎧 Słuchaj po polsku (波兰语听力练习)</div>
-          <audio controls style="width: 100%; display: block;">
-            <source src="{{ printf "/PL-life-brief/audio/%s.mp3" $slug }}" type="audio/mpeg">
-          </audio>
-        </div>
-        {{ end }}
-
-        {{/* ── 这里是你的听力文本 ── */}}
           {{ .Content }}
         </div>
 
@@ -50,7 +47,7 @@
             font-size: 0.9rem;
             max-width: 48%;
           ">
-            <div style="color: #888; font-size: 0.75rem; margin-bottom: 0.3rem;">← Poprzedni (上一篇)</div>
+            <div style="color: #888; font-size: 0.75rem; margin-bottom: 0.3rem;">← 上一篇</div>
             <div style="font-weight: 500; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">{{ .Title }}</div>
           </a>
           {{ else }}
@@ -69,7 +66,7 @@
             text-align: right;
             max-width: 48%;
           ">
-            <div style="color: #888; font-size: 0.75rem; margin-bottom: 0.3rem;">Następny (下一篇) →</div>
+            <div style="color: #888; font-size: 0.75rem; margin-bottom: 0.3rem;">下一篇 →</div>
             <div style="font-weight: 500; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">{{ .Title }}</div>
           </a>
           {{ else }}
