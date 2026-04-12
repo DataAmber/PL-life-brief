@@ -51,3 +51,7 @@ theme = "newsroom"
     name = "生活"
     url = "/categories/lifestyle/"
     weight = 7
+[[menu.main]]
+    name = "🚔 治安安全"
+    url = "/tags/治安安全/"
+    weight = 9
