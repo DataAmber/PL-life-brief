@@ -10,7 +10,7 @@ except ImportError:
     GTTS_AVAILABLE = False
     print("Warning: gTTS not installed. Audio generation disabled. Install with: pip install gtts")
 
-from fetchers import gis_fetcher, udsc_fetcher, rss_fetcher
+from fetchers import gis_fetcher, udsc_fetcher, rss_fetcher, mokotow_policja_fetcher
 
 # ---------------------------------------------------------------
 # Register fetcher modules here. Each must implement:
@@ -18,7 +18,7 @@ from fetchers import gis_fetcher, udsc_fetcher, rss_fetcher
 #       title, url, slug, tag, category
 #   fetch_content(url) -> str
 # ---------------------------------------------------------------
-SOURCES = [gis_fetcher, udsc_fetcher, rss_fetcher]
+SOURCES = [gis_fetcher, udsc_fetcher, rss_fetcher,mokotow_policja_fetcher ]
 
 POSTS_DIR = "content/posts/"
 AUDIO_DIR = "static/audio/"
