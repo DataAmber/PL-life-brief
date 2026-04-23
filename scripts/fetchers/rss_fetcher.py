@@ -99,7 +99,7 @@ RSS_SOURCES = [
     },
         {
         "url": "https://rp.pl/rss/671-prawo",
-        "tag": "税务”,
+        "tag": "税务",
         "category": "Warsaw",
         "slug_prefix": "rpplt",
         "description": "WTP Warsaw – live service disruptions"
