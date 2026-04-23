@@ -97,6 +97,14 @@ RSS_SOURCES = [
         "slug_prefix": "wtp-alert",
         "description": "WTP Warsaw – live service disruptions"
     },
+        {
+        "url": "https://rp.pl/rss/671-prawo",
+        "tag": "税务”,
+        "category": "Warsaw",
+        "slug_prefix": "rpplt",
+        "description": "WTP Warsaw – live service disruptions"
+    },
+
 
     # ── Removed (confirmed broken feeds) ─────────────────────────
     # https://tvpworld.com/feed         — malformed
