@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰财经", "电信行业", "市场动态", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰电子通信局（UKE）最新数据显示，2026年第一季度波兰移动号码携带总量达37.94万个。在激烈的市场竞争中，Orange表现最为抢眼，净增用户超过1.7万名，成为最大赢家。相比之下，Plus（Polkomtel）流失情况严重，净亏损近3.2万名用户。Play（P4）的情况同样不容乐观，流失了超过1.1万名用户。T-Mobile则基本保持平稳，微增395名用户。整体而言，这一季度波兰电信市场的用户迁徙速度较上一季度有所放缓。
-
-**关键信息：**
-- 2026年第一季度共发生379,400起号码携带行为。
-- Orange Polska成为最大赢家，新增用户17,060名。
-- Plus（Polkomtel）流失用户达31,998名，损失最重。
-- Play（P4）流失用户11,480名，市场表现低迷。
-- T-Mobile表现稳定，微增395名用户。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ W pierwszym kwartale roku wielu Polaków zmieniło operatora sieci. Orange zyska
 在表达数字时，注意 Polish 的数词变格。例如文中提到的 31 998 (trzydzieści dwa tysiące...)，当数字以 dwa, trzy, cztery 结尾时，后续名词通常使用复数形式。这是B1级别写作中非常容易出错的细节，建议多加练习大数字读法。
 
 ---
+
+### 🗞️ 中文摘要
+波兰电子通信局（UKE）最新数据显示，2026年第一季度波兰移动号码携带总量达37.94万个。在激烈的市场竞争中，Orange表现最为抢眼，净增用户超过1.7万名，成为最大赢家。相比之下，Plus（Polkomtel）流失情况严重，净亏损近3.2万名用户。Play（P4）的情况同样不容乐观，流失了超过1.1万名用户。T-Mobile则基本保持平稳，微增395名用户。整体而言，这一季度波兰电信市场的用户迁徙速度较上一季度有所放缓。
+
+**关键信息：**
+- 2026年第一季度共发生379,400起号码携带行为。
+- Orange Polska成为最大赢家，新增用户17,060名。
+- Plus（Polkomtel）流失用户达31,998名，损失最重。
+- Play（P4）流失用户11,480名，市场表现低迷。
+- T-Mobile表现稳定，微增395名用户。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/W-pierwszym-kwartale-26-przeniesiono-379-400-numerow-komorkowych-UKE-9110066.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/W-pierwszym-kwartale-26-przeniesiono-379-400-numerow-komorkowych-UKE-9110066.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

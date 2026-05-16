@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "国际安全", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-两名波兰年轻人因涉嫌协助策划针对捷克一家国防公司的纵火袭击而被波兰当局逮捕。该袭击由一个激进组织发起，旨在抗议该公司与以色列国防企业的合作，若罪名成立，嫌疑人最高可面临15年监禁。
-
-**关键信息：**
-- 两名波兰嫌疑人分别为23岁和22岁，现已被正式起诉。
-- 袭击目标为捷克帕尔杜比采的一家无人机国防工厂。
-- 极端组织“地震派”（Earthquake Faction）宣称对此次恐怖袭击负责。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Dwóch Polaków zostało aresztowanych za atak terrorystyczny w Czechach. Oni po
 注意句中的被动语态“zostało aresztowanych”。在波兰语中，zostać + 过去分词形式可以表示被动，其中过去分词需要与主语在性和数上保持一致（本例中为阳性复数形式）。
 
 ---
+
+### 🗞️ 中文摘要
+两名波兰年轻人因涉嫌协助策划针对捷克一家国防公司的纵火袭击而被波兰当局逮捕。该袭击由一个激进组织发起，旨在抗议该公司与以色列国防企业的合作，若罪名成立，嫌疑人最高可面临15年监禁。
+
+**关键信息：**
+- 两名波兰嫌疑人分别为23岁和22岁，现已被正式起诉。
+- 袭击目标为捷克帕尔杜比采的一家无人机国防工厂。
+- 极端组织“地震派”（Earthquake Faction）宣称对此次恐怖袭击负责。
+
+---
+
 > 📰 原文来源：[https://notesfrompoland.com/2026/04/02/two-poles-charged-with-terror-offences-over-arson-attack-on-czech-defence-firm-with-links-to-israel/](https://notesfrompoland.com/2026/04/02/two-poles-charged-with-terror-offences-over-arson-attack-on-czech-defence-firm-with-links-to-israel/)

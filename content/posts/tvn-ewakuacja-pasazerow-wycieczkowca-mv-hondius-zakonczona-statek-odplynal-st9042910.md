@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "国际航运", "安全快报", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，一艘名为MV Hondius的探险邮轮在执行任务时遭遇紧急情况。由于技术问题，该船不得不中断航程，并组织船上乘客进行了安全撤离。经过救援部门的协同努力，所有人员均已妥善安置，未发生人员伤亡。目前，该邮轮在完成必要的检查后已重新启航。这起事件再次提醒了极地航行的安全重要性。
-
-**关键信息：**
-- 探险邮轮MV Hondius发生突发事故。
-- 全体乘客已成功撤离并处于安全状态。
-- 救援行动迅速有效，未造成人员伤亡。
-- 邮轮在完成相关检修后已离开港口。
-- 相关部门正对事故原因展开调查。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Statek wycieczkowy MV Hondius miał problemy techniczne. Pasażerowie musieli zo
 注意“zostać + 过去分词”结构，这是波兰语的被动语态。例如“pasażerowie zostali ewakuowani”（乘客被撤离了）。当动作的接受者更重要且不知道施事者是谁时，使用此结构非常地道。
 
 ---
+
+### 🗞️ 中文摘要
+近期，一艘名为MV Hondius的探险邮轮在执行任务时遭遇紧急情况。由于技术问题，该船不得不中断航程，并组织船上乘客进行了安全撤离。经过救援部门的协同努力，所有人员均已妥善安置，未发生人员伤亡。目前，该邮轮在完成必要的检查后已重新启航。这起事件再次提醒了极地航行的安全重要性。
+
+**关键信息：**
+- 探险邮轮MV Hondius发生突发事故。
+- 全体乘客已成功撤离并处于安全状态。
+- 救援行动迅速有效，未造成人员伤亡。
+- 邮轮在完成相关检修后已离开港口。
+- 相关部门正对事故原因展开调查。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/ewakuacja-pasazerow-wycieczkowca-mv-hondius-zakonczona-statek-odplynal-st9042910?source=rss](https://tvn24.pl/swiat/ewakuacja-pasazerow-wycieczkowca-mv-hondius-zakonczona-statek-odplynal-st9042910?source=rss)

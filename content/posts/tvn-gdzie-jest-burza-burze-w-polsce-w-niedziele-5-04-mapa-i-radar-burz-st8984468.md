@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["波兰气象", "极端天气", "欧洲新闻", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期波兰多地遭遇强对流天气，伴随着雷暴、狂风以及冰雹的威胁。气象部门已发布预警，提醒居民关注实时天气变化并注意出行安全。
-
-**关键信息：**
-- 波兰境内多地出现雷暴及强阵风天气。
-- 气象部门警告局部地区可能会降下冰雹。
-- 建议居民及时通过气象雷达监控风暴动向。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Dzisiaj w Polsce jest niebezpiecznie. Nadchodzi silna burza z gradem. Uważajcie
 注意形容词的性数格变化：'silna burza' (阴性) 中形容词 silna 以 -a 结尾。当名词变为阳性时，形容词会变成 'silny wiatr' (以 -y 结尾)。在描述天气时，这种词尾对应非常关键。
 
 ---
+
+### 🗞️ 中文摘要
+近期波兰多地遭遇强对流天气，伴随着雷暴、狂风以及冰雹的威胁。气象部门已发布预警，提醒居民关注实时天气变化并注意出行安全。
+
+**关键信息：**
+- 波兰境内多地出现雷暴及强阵风天气。
+- 气象部门警告局部地区可能会降下冰雹。
+- 建议居民及时通过气象雷达监控风暴动向。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-niedziele-5-04-mapa-i-radar-burz-st8984468?source=rss](https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-niedziele-5-04-mapa-i-radar-burz-st8984468?source=rss)

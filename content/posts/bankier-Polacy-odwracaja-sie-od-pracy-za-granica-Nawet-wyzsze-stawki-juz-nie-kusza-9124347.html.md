@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "劳动力市场", "职场趋势", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-最新数据显示，波兰国民对出国从事季节性工作的热情逐年下降。过去三年中，相关需求减少了近30%，仅有一成波兰人计划在未来两年内出国谋生。专家分析称，这一趋势的主要原因是波兰本土薪资水平的提高，以及海外生活、交通和住宿成本的不断攀升。此外，求职者对海外的工作环境、住宿条件及语言障碍变得更加敏感。目前，德国、荷兰和瑞士仍是波兰人海外工作的首选目的地，行业多集中在物流、农业及旅游业。
-
-**关键信息：**
-- 波兰人对海外季节性工作的兴趣年均下降约20%。
-- 仅有10%的波兰人考虑在未来两年内出国就业。
-- 国内工资增长与海外生活成本上涨削减了“净收益”。
-- 德国因地理优势和较低的语言门槛，依然是最热门的选择。
-- 荷兰的仓储和园艺行业以及西班牙的酒店餐饮业表现活跃。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Polacy coraz rzadziej szukają pracy za granicą. Zainteresowanie wyjazdami spad
 注意“spadek o...”（下降了...）的用法。在波兰语中，当我们描述数值变化幅度时，使用介词“o”加上第四格（Accusative），例如：spadek o dwadzieścia procent（下降了20%）。如果你想表达“下降到...”，则需使用“do”。
 
 ---
+
+### 🗞️ 中文摘要
+最新数据显示，波兰国民对出国从事季节性工作的热情逐年下降。过去三年中，相关需求减少了近30%，仅有一成波兰人计划在未来两年内出国谋生。专家分析称，这一趋势的主要原因是波兰本土薪资水平的提高，以及海外生活、交通和住宿成本的不断攀升。此外，求职者对海外的工作环境、住宿条件及语言障碍变得更加敏感。目前，德国、荷兰和瑞士仍是波兰人海外工作的首选目的地，行业多集中在物流、农业及旅游业。
+
+**关键信息：**
+- 波兰人对海外季节性工作的兴趣年均下降约20%。
+- 仅有10%的波兰人考虑在未来两年内出国就业。
+- 国内工资增长与海外生活成本上涨削减了“净收益”。
+- 德国因地理优势和较低的语言门槛，依然是最热门的选择。
+- 荷兰的仓储和园艺行业以及西班牙的酒店餐饮业表现活跃。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Polacy-odwracaja-sie-od-pracy-za-granica-Nawet-wyzsze-stawki-juz-nie-kusza-9124347.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polacy-odwracaja-sie-od-pracy-za-granica-Nawet-wyzsze-stawki-juz-nie-kusza-9124347.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

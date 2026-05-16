@@ -5,18 +5,6 @@ categories: ["Health"]
 tags: ["波兰新闻", "食品安全", "生活提醒", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰食品安全部门近日发布紧急预警，宣布全面召回由Kaufland超市销售的“Rolada Ustrzycka”品牌熏奶酪。此前检测显示，该产品部分批次含有单核细胞增生李斯特氏菌，为了保护消费者健康，厂家决定扩大召回范围，涵盖所有批次。目前，生产商已暂停该产品的生产，并配合兽医部门进行全面整改以彻底消除污染。波兰卫生部门建议消费者立即停止食用该产品，如有不适需及时就医。Kaufland超市已将所有库存下架，相关调查工作仍在进行中。
-
-**关键信息：**
-- **召回范围：** Kaufland超市销售的所有批次“Rolada Ustrzycka 400g”熏奶酪。
-- **风险因素：** 产品中检测出单核细胞增生李斯特氏菌，食用可能引发李斯特菌病。
-- **官方建议：** 请立即停止食用已购买的产品，相关症状请及时联系医生。
-- **后续处理：** 生产商已停止供货，并配合当地兽医部门进行环境消杀和生产流程检查。
-- **退货渠道：** 消费者可关注Kaufland官方新闻中心了解退货详情。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Kaufland wycofuje ser wędzony ze sprzedaży. Powodem jest wykrycie bakterii Lis
 注意词组“wycofanie ze sprzedaży”（从销售中召回）。其中的介词“z”要求接二格（Genitive）。在波兰语中，当我们描述从某处移除或取消某物时，通常使用“z”加名词的二格形式（例如：z pracy - 从工作中，ze sklepu - 从商店里）。
 
 ---
+
+### 🗞️ 中文摘要
+波兰食品安全部门近日发布紧急预警，宣布全面召回由Kaufland超市销售的“Rolada Ustrzycka”品牌熏奶酪。此前检测显示，该产品部分批次含有单核细胞增生李斯特氏菌，为了保护消费者健康，厂家决定扩大召回范围，涵盖所有批次。目前，生产商已暂停该产品的生产，并配合兽医部门进行全面整改以彻底消除污染。波兰卫生部门建议消费者立即停止食用该产品，如有不适需及时就医。Kaufland超市已将所有库存下架，相关调查工作仍在进行中。
+
+**关键信息：**
+- **召回范围：** Kaufland超市销售的所有批次“Rolada Ustrzycka 400g”熏奶酪。
+- **风险因素：** 产品中检测出单核细胞增生李斯特氏菌，食用可能引发李斯特菌病。
+- **官方建议：** 请立即停止食用已购买的产品，相关症状请及时联系医生。
+- **后续处理：** 生产商已停止供货，并配合当地兽医部门进行环境消杀和生产流程检查。
+- **退货渠道：** 消费者可关注Kaufland官方新闻中心了解退货详情。
+
+---
+
 > 📰 原文来源：[https://www.gov.pl/web/gis/aktualizacja-ostrzezenia-publicznego-dotyczacego-zywnosci-wycofanie-kolejnych-partii-sera-wedzonego](https://www.gov.pl/web/gis/aktualizacja-ostrzezenia-publicznego-dotyczacego-zywnosci-wycofanie-kolejnych-partii-sera-wedzonego)

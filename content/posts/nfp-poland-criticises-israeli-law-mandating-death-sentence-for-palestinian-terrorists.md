@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["波兰时事", "国际政治", "人权动态", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰政府近日正式发声，对以色列一项提议中的法案表示强烈反对。该法案计划对针对以色列人的巴勒斯坦恐怖分子强制执行死刑，波兰对此表示深切担忧。
-
-**关键信息：**
-- 波兰政府明确反对以色列拟议中的死刑法案。
-- 此法案针对涉嫌恐怖主义活动的巴勒斯坦人。
-- 波兰强调国际人权标准及死刑带来的伦理争议。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Polski rząd krytykuje nowe prawo w Izraelu. Chodzi o karę śmierci dla terrory
 注意 "krytykować" 后面接宾格 (Accusative)。例如 "krytykować prawo" (批评法律)，因为 "prawo" 是中性名词，宾格形式与主格相同，非常适合初学者练习。
 
 ---
+
+### 🗞️ 中文摘要
+波兰政府近日正式发声，对以色列一项提议中的法案表示强烈反对。该法案计划对针对以色列人的巴勒斯坦恐怖分子强制执行死刑，波兰对此表示深切担忧。
+
+**关键信息：**
+- 波兰政府明确反对以色列拟议中的死刑法案。
+- 此法案针对涉嫌恐怖主义活动的巴勒斯坦人。
+- 波兰强调国际人权标准及死刑带来的伦理争议。
+
+---
+
 > 📰 原文来源：[https://notesfrompoland.com/2026/04/02/poland-criticises-israeli-law-mandating-death-sentence-for-palestinian-terrorists/](https://notesfrompoland.com/2026/04/02/poland-criticises-israeli-law-mandating-death-sentence-for-palestinian-terrorists/)

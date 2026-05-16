@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰政坛", "波兰语学习", "欧洲时事", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰执政联盟近日对尤金纽什·克沃波特克（Eugeniusz Kłopotek）提出的立法建议作出了回应。克沃波特克呼吁议会应尽快就某项关键提案进行表决，以应对当前的政治形势。执政联盟内部对此表示谨慎，强调立法过程需要严格遵循程序，不能操之过急。尽管部分成员对提案表示支持，但各党派间仍存在分歧，尚需进一步协商。此事件引发了波兰媒体对执政联盟团结性的广泛讨论。
-
-**关键信息：**
-- 克沃波特克呼吁尽快表决相关议案
-- 执政联盟对提案处理方式存在分歧
-- 政府强调立法程序需严谨周密
-- 议会内部正就提案细节进行磋商
-- 媒体关注联盟的政策协调能力
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Eugeniusz Kłopotek zaapelował o szybkie głosowanie w parlamencie. Koalicja rz
 注意动词“chcieć”（想要）后的用法。它后面必须接不定式（Infinitive），例如“chcą działać”（他们想要行动）。请记住，在波兰语中，当我们表达意愿时，动词变位要与主语保持一致，而第二个动词保持原型即可。
 
 ---
+
+### 🗞️ 中文摘要
+波兰执政联盟近日对尤金纽什·克沃波特克（Eugeniusz Kłopotek）提出的立法建议作出了回应。克沃波特克呼吁议会应尽快就某项关键提案进行表决，以应对当前的政治形势。执政联盟内部对此表示谨慎，强调立法过程需要严格遵循程序，不能操之过急。尽管部分成员对提案表示支持，但各党派间仍存在分歧，尚需进一步协商。此事件引发了波兰媒体对执政联盟团结性的广泛讨论。
+
+**关键信息：**
+- 克沃波特克呼吁尽快表决相关议案
+- 执政联盟对提案处理方式存在分歧
+- 政府强调立法程序需严谨周密
+- 议会内部正就提案细节进行磋商
+- 媒体关注联盟的政策协调能力
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/fakty-artykuly/ustawa-o-statusie-osoby-najblizszej-jak-koalicja-reaguje-na-apel-eugeniusza-klopotka-st9004172?source=rss](https://tvn24.pl/fakty-artykuly/ustawa-o-statusie-osoby-najblizszej-jak-koalicja-reaguje-na-apel-eugeniusza-klopotka-st9004172?source=rss)

@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "突发事件", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰卢布林省发生一起严重的坠机事故，一架Dromader农用飞机在参与灭火行动时坠毁。事故发生时，该飞机正在当地森林火灾现场执行投水灭火任务。不幸的是，机上飞行员在这起意外中丧生。目前，波兰相关部门已启动紧急调查程序，以查明导致飞机坠毁的具体技术故障或环境因素。该地区近期火灾频发，相关部门正加强对航空灭火作业的安全监管。
-
-**关键信息：**
-- 卢布林省发生轻型飞机坠毁事故
-- 事故飞机型号为Dromader农用灭火机
-- 事故导致机上一名飞行员不幸遇难
-- 飞机当时正执行森林灭火紧急任务
-- 官方调查组已介入事故原因调查
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ W województwie lubelskim doszło do tragicznego wypadku lotniczego. Samolot typ
 注意动词“zginąć”（死亡/阵亡）的用法。在波兰语中，描述意外死亡时常用过去时形式“zginął”。它与“umrzeć”（自然死亡）不同，后者通常用于生病或年老离世，而“zginąć”多用于突发事故、战争或暴力事件。
 
 ---
+
+### 🗞️ 中文摘要
+波兰卢布林省发生一起严重的坠机事故，一架Dromader农用飞机在参与灭火行动时坠毁。事故发生时，该飞机正在当地森林火灾现场执行投水灭火任务。不幸的是，机上飞行员在这起意外中丧生。目前，波兰相关部门已启动紧急调查程序，以查明导致飞机坠毁的具体技术故障或环境因素。该地区近期火灾频发，相关部门正加强对航空灭火作业的安全监管。
+
+**关键信息：**
+- 卢布林省发生轻型飞机坠毁事故
+- 事故飞机型号为Dromader农用灭火机
+- 事故导致机上一名飞行员不幸遇难
+- 飞机当时正执行森林灭火紧急任务
+- 官方调查组已介入事故原因调查
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-srode-6-maja-najwazniejsze-informacje-st9033168?source=rss](https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-srode-6-maja-najwazniejsze-informacje-st9033168?source=rss)

@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰房产", "外籍购房", "经济简讯", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰内政部最新报告显示，2025年没有任何俄罗斯公民获得购买波兰房产的特殊许可。相比之下，乌克兰和白俄罗斯公民依然是波兰外籍购房者的主力军。波兰内政部的特殊许可主要针对边境区域或特殊地块，而普通住宅市场对外国人大部分开放。数据表明，尽管地缘政治紧张，外国人在波兰购买房产的总量仍小幅增长了2%。其中，乌克兰人购买的房产面积总和甚至超过了其他所有116个国家外籍人士的总和。
-
-**关键信息：**
-- 2025年俄罗斯公民获得购房许可数量为零。
-- 乌克兰和白俄罗斯是波兰外籍购房者中最活跃的群体。
-- 特殊购房许可仅针对边境区域或特殊性质土地。
-- 俄罗斯公民在非限制区域购买房产的交易量同比下降。
-- 外籍人士在波兰房产市场投资总量同比上涨2%。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Obywatele Rosji nie dostali w 2025 roku zgody na zakup nieruchomości w Polsce. 
 注意名词的“所有格”用法：在表达“……的购买”时，常用“zakup + 第二格 (Genitive)”。例如：zakup nieruchomości (房产的购买)。这里的 nieruchomości 是 nieruchomość 的复数第二格形式。记住 Polish 中的 Genitive 是表达所属关系的核心，在阅读经济新闻时非常常见！
 
 ---
+
+### 🗞️ 中文摘要
+波兰内政部最新报告显示，2025年没有任何俄罗斯公民获得购买波兰房产的特殊许可。相比之下，乌克兰和白俄罗斯公民依然是波兰外籍购房者的主力军。波兰内政部的特殊许可主要针对边境区域或特殊地块，而普通住宅市场对外国人大部分开放。数据表明，尽管地缘政治紧张，外国人在波兰购买房产的总量仍小幅增长了2%。其中，乌克兰人购买的房产面积总和甚至超过了其他所有116个国家外籍人士的总和。
+
+**关键信息：**
+- 2025年俄罗斯公民获得购房许可数量为零。
+- 乌克兰和白俄罗斯是波兰外籍购房者中最活跃的群体。
+- 特殊购房许可仅针对边境区域或特殊性质土地。
+- 俄罗斯公民在非限制区域购买房产的交易量同比下降。
+- 外籍人士在波兰房产市场投资总量同比上涨2%。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Polskie-nieruchomosci-nie-dla-Rosjan-Najwiecej-kupili-Ukraincy-i-Bialorusini-9115049.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polskie-nieruchomosci-nie-dla-Rosjan-Najwiecej-kupili-Ukraincy-i-Bialorusini-9115049.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

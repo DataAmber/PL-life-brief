@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "社会治安", "波兰生活", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，波兰格利维采市发生了一起恶性抢劫案。两名18岁的年轻人以送生日礼物的名义，将一名同龄受害者诱骗至森林中进行殴打和羞辱。施暴者不仅抢走了受害者的电子烟并索要钱财，还全程录像并威胁将视频公开。格利维采警方迅速行动，目前已将两名嫌疑人逮捕。该案已被定性为抢劫，两名被告最高可能面临15年监禁。
-
-**关键信息：**
-- **地点：** 波兰格利维采（Gliwice）。
-- **事件：** 两名18岁青少年诱骗并殴打抢劫同龄人。
-- **手段：** 以送生日礼物为诱饵，将受害者骗至森林。
-- **恶行：** 殴打、羞辱受害者，并威胁发布视频。
-- **后果：** 嫌疑人已落网，面临最高15年监禁处罚。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Dwóch osiemnastolatków zaatakowało swojego kolegę w lesie. Zwabili go z domu
 本课学习“以…为借口”的表达：pod pretekstem + Genitive（二格）。例如：pod pretekstem spotkania（以会面为借口），pod pretekstem pracy（以工作为借口）。记住名词要变成二格形式哦！
 
 ---
+
+### 🗞️ 中文摘要
+近期，波兰格利维采市发生了一起恶性抢劫案。两名18岁的年轻人以送生日礼物的名义，将一名同龄受害者诱骗至森林中进行殴打和羞辱。施暴者不仅抢走了受害者的电子烟并索要钱财，还全程录像并威胁将视频公开。格利维采警方迅速行动，目前已将两名嫌疑人逮捕。该案已被定性为抢劫，两名被告最高可能面临15年监禁。
+
+**关键信息：**
+- **地点：** 波兰格利维采（Gliwice）。
+- **事件：** 两名18岁青少年诱骗并殴打抢劫同龄人。
+- **手段：** 以送生日礼物为诱饵，将受害者骗至森林。
+- **恶行：** 殴打、羞辱受害者，并威胁发布视频。
+- **后果：** 嫌疑人已落网，面临最高15年监禁处罚。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/slask/gliwice-koszmar-18-latka-brutalny-rozboj-w-lesie/t4qfjsw](https://www.fakt.pl/wydarzenia/polska/slask/gliwice-koszmar-18-latka-brutalny-rozboj-w-lesie/t4qfjsw)

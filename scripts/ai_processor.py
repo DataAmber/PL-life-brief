@@ -18,7 +18,7 @@ def summarize_with_ai(title, content, tag, _retry=False):
     {
         "title": "emoji + Chinese title",
         "tags": ["中文tag1", "tag2", "tag3"],
-        "body": "full markdown body with Chinese summary + Polish learning section"
+        "body": "full markdown body with Polish learning section first, then Chinese summary"
     }
     Uses 'gemini-3.1-flash-lite-preview' (Free Tier: 15 RPM).
     """
@@ -36,19 +36,6 @@ Return ONLY a valid JSON object. No markdown fences, no preamble, no explanation
 
 Body format (use this structure exactly):
 
-### 🗞️ 中文摘要
-[4-6 sentence summary in Chinese explaining what happened]
-
-**关键信息：**
-- **key point 1 in Chinese**
-- **key point 2 in Chinese**
-- **key point 3 in Chinese**
-- **key point 4 in Chinese**
-- **key point 5 in Chinese**
-
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -62,7 +49,18 @@ Body format (use this structure exactly):
 - **[Polish phrase]**: [Brief Chinese explanation]
 
 **📝 语法小贴士：**
-[One short tip in Chinese about an interesting Polish grammar point from this article, e.g. case endings, verb conjugation, useful phrase pattern. Keep it practical for A2/B1 learners.]
+[One short tip in Chinese about an interesting Polish grammar point from this article, e.g. case endings, verb conjugation, useful phrase pattern. Keep it practical for A2/B1 lea
+---
+
+### 🗞️ 中文摘要
+[4-6 sentence summary in Chinese explaining what happened]
+
+**关键信息：**
+- **key point 1 in Chinese**
+- **key point 2 in Chinese**
+- **key point 3 in Chinese**
+- **key point 4 in Chinese**
+- **key point 5 in Chinese**
 
 Source Title: {title}
 Source Content: {content[:3500]}

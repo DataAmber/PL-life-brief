@@ -5,16 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "个人理财", "商业洞察", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰私募巨头MidEuropa合伙人Paweł Malicki分享了其投资逻辑，强调通过“蓝海战略”捕捉分散市场的整合机会。他指出，成功的投资不仅看财务报表，更要评估企业的文化、团队潜力和资源整合效率。
-
-**关键信息：**
-- **战略整合：** 通过收购和整合行业内的小型企业，打造全国性市场领先者。
-- **超越报表：** 投资决策不仅依赖数据，还需深入考察法律、竞争力和人力资源等软性指标。
-- **伙伴关系：** 投资过程漫长，核心是验证合作双方是否具备共同愿景及在压力下协作的能力。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Paweł Malicki zarządza wielkimi inwestycjami w Polsce. On szuka okazji w rozpr
 注意名词的格变化：当使用动词 "szukać" (寻找) 时，后面必须接生格 (Genitive)。例如：szukać okazji (szukać + okazji, 阴性名词机会的生格形式)。记住“寻找”目标时，别忘了给名词变格哦！
 
 ---
+
+### 🗞️ 中文摘要
+波兰私募巨头MidEuropa合伙人Paweł Malicki分享了其投资逻辑，强调通过“蓝海战略”捕捉分散市场的整合机会。他指出，成功的投资不仅看财务报表，更要评估企业的文化、团队潜力和资源整合效率。
+
+**关键信息：**
+- **战略整合：** 通过收购和整合行业内的小型企业，打造全国性市场领先者。
+- **超越报表：** 投资决策不仅依赖数据，还需深入考察法律、竞争力和人力资源等软性指标。
+- **伙伴关系：** 投资过程漫长，核心是验证合作双方是否具备共同愿景及在压力下协作的能力。
+
+---
+
 > 📰 原文来源：[https://www.money.pl/firma/buduje-najwieksze-polskie-firmy-ucieczka-do-przodu-i-blekitny-ocean-7271239699949760a.html](https://www.money.pl/firma/buduje-najwieksze-polskie-firmy-ucieczka-do-przodu-i-blekitny-ocean-7271239699949760a.html)

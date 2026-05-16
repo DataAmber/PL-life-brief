@@ -5,19 +5,6 @@ categories: ["Lifestyle"]
 tags: ["华沙生活", "波兰新闻", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-2025年12月，华沙附近的沃沃明（Wołomin）发生了一起惊险的火灾。一名母亲奥尔加和她两岁的女儿被困在浓烟滚滚的阁楼中，退路已被切断。幸运的是，消防员格热戈日（Grzegorz Bazylewicz）在关键时刻挺身而出，通过梯子爬上高处将母女二人成功救出。获救后，年幼的小奥尔加对这位英雄紧紧相拥，场面十分感人。近日，格热戈日因其卓越的勇气和果敢的救援行动，受到了马佐夫舍省省长的嘉奖。
-
-**关键信息：**
-- **事件地点：** 波兰沃沃明（Wołomin）的一栋公寓楼。
-- **紧急情况：** 楼道充满浓烟导致住户无法逃生。
-- **救援英雄：** 消防员格热戈日（Grzegorz Bazylewicz）。
-- **救援手段：** 在电力线路阻碍自动云梯使用的情况下，改用手动梯子成功救人。
-- **社会表彰：** 消防员因英勇表现获得了地方当局的官方荣誉。
-
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -40,4 +27,18 @@ W Wołominie wybuchł groźny pożar. Matka z dwuletnią córką zostały uwięz
 注意动词“uratować”的宾格用法（Accusative）。当你要表达“救某人”时，对象通常使用宾格。例如：“Strażak uratował matkę i córkę”（消防员救了母亲和女儿）。注意名词词尾变化：kobieta 变成 kobietę，córka 变成 córkę。
 
 ---
+
+### 🗞️ 中文摘要
+2025年12月，华沙附近的沃沃明（Wołomin）发生了一起惊险的火灾。一名母亲奥尔加和她两岁的女儿被困在浓烟滚滚的阁楼中，退路已被切断。幸运的是，消防员格热戈日（Grzegorz Bazylewicz）在关键时刻挺身而出，通过梯子爬上高处将母女二人成功救出。获救后，年幼的小奥尔加对这位英雄紧紧相拥，场面十分感人。近日，格热戈日因其卓越的勇气和果敢的救援行动，受到了马佐夫舍省省长的嘉奖。
+
+**关键信息：**
+- **事件地点：** 波兰沃沃明（Wołomin）的一栋公寓楼。
+- **紧急情况：** 楼道充满浓烟导致住户无法逃生。
+- **救援英雄：** 消防员格热戈日（Grzegorz Bazylewicz）。
+- **救援手段：** 在电力线路阻碍自动云梯使用的情况下，改用手动梯子成功救人。
+- **社会表彰：** 消防员因英勇表现获得了地方当局的官方荣誉。
+
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/dramatyczny-pozar-w-wolominie-strazak-uratowal-2-letnia-oliwke-i-jej-mame/pfvqsje](https://www.fakt.pl/wydarzenia/dramatyczny-pozar-w-wolominie-strazak-uratowal-2-letnia-oliwke-i-jej-mame/pfvqsje)

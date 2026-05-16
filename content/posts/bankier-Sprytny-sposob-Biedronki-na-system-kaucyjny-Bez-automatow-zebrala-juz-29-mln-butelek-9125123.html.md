@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "循环经济", "零售创新", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-面对波兰推行押金回收系统的挑战，零售巨头Biedronka联合Mondi推出了一款名为“Recyklobox”的创新环保回收箱。该容器由五层再生瓦楞纸板制成，因其成本低、组装简便，被作为传统自动回收机的有效补充方案。截至今年3月底，全波兰的Biedronka门店已通过这种纸板回收箱成功回收了超过2900万个塑料瓶。尽管最终目标是全面部署自动回收机，但Recyklobox成功解决了设备安装滞后期间的回收难题。消费者只需将瓶子交给店员扫描，即可换取购物抵扣券，这一举措极大地提升了回收效率。
-
-**关键信息：**
-- **创新回收方案**：推出由80%再生材料制成的纸板容器Recyklobox。
-- **高效运营成果**：至3月底，已成功收集超过2900万个塑料瓶。
-- **成本与灵活性优势**：比自动化设备更便宜、安装更便捷，适用于物流受限的门店。
-- **回收奖励机制**：店员通过人工扫描瓶子，为消费者提供购物优惠凭证。
-- **应对转型挑战**：在全波兰3800多家门店中作为过渡期方案，应对自动回收机安装进度缓慢的问题。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Biedronka wprowadziła innowacyjne pudełka na butelki. Nazywają się one Recyk
 注意本文中的“zrobione z tektury”（由纸板制成）。这里介词“z”要求使用生格（Genitive）。在B1阶段，请牢记：当谈论某物由什么材料构成时，使用“być zrobionym z + Genitive”，例如“zrobiony z plastiku”（由塑料制成）或“zrobiony z metalu”（由金属制成）。
 
 ---
+
+### 🗞️ 中文摘要
+面对波兰推行押金回收系统的挑战，零售巨头Biedronka联合Mondi推出了一款名为“Recyklobox”的创新环保回收箱。该容器由五层再生瓦楞纸板制成，因其成本低、组装简便，被作为传统自动回收机的有效补充方案。截至今年3月底，全波兰的Biedronka门店已通过这种纸板回收箱成功回收了超过2900万个塑料瓶。尽管最终目标是全面部署自动回收机，但Recyklobox成功解决了设备安装滞后期间的回收难题。消费者只需将瓶子交给店员扫描，即可换取购物抵扣券，这一举措极大地提升了回收效率。
+
+**关键信息：**
+- **创新回收方案**：推出由80%再生材料制成的纸板容器Recyklobox。
+- **高效运营成果**：至3月底，已成功收集超过2900万个塑料瓶。
+- **成本与灵活性优势**：比自动化设备更便宜、安装更便捷，适用于物流受限的门店。
+- **回收奖励机制**：店员通过人工扫描瓶子，为消费者提供购物优惠凭证。
+- **应对转型挑战**：在全波兰3800多家门店中作为过渡期方案，应对自动回收机安装进度缓慢的问题。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Sprytny-sposob-Biedronki-na-system-kaucyjny-Bez-automatow-zebrala-juz-29-mln-butelek-9125123.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Sprytny-sposob-Biedronki-na-system-kaucyjny-Bez-automatow-zebrala-juz-29-mln-butelek-9125123.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

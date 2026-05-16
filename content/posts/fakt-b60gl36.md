@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰生活", "格丁尼亚", "寻物启事", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-一名路人在波兰格丁尼亚市街头发现了一张珍贵的老照片，照片中展示了一个家庭的合影。由于照片上的一名男子身穿制服，路人将其送往了当地的边防警卫队。警方推测，这张照片可能是某人在路过时因风吹而意外掉落的。目前，边防警卫队正在社交媒体上呼吁公众协助寻找失主，希望能将这份珍贵的家族记忆归还。若有线索，民众可直接联系格丁尼亚边防警卫队。
-
-**关键信息：**
-- 发现地点：波兰格丁尼亚市中心十字路口。
-- 照片内容：一张黑白老照片，内容为一家人合影。
-- 关键线索：照片中有人身穿制服，疑似与边防工作有关。
-- 目前进展：照片暂时由边防警卫队保管，正公开寻主。
-- 联络方式：已知情者可致电 58 524 20 10（周一至周五）。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Na chodniku w Gdyni znaleziono starą fotografię. Zdjęcie przedstawia rodzinę
 注意句中“Straż Graniczna”一词，在 Polish 语法中，这是阴性单数名词。当我们说“寻找失主”时，动词 szukać 要求使用“属格 (Genitive)”，即 szukać kogo? czego? -> szukać właściciel**a** (注意词尾 a 的变化)。
 
 ---
+
+### 🗞️ 中文摘要
+一名路人在波兰格丁尼亚市街头发现了一张珍贵的老照片，照片中展示了一个家庭的合影。由于照片上的一名男子身穿制服，路人将其送往了当地的边防警卫队。警方推测，这张照片可能是某人在路过时因风吹而意外掉落的。目前，边防警卫队正在社交媒体上呼吁公众协助寻找失主，希望能将这份珍贵的家族记忆归还。若有线索，民众可直接联系格丁尼亚边防警卫队。
+
+**关键信息：**
+- 发现地点：波兰格丁尼亚市中心十字路口。
+- 照片内容：一张黑白老照片，内容为一家人合影。
+- 关键线索：照片中有人身穿制服，疑似与边防工作有关。
+- 目前进展：照片暂时由边防警卫队保管，正公开寻主。
+- 联络方式：已知情者可致电 58 524 20 10（周一至周五）。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/trojmiasto/znalazl-na-chodniku-w-gdyni-stare-zdjecie-straz-graniczna-szuka-wlasciciela/b60gl36](https://www.fakt.pl/wydarzenia/polska/trojmiasto/znalazl-na-chodniku-w-gdyni-stare-zdjecie-straz-graniczna-szuka-wlasciciela/b60gl36)

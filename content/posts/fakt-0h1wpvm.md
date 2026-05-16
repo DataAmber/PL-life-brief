@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰生活", "搜救犬", "暖心故事", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰新松奇（Nowy Sącz）特别救援小组近日沉痛宣布，他们的搜救犬伙伴Dragon因病离世，年仅6岁。Dragon生前不仅是出色的搜救队员，曾参与多次野外及废墟搜救任务，更是队员们心中不可替代的朋友。救援队通过社交媒体发文悼念，称赞它忠诚勇敢、工作充满热情。这段人犬之间的深厚羁绊，成为了整个救援团队宝贵的精神财富。尽管它离开了，但它留下的勇敢身影和贡献将永远被人们铭记。
-
-**关键信息：**
-- **波兰新松奇特别救援小组的一只搜救犬Dragon因病去世。**
-- **Dragon年仅6岁，在岗位上展现了极高的专业素养。**
-- **它擅长野外搜救和倒塌建筑物内的搜救工作。**
-- **救援队将其视为家人，高度评价了它的勇敢与忠诚。**
-- **团队成员向Dragon的训导员表示了慰问与支持。**
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Dragon był wyjątkowym psem ratowniczym z Nowego Sącza. Miał tylko sześć la
 注意“z”或“od”后面接的格。在描述“与……一起”或“从……离开”时，常涉及第二格（Genitive，如 od nas）或工具格（Instrumental）。本句中的“z chorobą”使用工具格，表示“与疾病（为伴）斗争”。
 
 ---
+
+### 🗞️ 中文摘要
+波兰新松奇（Nowy Sącz）特别救援小组近日沉痛宣布，他们的搜救犬伙伴Dragon因病离世，年仅6岁。Dragon生前不仅是出色的搜救队员，曾参与多次野外及废墟搜救任务，更是队员们心中不可替代的朋友。救援队通过社交媒体发文悼念，称赞它忠诚勇敢、工作充满热情。这段人犬之间的深厚羁绊，成为了整个救援团队宝贵的精神财富。尽管它离开了，但它留下的勇敢身影和贡献将永远被人们铭记。
+
+**关键信息：**
+- **波兰新松奇特别救援小组的一只搜救犬Dragon因病去世。**
+- **Dragon年仅6岁，在岗位上展现了极高的专业素养。**
+- **它擅长野外搜救和倒塌建筑物内的搜救工作。**
+- **救援队将其视为家人，高度评价了它的勇敢与忠诚。**
+- **团队成员向Dragon的训导员表示了慰问与支持。**
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/krakow/byl-taki-mlody-psi-ratownik-dragon-odszedl-po-walce-z-choroba/0h1wpvm](https://www.fakt.pl/wydarzenia/polska/krakow/byl-taki-mlody-psi-ratownik-dragon-odszedl-po-walce-z-choroba/0h1wpvm)

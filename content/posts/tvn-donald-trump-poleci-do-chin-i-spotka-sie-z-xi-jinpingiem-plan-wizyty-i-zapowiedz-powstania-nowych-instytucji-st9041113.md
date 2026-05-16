@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["国际新闻", "特朗普", "美中关系", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期有关美国前总统特朗普可能访问中国的消息引发了各界广泛讨论。白宫方面对此做出了回应，就访问的可能性及具体行程细节进行了说明。此举被视为美中外交关系中的重要风向标，相关动向受到国际媒体的高度关注。目前，双方尚未公布具体的日程安排，但此次潜在的访问对于理解未来美中互动模式具有重要意义。专家分析认为，任何高级别互动都将影响全球地缘政治格局。
-
-**关键信息：**
-- 特朗普近期可能访华的消息引发国际舆论关注
-- 白宫针对此次潜在访问发表了官方说明
-- 目前具体行程及访问细节尚未完全确定
-- 此事被视为影响美中关系的重要信号
-- 国际社会密切观察双方后续的外交动态
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Donald Trump planuje wizytę w Chinach. Biały Dom komentuje tę sprawę w media
 注意名词的格变化：在“wizytę w Chinach”中，wizyta受planować支配变为宾格（Biernik），而Chiny作为复数地理名称，在表示位置时使用地点格（Miejscownik）并变为Chinch。
 
 ---
+
+### 🗞️ 中文摘要
+近期有关美国前总统特朗普可能访问中国的消息引发了各界广泛讨论。白宫方面对此做出了回应，就访问的可能性及具体行程细节进行了说明。此举被视为美中外交关系中的重要风向标，相关动向受到国际媒体的高度关注。目前，双方尚未公布具体的日程安排，但此次潜在的访问对于理解未来美中互动模式具有重要意义。专家分析认为，任何高级别互动都将影响全球地缘政治格局。
+
+**关键信息：**
+- 特朗普近期可能访华的消息引发国际舆论关注
+- 白宫针对此次潜在访问发表了官方说明
+- 目前具体行程及访问细节尚未完全确定
+- 此事被视为影响美中关系的重要信号
+- 国际社会密切观察双方后续的外交动态
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/biznes/ze-swiata/donald-trump-poleci-do-chin-i-spotka-sie-z-xi-jinpingiem-plan-wizyty-i-zapowiedz-powstania-nowych-instytucji-st9041113?source=rss](https://tvn24.pl/biznes/ze-swiata/donald-trump-poleci-do-chin-i-spotka-sie-z-xi-jinpingiem-plan-wizyty-i-zapowiedz-powstania-nowych-instytucji-st9041113?source=rss)

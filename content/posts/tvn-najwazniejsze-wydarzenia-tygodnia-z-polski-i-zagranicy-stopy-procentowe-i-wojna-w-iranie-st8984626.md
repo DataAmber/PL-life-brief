@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰经济", "利率政策", "国际局势", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-本周波兰国内关注重点集中在货币政策的走向与地缘政治冲突对经济的影响。波兰货币政策委员会持续评估通胀压力，市场对利率决策保持高度敏感。与此同时，伊朗局势升级引发了全球能源价格的波动，直接冲击波兰的燃料市场与进口成本。专家警告，若地缘冲突进一步恶化，波兰家庭的供暖和交通支出恐将面临上涨压力。投资者正密切监测波兰央行关于维持利率不变的信号，以应对复杂的国际宏观经济环境。
-
-**关键信息：**
-- 波兰货币政策委员会正在审议利率变动建议。
-- 伊朗局势导致中东地区地缘风险显著上升。
-- 能源价格波动直接影响波兰的通胀预期。
-- 专家建议民众关注能源账单与燃料价格变化。
-- 市场避险情绪升温，波兰金融环境面临挑战。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Komisja polityki pieniężnej analizuje sytuację ekonomiczną. Stopy procentowe
 注意 "wpływać na coś" 的用法。介词 "na" 后接名词的宾格（Accusative）。例如：Sytuacja wpływa na ceny (ceny是cena的复数宾格)。这是描述因果关系时的必备句型。
 
 ---
+
+### 🗞️ 中文摘要
+本周波兰国内关注重点集中在货币政策的走向与地缘政治冲突对经济的影响。波兰货币政策委员会持续评估通胀压力，市场对利率决策保持高度敏感。与此同时，伊朗局势升级引发了全球能源价格的波动，直接冲击波兰的燃料市场与进口成本。专家警告，若地缘冲突进一步恶化，波兰家庭的供暖和交通支出恐将面临上涨压力。投资者正密切监测波兰央行关于维持利率不变的信号，以应对复杂的国际宏观经济环境。
+
+**关键信息：**
+- 波兰货币政策委员会正在审议利率变动建议。
+- 伊朗局势导致中东地区地缘风险显著上升。
+- 能源价格波动直接影响波兰的通胀预期。
+- 专家建议民众关注能源账单与燃料价格变化。
+- 市场避险情绪升温，波兰金融环境面临挑战。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/biznes/pieniadze/najwazniejsze-wydarzenia-tygodnia-z-polski-i-zagranicy-stopy-procentowe-i-wojna-w-iranie-st8984626?source=rss](https://tvn24.pl/biznes/pieniadze/najwazniejsze-wydarzenia-tygodnia-z-polski-i-zagranicy-stopy-procentowe-i-wojna-w-iranie-st8984626?source=rss)

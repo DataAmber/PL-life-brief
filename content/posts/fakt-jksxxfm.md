@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "森林火灾", "卢布林", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰卢布林省发生严重森林火灾，过火面积已达100公顷。受气流影响，火势呈现“跳跃式”蔓延，给扑救工作带来极大困难。目前已有超过300名消防员投入战斗，并动用了飞机进行空中灭火。相关部门表示，针叶林火灾且处于“树冠火”状态，导致火情极难控制。受火灾影响，部分省道交通被迫封闭，但目前暂无居民住宅受威胁的报告。
-
-**关键信息：**
-- **过火面积已达100公顷**
-- **火势通过热气流扩散，难以扑灭**
-- **超过300名消防员参与救援行动**
-- **省道DW 849路段已全面封闭**
-- **火灾目前未威胁到周边民宅**
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Pożar lasu w województwie lubelskim jest bardzo groźny. Ogień zajmuje już s
 注意“lasu”和“strażaków”。波兰语中名词后的变化（变格）非常重要，在这里“lasu”是“las”的属格（Genetivus），表示从属关系，即“森林的火灾”。而“strażaków”是“strażak”的属格复数，形容数量时（如300名消防员）需要使用该变格。学习B1级时，熟练掌握常用词的属格变法是突破口。
 
 ---
+
+### 🗞️ 中文摘要
+波兰卢布林省发生严重森林火灾，过火面积已达100公顷。受气流影响，火势呈现“跳跃式”蔓延，给扑救工作带来极大困难。目前已有超过300名消防员投入战斗，并动用了飞机进行空中灭火。相关部门表示，针叶林火灾且处于“树冠火”状态，导致火情极难控制。受火灾影响，部分省道交通被迫封闭，但目前暂无居民住宅受威胁的报告。
+
+**关键信息：**
+- **过火面积已达100公顷**
+- **火势通过热气流扩散，难以扑灭**
+- **超过300名消防员参与救援行动**
+- **省道DW 849路段已全面封闭**
+- **火灾目前未威胁到周边民宅**
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/lublin/dramatyczna-walka-z-ogniem-pod-lukowa-blyskawicznie-sie-rozprzestrzenia/jksxxfm](https://www.fakt.pl/wydarzenia/polska/lublin/dramatyczna-walka-z-ogniem-pod-lukowa-blyskawicznie-sie-rozprzestrzenia/jksxxfm)

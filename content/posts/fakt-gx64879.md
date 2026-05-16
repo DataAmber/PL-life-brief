@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["意大利新闻", "社会治安", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近日，一名47岁的男子Giacomo Bongiorni在意大利马萨市中心不幸遇害。事件起因于该男子要求一群醉酒青年清理打碎的瓶子，随后遭到这群年轻人的疯狂围殴。整个袭击过程仅持续了约30秒，男子在妻子和11岁儿子的注视下被殴打致死。目前，当地警方已逮捕了三名涉案嫌疑人，其中包括一名未成年人。死者的家人对此悲剧深感震惊与绝望，当地民众也纷纷在事发地点献花悼念。
-
-**关键信息：**
-- 47岁受害者Giacomo Bongiorni在意大利马萨市中心被殴致死
-- 起因为受害者提醒醉酒青年清理碎瓶子，引发冲突
-- 袭击过程极其短暂且残忍，受害者头部遭持续重击
-- 遇害者11岁的儿子目睹了父亲死亡的全过程
-- 警方已逮捕三名涉案青年，包括两名成年人与一名未成年人
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Czterdziestosiedmioletni mężczyzna zginął we Włoszech. Zwrócił uwagę gru
 注意文中出现的“zginął na oczach swojego syna”。其中“swojego”是反身所有格代词（swój, swoja, swoje），当主语与所属对象为同一人时使用。例如：他说他的（自己的）儿子，要用“swojego syna”，而不能用“jego syna”。
 
 ---
+
+### 🗞️ 中文摘要
+近日，一名47岁的男子Giacomo Bongiorni在意大利马萨市中心不幸遇害。事件起因于该男子要求一群醉酒青年清理打碎的瓶子，随后遭到这群年轻人的疯狂围殴。整个袭击过程仅持续了约30秒，男子在妻子和11岁儿子的注视下被殴打致死。目前，当地警方已逮捕了三名涉案嫌疑人，其中包括一名未成年人。死者的家人对此悲剧深感震惊与绝望，当地民众也纷纷在事发地点献花悼念。
+
+**关键信息：**
+- 47岁受害者Giacomo Bongiorni在意大利马萨市中心被殴致死
+- 起因为受害者提醒醉酒青年清理碎瓶子，引发冲突
+- 袭击过程极其短暂且残忍，受害者头部遭持续重击
+- 遇害者11岁的儿子目睹了父亲死亡的全过程
+- 警方已逮捕三名涉案青年，包括两名成年人与一名未成年人
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/swiat/wlochy-smiertelne-pobicie-47-latka-zginal-na-oczach-syna/gx64879](https://www.fakt.pl/wydarzenia/swiat/wlochy-smiertelne-pobicie-47-latka-zginal-na-oczach-syna/gx64879)

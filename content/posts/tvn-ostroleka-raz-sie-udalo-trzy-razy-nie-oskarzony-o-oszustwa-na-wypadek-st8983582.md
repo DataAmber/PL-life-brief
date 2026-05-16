@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰社会", "犯罪新闻", "反诈提醒", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，一名男子因涉嫌参与冒充警察的电话诈骗案被波兰警方逮捕。该男子在华沙地区负责接收受害者交给的现金，总额达数万兹罗提。据报道，受害者是一名年长的女性，她误以为正在配合警方进行所谓的“银行账户保护”。目前，嫌疑人已被羁押，并将面临最高8年的监禁处罚。警方再次提醒市民，任何警察都不会通过电话要求转账或交出现金。
-
-**关键信息：**
-- 嫌疑人冒充警察进行电信诈骗
-- 受害者为一名年长女性并损失惨重
-- 嫌疑人负责线下接取受害者的现金
-- 警方已将其抓获并提起刑事诉讼
-- 犯罪嫌疑人面临最高8年有期徒刑
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Oszust zadzwonił do starszej kobiety i podał się za policjanta. Powiedział, 
 注意句中的“grozi mu...”结构。在波兰语中，当我们说“某人面临（惩罚）”时，使用动词 grozić，后面接与格（Celownik），例如：grozi mu kara（他面临惩罚）。
 
 ---
+
+### 🗞️ 中文摘要
+近期，一名男子因涉嫌参与冒充警察的电话诈骗案被波兰警方逮捕。该男子在华沙地区负责接收受害者交给的现金，总额达数万兹罗提。据报道，受害者是一名年长的女性，她误以为正在配合警方进行所谓的“银行账户保护”。目前，嫌疑人已被羁押，并将面临最高8年的监禁处罚。警方再次提醒市民，任何警察都不会通过电话要求转账或交出现金。
+
+**关键信息：**
+- 嫌疑人冒充警察进行电信诈骗
+- 受害者为一名年长女性并损失惨重
+- 嫌疑人负责线下接取受害者的现金
+- 警方已将其抓获并提起刑事诉讼
+- 犯罪嫌疑人面临最高8年有期徒刑
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnwarszawa/okolice/ostroleka-raz-sie-udalo-trzy-razy-nie-oskarzony-o-oszustwa-na-wypadek-st8983582?source=rss](https://tvn24.pl/tvnwarszawa/okolice/ostroleka-raz-sie-udalo-trzy-razy-nie-oskarzony-o-oszustwa-na-wypadek-st8983582?source=rss)

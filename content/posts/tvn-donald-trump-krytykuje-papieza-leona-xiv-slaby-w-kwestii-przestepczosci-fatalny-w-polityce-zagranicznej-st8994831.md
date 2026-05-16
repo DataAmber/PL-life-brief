@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["国际政坛", "特朗普", "梵蒂冈", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-美国前总统特朗普近日在接受媒体采访时，对教皇方济各提出了严厉批评。特朗普直言不讳地表示，教皇在外交政策处理上表现得非常糟糕。他特别提到，教皇在处理某些国际争端时缺乏远见。这一言论在国际政坛引发了广泛的讨论和争议。目前，梵蒂冈方面尚未对此发表正式回应。此番言论再次凸显了特朗普一贯的强硬外交立场。
-
-**关键信息：**
-- 特朗普指责教皇的外交政策极其失败
-- 两人在国际政治观点上存在严重分歧
-- 特朗普强调其个人外交风格的不同
-- 此言论引起了国际媒体的高度关注
-- 梵蒂冈暂未对此次批评作出评论
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Donald Trump udzielił wywiadu dla mediów. Skrytykował papieża Franciszka za 
 本课重点关注“radzić sobie z”这一词组。其中“sobie”是反身代词，而介词“z”要求后接工具格（Instrumental Case）。例如：“radzić sobie z problemem”（处理问题），注意“problem”变为“problemem”。
 
 ---
+
+### 🗞️ 中文摘要
+美国前总统特朗普近日在接受媒体采访时，对教皇方济各提出了严厉批评。特朗普直言不讳地表示，教皇在外交政策处理上表现得非常糟糕。他特别提到，教皇在处理某些国际争端时缺乏远见。这一言论在国际政坛引发了广泛的讨论和争议。目前，梵蒂冈方面尚未对此发表正式回应。此番言论再次凸显了特朗普一贯的强硬外交立场。
+
+**关键信息：**
+- 特朗普指责教皇的外交政策极其失败
+- 两人在国际政治观点上存在严重分歧
+- 特朗普强调其个人外交风格的不同
+- 此言论引起了国际媒体的高度关注
+- 梵蒂冈暂未对此次批评作出评论
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/donald-trump-krytykuje-papieza-leona-xiv-slaby-w-kwestii-przestepczosci-fatalny-w-polityce-zagranicznej-st8994831?source=rss](https://tvn24.pl/swiat/donald-trump-krytykuje-papieza-leona-xiv-slaby-w-kwestii-przestepczosci-fatalny-w-polityce-zagranicznej-st8994831?source=rss)

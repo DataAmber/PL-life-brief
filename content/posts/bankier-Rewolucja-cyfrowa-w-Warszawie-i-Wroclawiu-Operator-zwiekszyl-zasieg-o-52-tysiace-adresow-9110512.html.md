@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "网络基建", "数字化", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰光纤运营商Polski Światłowód Otwarty (PŚO)近日宣布，其网络覆盖范围在三月份实现了大幅增长。该公司通过扩展和技术升级，为约5.2万户家庭提供了接入条件。其中，华沙、弗罗茨瓦夫和罗兹是新增用户最多的城市。此外，运营商还将大量旧版HFC网络升级为更先进的FTTH光纤到户技术。目前，该公司的网络已覆盖波兰超过450万户家庭，旨在通过开放式接入模式进一步提升全国数字化水平。
-
-**关键信息：**
-- PŚO单月新增5.2万户家庭网络覆盖
-- 华沙、弗罗茨瓦夫、罗兹覆盖增幅最大
-- 重点推进HFC网络向FTTH光纤技术升级
-- 积极参与欧盟数字化发展专项资金项目
-- 公司目标是将FTTH覆盖范围扩大至600万户
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Operator Polski Światłowód Otwarty zwiększył zasięg swojej sieci. W marcu 
 注意名词词尾变化。例如“52 tysiące”（5.2万），在波兰语中，数字2、3、4及其复合形式（如22, 34）后接名词复数主格，而5以上的数字（50, 100等）通常要求接名词的属格（Genitive），例如文中提到的“52 tysiące gospodarstw”（52千个家庭户，gospodarstw是gospodarstwo的复数属格）。
 
 ---
+
+### 🗞️ 中文摘要
+波兰光纤运营商Polski Światłowód Otwarty (PŚO)近日宣布，其网络覆盖范围在三月份实现了大幅增长。该公司通过扩展和技术升级，为约5.2万户家庭提供了接入条件。其中，华沙、弗罗茨瓦夫和罗兹是新增用户最多的城市。此外，运营商还将大量旧版HFC网络升级为更先进的FTTH光纤到户技术。目前，该公司的网络已覆盖波兰超过450万户家庭，旨在通过开放式接入模式进一步提升全国数字化水平。
+
+**关键信息：**
+- PŚO单月新增5.2万户家庭网络覆盖
+- 华沙、弗罗茨瓦夫、罗兹覆盖增幅最大
+- 重点推进HFC网络向FTTH光纤技术升级
+- 积极参与欧盟数字化发展专项资金项目
+- 公司目标是将FTTH覆盖范围扩大至600万户
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Rewolucja-cyfrowa-w-Warszawie-i-Wroclawiu-Operator-zwiekszyl-zasieg-o-52-tysiace-adresow-9110512.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rewolucja-cyfrowa-w-Warszawie-i-Wroclawiu-Operator-zwiekszyl-zasieg-o-52-tysiace-adresow-9110512.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

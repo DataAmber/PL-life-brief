@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "弗罗茨瓦夫", "社会治安", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-本周三上午，波兰弗罗茨瓦夫市发生了一起针对运钞车的抢劫事件。劫匪在Pereca街撞击运钞车后，成功抢走车内现金并逃离现场。警方目前已展开紧急搜捕行动，但暂未公布劫匪人数及车辆特征。值得庆幸的是，事件中没有造成任何人员伤亡，包括押运人员和路人。目前警方正在调查案件细节，尚未透露被盗的具体金额。
-
-**关键信息：**
-- **地点：** 波兰弗罗茨瓦夫 (Wrocław)，Pereca街
-- **事件：** 运钞车遭到拦截并被抢走现金
-- **伤亡情况：** 无人受伤
-- **警方状态：** 正在进行大规模搜捕 (obława)
-- **未公开信息：** 劫匪人数、逃逸车辆及被盗金额暂未对外公布
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ We Wrocławiu doszło do napadu na konwój z pieniędzmi. Sprawcy uderzyli w poj
 本篇新闻频繁使用“Napad na + 宾格（Accusative）”。在波兰语中，表示“袭击/抢劫某物”时，介词“na”后面通常接宾格。例如：napad na bank (抢银行)，napad na konwój (抢运钞车)。这是一个在B1阅读中非常常见的结构，请记住介词na搭配宾格表示目标的用法。
 
 ---
+
+### 🗞️ 中文摘要
+本周三上午，波兰弗罗茨瓦夫市发生了一起针对运钞车的抢劫事件。劫匪在Pereca街撞击运钞车后，成功抢走车内现金并逃离现场。警方目前已展开紧急搜捕行动，但暂未公布劫匪人数及车辆特征。值得庆幸的是，事件中没有造成任何人员伤亡，包括押运人员和路人。目前警方正在调查案件细节，尚未透露被盗的具体金额。
+
+**关键信息：**
+- **地点：** 波兰弗罗茨瓦夫 (Wrocław)，Pereca街
+- **事件：** 运钞车遭到拦截并被抢走现金
+- **伤亡情况：** 无人受伤
+- **警方状态：** 正在进行大规模搜捕 (obława)
+- **未公开信息：** 劫匪人数、逃逸车辆及被盗金额暂未对外公布
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/wroclaw/wroclaw-napad-na-konwoj-z-gotowka-policja-sciga-sprawcow/l1ex9hr](https://www.fakt.pl/wydarzenia/polska/wroclaw/wroclaw-napad-na-konwoj-z-gotowka-policja-sciga-sprawcow/l1ex9hr)

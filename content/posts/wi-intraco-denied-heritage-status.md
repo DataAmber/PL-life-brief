@@ -5,16 +5,6 @@ categories: ["Lifestyle"]
 tags: ["华沙生活", "城市规划", "波兰新闻", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-华沙标志性建筑Intraco大楼近期被文物保护部门否决了历史古迹地位，这意味着其拆除计划扫清了重要障碍。大楼业主计划将其拆除，并拟于2030年前兴建一座更现代、节能的办公大楼。
-
-**关键信息：**
-- 华沙Intraco大楼申请文物保护失败。
-- 专家认定该建筑已失去原有的艺术和历史价值。
-- 业主计划拆除旧楼，建设全新的23层节能大楼。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Budynek Intraco w Warszawie nie będzie zabytkiem. Właściciel planuje rozbiór
 注意 "Na jego miejscu" 的用法。介词 "na" 后加地点名词，表示“在某处”。这里的 "miejscu" 是 "miejsce" (地点) 的第六格形式，出现在方位表达中非常高频，建议掌握。
 
 ---
+
+### 🗞️ 中文摘要
+华沙标志性建筑Intraco大楼近期被文物保护部门否决了历史古迹地位，这意味着其拆除计划扫清了重要障碍。大楼业主计划将其拆除，并拟于2030年前兴建一座更现代、节能的办公大楼。
+
+**关键信息：**
+- 华沙Intraco大楼申请文物保护失败。
+- 专家认定该建筑已失去原有的艺术和历史价值。
+- 业主计划拆除旧楼，建设全新的23层节能大楼。
+
+---
+
 > 📰 原文来源：[https://warsawinsider.pl/intraco-denied-heritage-status/](https://warsawinsider.pl/intraco-denied-heritage-status/)

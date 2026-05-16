@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["突发新闻", "波兰社会", "航空安全", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，波兰发生一起令人痛心的航空事故，一名飞行员在执行飞行任务时不幸坠机身亡。相关部门迅速介入调查，目前事故原因尚在核实中。波兰航空界对此深表哀悼，许多飞行员和民众通过社交媒体表达了对逝者的缅怀。事故现场已被封锁，有关单位正在清理残骸。我们将持续关注调查进展，为遇难者家庭提供支持。空军及民航部门提醒所有从业人员务必严格遵守安全规程。
-
-**关键信息：**
-- 波兰一名飞行员在坠机事故中不幸遇难。
-- 当局已启动针对该事故的技术调查程序。
-- 航空界各方通过“Blue skies”表达哀悼。
-- 目前事故发生的具体区域及原因尚未正式公布。
-- 官方已向遇难者家属表达了深切的慰问。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ W Polsce doszło do tragicznego wypadku lotniczego. Pilot zginął na miejscu po
 在表达“处于某种状态”时，波兰语常用“być + 属格(Genitive)”结构，例如文中出现的“pogrążony w smutku”。注意“w”后面跟方位格（Locative），如“w smutku”，这是一个描述情感状态的典型搭配。建议练习时多积累形容词+w+名词的结构。
 
 ---
+
+### 🗞️ 中文摘要
+近期，波兰发生一起令人痛心的航空事故，一名飞行员在执行飞行任务时不幸坠机身亡。相关部门迅速介入调查，目前事故原因尚在核实中。波兰航空界对此深表哀悼，许多飞行员和民众通过社交媒体表达了对逝者的缅怀。事故现场已被封锁，有关单位正在清理残骸。我们将持续关注调查进展，为遇难者家庭提供支持。空军及民航部门提醒所有从业人员务必严格遵守安全规程。
+
+**关键信息：**
+- 波兰一名飞行员在坠机事故中不幸遇难。
+- 当局已启动针对该事故的技术调查程序。
+- 航空界各方通过“Blue skies”表达哀悼。
+- 目前事故发生的具体区域及原因尚未正式公布。
+- 官方已向遇难者家属表达了深切的慰问。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/polska/lotniskowa-sluzba-informacji-powietrznej-z-glebokim-smutkiem-przyjelismy-informacje-o-smiertelnym-wypadku-dromadera-st9033124?source=rss](https://tvn24.pl/polska/lotniskowa-sluzba-informacji-powietrznej-z-glebokim-smutkiem-przyjelismy-informacje-o-smiertelnym-wypadku-dromadera-st9033124?source=rss)

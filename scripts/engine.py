@@ -42,6 +42,33 @@ def extract_polish_listening_text(markdown_body):
 
     return None
 
+def ensure_polish_section_first(markdown_body):
+    """
+    Ensure the Polish learning section appears before the Chinese summary block.
+    This is a safeguard in case the AI output order is inconsistent.
+    """
+    polish_marker = "### 🇵🇱 波兰语学习"
+    summary_marker = "### 🗞️ 中文摘要"
+
+    if polish_marker not in markdown_body or summary_marker not in markdown_body:
+        return markdown_body
+
+    idx_polish = markdown_body.index(polish_marker)
+    idx_summary = markdown_body.index(summary_marker)
+    if idx_polish < idx_summary:
+        return markdown_body
+
+    match = re.search(r"\n---\n", markdown_body[idx_polish:])
+    if not match:
+        return markdown_body
+
+    end = idx_polish + match.end()
+    polish_block = markdown_body[idx_polish:end]
+    remaining = markdown_body[:idx_polish] + markdown_body[end:]
+    idx_summary = remaining.index(summary_marker)
+    return remaining[:idx_summary] + polish_block + "\n" + remaining[idx_summary:]
+
+
 def generate_audio(polish_text, audio_path):
     """
     Generate Polish audio file using gTTS.
@@ -153,6 +180,8 @@ def save_post(path, body, meta):
                 print(f"  ⚠ Could not find listening text section to embed audio")
     else:
         print(f"  ⚠ No Polish listening text found in post")
+
+    body = ensure_polish_section_first(body)
 
     header = f"""---
 title: "{meta['title']}"

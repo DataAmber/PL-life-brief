@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "银行排名", "金融资讯", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-2026年“金银行”（Złoty Bankier）排行榜正式发布，Bank Millennium 连续两年蝉联冠军，在服务质量和效率上再次领跑市场。Santander 和 PKO Bank Polski 分别稳居第二和第三名，维持了领先梯队的格局。本次排名出现了一些显著变动，VeloBank 表现突出，排名大幅跃升至第五位。mBank 在经历两年的低谷后重回上升轨道，服务质量明显改善。相比之下，BNP Paribas 和 Pekao 的排名有所下滑，主要受限于分支机构的服务组织和客户响应速度。
-
-**关键信息：**
-- Bank Millennium 凭借卓越的电话客服和柜面效率连续两年夺冠。
-- Santander 紧随其后，与冠军保持极小的竞争差距。
-- VeloBank 实现逆袭，从第9名跃升至第5名，显示出内部经营的稳健。
-- mBank 成功摆脱低谷，服务水平重回正轨，在物理网点表现尤为出色。
-- 部分大型银行如 Pekao 因网点组织和服务主动性不足，导致整体名次下滑。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Bank Millennium ponownie zdobył tytuł najlepszego banku. Obsługa klienta w ty
 本篇提到 "drugi raz z rzędu"。在波兰语中，序数词 "drugi" (第二) 必须与后面的名词 "raz" (次/回) 在性、数、格上保持一致。注意 "z rzędu" 是一个固定搭配，意为“连续地”，非常适合在描述业务增长或排名变化时使用。
 
 ---
+
+### 🗞️ 中文摘要
+2026年“金银行”（Złoty Bankier）排行榜正式发布，Bank Millennium 连续两年蝉联冠军，在服务质量和效率上再次领跑市场。Santander 和 PKO Bank Polski 分别稳居第二和第三名，维持了领先梯队的格局。本次排名出现了一些显著变动，VeloBank 表现突出，排名大幅跃升至第五位。mBank 在经历两年的低谷后重回上升轨道，服务质量明显改善。相比之下，BNP Paribas 和 Pekao 的排名有所下滑，主要受限于分支机构的服务组织和客户响应速度。
+
+**关键信息：**
+- Bank Millennium 凭借卓越的电话客服和柜面效率连续两年夺冠。
+- Santander 紧随其后，与冠军保持极小的竞争差距。
+- VeloBank 实现逆袭，从第9名跃升至第5名，显示出内部经营的稳健。
+- mBank 成功摆脱低谷，服务水平重回正轨，在物理网点表现尤为出色。
+- 部分大型银行如 Pekao 因网点组织和服务主动性不足，导致整体名次下滑。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Ktore-banki-najlepiej-obsluguja-klientow-Zwyciezca-ten-sam-ale-sa-niespodzianki-9111708.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ktore-banki-najlepiej-obsluguja-klientow-Zwyciezca-ten-sam-ale-sa-niespodzianki-9111708.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

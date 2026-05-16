@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰生活", "社会新闻", "防骗提醒", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近日，波兰格但斯克一名91岁的老人遭遇了典型的“警察诈骗”骗局。诈骗分子谎称正在执行秘密任务，诱导老人将毕生积蓄7万兹罗提扔出窗外。幸运的是，当地警方提前收到线报并在现场伏击，成功拦截了这笔钱并抓获了涉案的男女嫌疑人。其中一名30岁的男性嫌疑人此前还因其他罪行被通缉。目前，两名嫌疑人已被法院下令临时羁押，案件正在进一步审理中。
-
-**关键信息：**
-- 91岁受害老人被诈骗分子诱导扔出7万现金。
-- 警方通过线报提前在现场布控并截获钱款。
-- 两名犯罪嫌疑人当场落网并被法院正式羁押。
-- 警方再次提醒：警方绝不会要求民众扔钱或参与秘密行动。
-- 接到类似可疑电话时，请立即挂断并与家人确认。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Starsza pani z Gdańska dostała telefon od oszusta. Oszust powiedział, że jes
 注意动词“wyrzucić”(扔出)在文中使用的是“przez + Accusative”(通过/经过)，如 *wyrzucić przez okno* (从窗户扔出)。在描述动作方向时，使用“przez”加上名词的第四格非常地道。此外，“70 tys. zł”读作 *siedemdziesiąt tysięcy złotych*，是波兰语数字表达中的典型格式。
 
 ---
+
+### 🗞️ 中文摘要
+近日，波兰格但斯克一名91岁的老人遭遇了典型的“警察诈骗”骗局。诈骗分子谎称正在执行秘密任务，诱导老人将毕生积蓄7万兹罗提扔出窗外。幸运的是，当地警方提前收到线报并在现场伏击，成功拦截了这笔钱并抓获了涉案的男女嫌疑人。其中一名30岁的男性嫌疑人此前还因其他罪行被通缉。目前，两名嫌疑人已被法院下令临时羁押，案件正在进一步审理中。
+
+**关键信息：**
+- 91岁受害老人被诈骗分子诱导扔出7万现金。
+- 警方通过线报提前在现场布控并截获钱款。
+- 两名犯罪嫌疑人当场落网并被法院正式羁押。
+- 警方再次提醒：警方绝不会要求民众扔钱或参与秘密行动。
+- 接到类似可疑电话时，请立即挂断并与家人确认。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/trojmiasto/oszusci-chcieli-okrasc-seniorke-w-gdansku-wyrzucila-70-tys-zl-przez-okno/7w7cwnj](https://www.fakt.pl/wydarzenia/polska/trojmiasto/oszusci-chcieli-okrasc-seniorke-w-gdansku-wyrzucila-70-tys-zl-przez-okno/7w7cwnj)

@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["国际新闻", "中东局势", "伊朗", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期中东地区局势急剧升温，霍尔木兹海峡再次出现水雷威胁，航运安全面临严峻挑战。与此同时，伊朗领空侦测到不明“敌对目标”，引发当地防空系统高度戒备。美国前总统特朗普就核武器问题发表了言论，进一步增加了国际社会对地缘政治风险的担忧。相关国家正密切监测事态发展，以防止地区冲突失控。多方呼吁通过外交途径缓解当前的紧张氛围。
-
-**关键信息：**
-- 霍尔木兹海峡再次发现水雷威胁
-- 伊朗领空出现不明敌对目标
-- 防空系统已进入高度戒备状态
-- 特朗普近期对核武器议题表态
-- 中东地区地缘政治风险不断升级
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Sytuacja na Bliskim Wschodzie staje się coraz bardziej napięta. W cieśninie O
 本篇文本中出现了“staje się”（变得/成为）。注意动词“stać się”要求后接工具格（Narzędnik）。例如：“Sytuacja staje się napięta”中，形容词napięta若修饰阴性名词，在变格中应保持一致，理解这一动词用法能帮你更准确地描述状态的变化。
 
 ---
+
+### 🗞️ 中文摘要
+近期中东地区局势急剧升温，霍尔木兹海峡再次出现水雷威胁，航运安全面临严峻挑战。与此同时，伊朗领空侦测到不明“敌对目标”，引发当地防空系统高度戒备。美国前总统特朗普就核武器问题发表了言论，进一步增加了国际社会对地缘政治风险的担忧。相关国家正密切监测事态发展，以防止地区冲突失控。多方呼吁通过外交途径缓解当前的紧张氛围。
+
+**关键信息：**
+- 霍尔木兹海峡再次发现水雷威胁
+- 伊朗领空出现不明敌对目标
+- 防空系统已进入高度戒备状态
+- 特朗普近期对核武器议题表态
+- 中东地区地缘政治风险不断升级
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/konflikt-na-bliskim-wschodzie-najwazniejsze-wydarzenia-ostatnich-godzin-st9014317?source=rss](https://tvn24.pl/swiat/konflikt-na-bliskim-wschodzie-najwazniejsze-wydarzenia-ostatnich-godzin-st9014317?source=rss)

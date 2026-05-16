@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰社会", "突发新闻", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近日，波兰小镇马沃戈什奇发生一起骇人听闻的案件。一名男子在遛狗时，意外在路边的沟渠中发现了人类遗骸。男子随即前往当地警察局报警，警方迅速赶往现场展开调查。目前，死者的性别、年龄及具体死因尚不明确。调查人员及法医正在进行现场勘验，试图揭开这起死亡事件的真相。
-
-**关键信息：**
-- **案发地点：** 波兰马沃戈什奇（Małogoszcz）。
-- **发现经过：** 一名遛狗者在荒地沟渠中发现不明人类遗骸。
-- **处理进度：** 当地警方接警后已介入，并在检察官监督下进行调查。
-- **关键疑问：** 死者身份（年龄、性别）与具体死亡时间及原因仍完全未知。
-- **后续行动：** 刑事技术人员正在现场搜集证据以明确死者身份。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Spacerowicz wyszedł na spacer z psem. W rowie zauważył coś niepokojącego. O
 注意本篇新闻中的动词“prowadzić”（进行/引导）。当它搭配“śledztwo”（调查）时，使用宾格（Accusative case）：Policja prowadzi śledztwo (Nominative -> Accusative 形式不变)。这是新闻报道中非常高频的固定搭配，适合记忆。
 
 ---
+
+### 🗞️ 中文摘要
+近日，波兰小镇马沃戈什奇发生一起骇人听闻的案件。一名男子在遛狗时，意外在路边的沟渠中发现了人类遗骸。男子随即前往当地警察局报警，警方迅速赶往现场展开调查。目前，死者的性别、年龄及具体死因尚不明确。调查人员及法医正在进行现场勘验，试图揭开这起死亡事件的真相。
+
+**关键信息：**
+- **案发地点：** 波兰马沃戈什奇（Małogoszcz）。
+- **发现经过：** 一名遛狗者在荒地沟渠中发现不明人类遗骸。
+- **处理进度：** 当地警方接警后已介入，并在检察官监督下进行调查。
+- **关键疑问：** 死者身份（年龄、性别）与具体死亡时间及原因仍完全未知。
+- **后续行动：** 刑事技术人员正在现场搜集证据以明确死者身份。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/malogoszcz-wyszedl-z-psem-na-spacer-makabryczne-odkrycie/ltezhe7](https://www.fakt.pl/wydarzenia/polska/malogoszcz-wyszedl-z-psem-na-spacer-makabryczne-odkrycie/ltezhe7)

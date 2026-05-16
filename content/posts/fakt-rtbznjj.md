@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "波兹南", "寻人启事", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兹南警方近日发布紧急寻人启事，一名13岁的少年Kamil Tęgi于4月16日下午在波兹南市中心失踪。据悉，最后目击地点位于Dąbrowskiego街的新剧院附近，当时他身穿蓝色连帽卫衣和橄榄色工装裤。警方透露该少年就读于特殊学校，此前也曾有过失踪经历。目前搜救工作正在进行中，警方呼吁知情者立即拨打112联系。家属与当地警方正全力寻找其踪迹，希望社会各界提供线索。
-
-**关键信息：**
-- **失踪人：** 13岁少年Kamil Tęgi
-- **失踪地点：** 波兰波兹南市中心（Teatr Nowy附近）
-- **失踪时间：** 4月16日下午15点左右
-- **体貌特征：** 身高约154厘米，身材瘦削，深金发，佩戴绿黑色眼镜
-- **联系方式：** 拨打112或联系波兹南北区警察局（47 771 46 11）
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Zaginął 13-letni Kamil Tęgi z Poznania. Chłopiec ostatni raz był widziany w
 注意波兰语中描述身高的表达方式：使用 "mieć + 数字 + wzrostu" 结构。例如："On ma 180 cm wzrostu" (他身高180厘米)。这里的 "wzrostu" 是名词 "wzrost" 的属格形式，在表达度量衡时非常固定。
 
 ---
+
+### 🗞️ 中文摘要
+波兹南警方近日发布紧急寻人启事，一名13岁的少年Kamil Tęgi于4月16日下午在波兹南市中心失踪。据悉，最后目击地点位于Dąbrowskiego街的新剧院附近，当时他身穿蓝色连帽卫衣和橄榄色工装裤。警方透露该少年就读于特殊学校，此前也曾有过失踪经历。目前搜救工作正在进行中，警方呼吁知情者立即拨打112联系。家属与当地警方正全力寻找其踪迹，希望社会各界提供线索。
+
+**关键信息：**
+- **失踪人：** 13岁少年Kamil Tęgi
+- **失踪地点：** 波兰波兹南市中心（Teatr Nowy附近）
+- **失踪时间：** 4月16日下午15点左右
+- **体貌特征：** 身高约154厘米，身材瘦削，深金发，佩戴绿黑色眼镜
+- **联系方式：** 拨打112或联系波兹南北区警察局（47 771 46 11）
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/poznan/zaginal-13-letni-kamil-tegi-z-poznania-byl-widziany-w-centrum-miasta/rtbznjj](https://www.fakt.pl/wydarzenia/polska/poznan/zaginal-13-letni-kamil-tegi-z-poznania-byl-widziany-w-centrum-miasta/rtbznjj)

@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["北约", "波兰政治", "欧洲安全", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰总统卡罗尔·纳夫罗茨基在布加勒斯特九国（B9）峰会上明确表示，支持将北欧国家纳入该防务合作框架。他强调，波罗的海地区目前正受到俄罗斯混合战争的持续威胁，各国需加强协同防御。纳夫罗茨基重申，俄罗斯是北约长期的直接安全威胁，且各成员国一致认为没有美国的支持，北约将无法有效运作。峰会期间，各国领导人再次强调了跨大西洋团结的重要性。此外，会议决定2027年的B9峰会将在华沙举行，以进一步强化区域安全对话。
-
-**关键信息：**
-- 纳夫罗茨基提议将北欧国家纳入布加勒斯特九国（B9）框架。
-- 俄罗斯被定性为北约地区最严重、直接的长期安全威胁。
-- 各方一致认为跨大西洋合作及美国的支持对北约至关重要。
-- 波罗的海地区目前面临频繁的俄罗斯混合战争干扰。
-- 2027年布加勒斯特九国峰会确定将在波兰华沙举办。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Prezydent Polski chce rozszerzyć grupę B9 o państwa skandynawskie. Region Mor
 注意形容词的性数变化。在“bezpieczeństwo Europy”（欧洲的安全）中，Europy是名词Europa的“属格”（Genitive），用于表示所属关系。B1学习者需牢记：当你想表达“某物的某物”时，后一个词通常需要变成属格形式。
 
 ---
+
+### 🗞️ 中文摘要
+波兰总统卡罗尔·纳夫罗茨基在布加勒斯特九国（B9）峰会上明确表示，支持将北欧国家纳入该防务合作框架。他强调，波罗的海地区目前正受到俄罗斯混合战争的持续威胁，各国需加强协同防御。纳夫罗茨基重申，俄罗斯是北约长期的直接安全威胁，且各成员国一致认为没有美国的支持，北约将无法有效运作。峰会期间，各国领导人再次强调了跨大西洋团结的重要性。此外，会议决定2027年的B9峰会将在华沙举行，以进一步强化区域安全对话。
+
+**关键信息：**
+- 纳夫罗茨基提议将北欧国家纳入布加勒斯特九国（B9）框架。
+- 俄罗斯被定性为北约地区最严重、直接的长期安全威胁。
+- 各方一致认为跨大西洋合作及美国的支持对北约至关重要。
+- 波罗的海地区目前面临频繁的俄罗斯混合战争干扰。
+- 2027年布加勒斯特九国峰会确定将在波兰华沙举办。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Nowy-ksztalt-wschodniej-flanki-Nawrocki-Czas-poszerzyc-sojusz-o-skandynawow-9132501.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nowy-ksztalt-wschodniej-flanki-Nawrocki-Czas-poszerzyc-sojusz-o-skandynawow-9132501.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

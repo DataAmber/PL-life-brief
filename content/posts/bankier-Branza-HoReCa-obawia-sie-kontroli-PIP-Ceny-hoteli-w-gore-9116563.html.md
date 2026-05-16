@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰财经", "职场动态", "旅游消费", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰国家劳动检查局（PIP）即将获得更大权力，将于今年7月旅游旺季期间对酒店和餐饮行业展开严格督查。新规允许督察员通过行政决定直接将劳务合同（umowa zlecenie）定性为雇佣合同，旨在打击违规雇佣行为。此前，此类判定通常需要漫长的司法程序，而现在企业若不整改将面临高达6万兹罗提的罚款。同时，PIP已接入社保和税务数据库，利用算法精准锁定目标企业。受此影响，酒店及餐饮业运营成本或将激增，业内人士担忧这最终会导致波兰旅游消费价格上涨。
-
-**关键信息：**
-- PIP新规于7月生效，监管力度大幅提升。
-- 督察员可直接判定违规合同性质，企业违规罚款可达6万兹罗提。
-- PIP整合社保与税务数据，通过算法精准打击不规范用工。
-- 旅游业高度依赖劳务合同，受本次政策冲击最为显著。
-- 行业成本上升压力或将导致今年夏季旅游费用上涨。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Inspekcja Pracy rozpoczyna kontrole w hotelach. Od lipca inspektorzy sprawdzą u
 注意名词的“属格”（Genitive Case）用法，如文中“wzrost kosztów”（成本的增长）。在波兰语中，当一个名词修饰另一个名词时，被修饰的名词（koszty）需要变为属格形式（kosztów）。这是描述经济趋势和统计数据时最常用的语法结构之一。
 
 ---
+
+### 🗞️ 中文摘要
+波兰国家劳动检查局（PIP）即将获得更大权力，将于今年7月旅游旺季期间对酒店和餐饮行业展开严格督查。新规允许督察员通过行政决定直接将劳务合同（umowa zlecenie）定性为雇佣合同，旨在打击违规雇佣行为。此前，此类判定通常需要漫长的司法程序，而现在企业若不整改将面临高达6万兹罗提的罚款。同时，PIP已接入社保和税务数据库，利用算法精准锁定目标企业。受此影响，酒店及餐饮业运营成本或将激增，业内人士担忧这最终会导致波兰旅游消费价格上涨。
+
+**关键信息：**
+- PIP新规于7月生效，监管力度大幅提升。
+- 督察员可直接判定违规合同性质，企业违规罚款可达6万兹罗提。
+- PIP整合社保与税务数据，通过算法精准打击不规范用工。
+- 旅游业高度依赖劳务合同，受本次政策冲击最为显著。
+- 行业成本上升压力或将导致今年夏季旅游费用上涨。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Branza-HoReCa-obawia-sie-kontroli-PIP-Ceny-hoteli-w-gore-9116563.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Branza-HoReCa-obawia-sie-kontroli-PIP-Ceny-hoteli-w-gore-9116563.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

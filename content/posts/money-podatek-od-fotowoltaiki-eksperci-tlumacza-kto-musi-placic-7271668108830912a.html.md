@@ -5,16 +5,6 @@ categories: ["Economy"]
 tags: ["波兰新闻", "个人理财", "光伏能源", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期关于光伏发电需缴纳增值税（VAT）的税务解释引发了波兰民众的担忧，认为所有家庭光伏用户都要缴税。专家明确指出，该解释仅针对政府机构或大型商业设施，个人家庭光伏用户无需缴纳此税。
-
-**关键信息：**
-- 个人家庭光伏用户无需担心新增税负。
-- 税务局的解释主要针对特定的大型项目和公共机构。
-- 只有发电功率超过50kW或产生持续收益的大型设施才可能涉及增值税问题。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Osoby prywatne nie muszą płacić podatku VAT od fotowoltaiki. Nowa interpretac
 注意动词 dotyczyć 的用法，它要求后面接**属格 (Genitive)**。例如：dotyczyć (kogo? czego?) - instalac**ji** (单数属格) 或 samorząd**ów** (复数属格)。这是A2/B1阶段非常实用的高频动词。
 
 ---
+
+### 🗞️ 中文摘要
+近期关于光伏发电需缴纳增值税（VAT）的税务解释引发了波兰民众的担忧，认为所有家庭光伏用户都要缴税。专家明确指出，该解释仅针对政府机构或大型商业设施，个人家庭光伏用户无需缴纳此税。
+
+**关键信息：**
+- 个人家庭光伏用户无需担心新增税负。
+- 税务局的解释主要针对特定的大型项目和公共机构。
+- 只有发电功率超过50kW或产生持续收益的大型设施才可能涉及增值税问题。
+
+---
+
 > 📰 原文来源：[https://www.money.pl/gospodarka/podatek-od-fotowoltaiki-eksperci-tlumacza-kto-musi-placic-7271668108830912a.html](https://www.money.pl/gospodarka/podatek-od-fotowoltaiki-eksperci-tlumacza-kto-musi-placic-7271668108830912a.html)

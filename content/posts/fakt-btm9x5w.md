@@ -5,19 +5,6 @@ categories: ["Lifestyle"]
 tags: ["纽约新闻", "国际速递", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-本周六上午，纽约中央车站发生了一起严重的暴力袭击事件。一名男子持大砍刀在地铁站内无故攻击乘客，造成三名老人受伤，伤者目前状况稳定。警方在多次劝诫无效后开枪制服了袭击者，该男子送医后不治身亡。当局初步调查显示，此事件不涉及恐怖主义动机。目前纽约市政府承诺将采取进一步措施以提升公共交通系统的安全性。
-
-**关键信息：**
-- **地点：** 纽约中央车站 (Grand Central Terminal)
-- **伤亡情况：** 三名乘客受伤，袭击者被警方击毙
-- **袭击工具：** 一把大砍刀 (maczeta)
-- **调查进展：** 警方排除恐怖袭击动机
-- **安全现状：** 当局正加强交通安保并彻查事件原因
-
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -40,4 +27,18 @@ W Nowym Jorku doszło do niebezpiecznego ataku. Mężczyzna z maczetą zaatakowa
 注意本篇新闻中动词“zostać”的用法。在波兰语新闻报道中，我们常用“zostać + 过去分词”来构成被动语态，例如“Trzy osoby zostały ranne”（三人受伤）。这与英语的“were injured”逻辑一致，是B1级别描述客观事实的重要手段。
 
 ---
+
+### 🗞️ 中文摘要
+本周六上午，纽约中央车站发生了一起严重的暴力袭击事件。一名男子持大砍刀在地铁站内无故攻击乘客，造成三名老人受伤，伤者目前状况稳定。警方在多次劝诫无效后开枪制服了袭击者，该男子送医后不治身亡。当局初步调查显示，此事件不涉及恐怖主义动机。目前纽约市政府承诺将采取进一步措施以提升公共交通系统的安全性。
+
+**关键信息：**
+- **地点：** 纽约中央车站 (Grand Central Terminal)
+- **伤亡情况：** 三名乘客受伤，袭击者被警方击毙
+- **袭击工具：** 一把大砍刀 (maczeta)
+- **调查进展：** 警方排除恐怖袭击动机
+- **安全现状：** 当局正加强交通安保并彻查事件原因
+
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/swiat/nowy-jork-atak-z-maczeta-na-grand-central-terminal-trzy-osoby-ranne/btm9x5w](https://www.fakt.pl/wydarzenia/swiat/nowy-jork-atak-z-maczeta-na-grand-central-terminal-trzy-osoby-ranne/btm9x5w)

@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "能源转型", "跨境合作", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰的兹戈热莱茨市与德国的格尔利茨市正式启动了名为“联合供热”（United Heat）的跨境供暖项目。该工程旨在通过连接两市供暖网络，实现从化石能源向可再生能源的彻底转型。项目将利用生物质能、太阳能及热泵技术，预计于2030年全面完工。该举措每年可减少约5万吨二氧化碳排放，象征着原煤炭工业区向绿色能源的成功跨越。此项目由欧盟资助约50%的建设费用，被视为德波两国能源合作的典范。
-
-**关键信息：**
-- 兹戈热莱茨与格尔利茨连接供暖网
-- 采用生物质能、太阳能及热泵技术
-- 预计2030年实现供暖零碳排放
-- 每年减排相当于2.8万辆汽车的排放量
-- 欧盟资助总成本的50%约1.9亿欧元
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Polska i Niemcy budują wspólny system ogrzewania. Projekt nazywa się United H
 注意“pochodzić z + 第二格(Genitive)”的结构。例如：Energia pochodzi z wiatru (能源来自风) 或 Projekt pochodzi z Polski (项目来自波兰)。在B1级别中，准确使用名词变格是构建地道句子的关键。
 
 ---
+
+### 🗞️ 中文摘要
+波兰的兹戈热莱茨市与德国的格尔利茨市正式启动了名为“联合供热”（United Heat）的跨境供暖项目。该工程旨在通过连接两市供暖网络，实现从化石能源向可再生能源的彻底转型。项目将利用生物质能、太阳能及热泵技术，预计于2030年全面完工。该举措每年可减少约5万吨二氧化碳排放，象征着原煤炭工业区向绿色能源的成功跨越。此项目由欧盟资助约50%的建设费用，被视为德波两国能源合作的典范。
+
+**关键信息：**
+- 兹戈热莱茨与格尔利茨连接供暖网
+- 采用生物质能、太阳能及热泵技术
+- 预计2030年实现供暖零碳排放
+- 每年减排相当于2.8万辆汽车的排放量
+- 欧盟资助总成本的50%约1.9亿欧元
+
+---
+
 > 📰 原文来源：[https://notesfrompoland.com/2026/04/07/poland-and-germany-start-construction-of-cross-border-heating-system/](https://notesfrompoland.com/2026/04/07/poland-and-germany-start-construction-of-cross-border-heating-system/)

@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰财经", "银行优惠", "个人理财", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-Erste Bank Polska近期推出了极具吸引力的“Smart账户”开户奖励活动，新客户最高可获得700兹罗提现金奖励。参与方式简单：开户后连续三个月满足每月存入1000兹罗提、进行三次卡片或BLIK支付，并登录手机银行，即可分阶段领取奖金。即便错过某个月份的奖励，后续月份仍可继续参与，灵活性较高。此外，新客户还可享受4.5%年化利率的三个月迎新存款优惠。针对7至17岁的青少年账户，银行亦提供250兹罗提的专属开户奖励，旨在鼓励青少年理财。
-
-**关键信息：**
-- **最高奖励700兹罗提，分为三个月度奖项及一个最终奖金。**
-- **参与条件包含每月1000兹罗提入账、3次刷卡或BLIK支付以及登录APP。**
-- **若每月消费达到300兹罗提，可免除账户管理费及卡费。**
-- **新客户可开立年化利率4.5%的迎新存款（上限50,000兹罗提）。**
-- **针对7-17岁未成年人账户，开户并完成一次支付即可获得250兹罗提奖励。**
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Erste Bank Polska oferuje nową promocję dla klientów. Możesz zyskać nawet 7
 注意动词“wymagać”（要求）的接格用法。通常结构是“wymagać czegoś”（二格），例如：Wymagamy potwierdzenia（我们需要确认）。在描述条件时，常使用名词词组“wymagania dotyczące...”（关于……的要求），这是职场和正式文本中的常用表达方式。
 
 ---
+
+### 🗞️ 中文摘要
+Erste Bank Polska近期推出了极具吸引力的“Smart账户”开户奖励活动，新客户最高可获得700兹罗提现金奖励。参与方式简单：开户后连续三个月满足每月存入1000兹罗提、进行三次卡片或BLIK支付，并登录手机银行，即可分阶段领取奖金。即便错过某个月份的奖励，后续月份仍可继续参与，灵活性较高。此外，新客户还可享受4.5%年化利率的三个月迎新存款优惠。针对7至17岁的青少年账户，银行亦提供250兹罗提的专属开户奖励，旨在鼓励青少年理财。
+
+**关键信息：**
+- **最高奖励700兹罗提，分为三个月度奖项及一个最终奖金。**
+- **参与条件包含每月1000兹罗提入账、3次刷卡或BLIK支付以及登录APP。**
+- **若每月消费达到300兹罗提，可免除账户管理费及卡费。**
+- **新客户可开立年化利率4.5%的迎新存款（上限50,000兹罗提）。**
+- **针对7-17岁未成年人账户，开户并完成一次支付即可获得250兹罗提奖励。**
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Prosta-promocja-w-Erste-Zgarnij-nawet-700-zl-premii-na-Koncie-Smart-9128496.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Prosta-promocja-w-Erste-Zgarnij-nawet-700-zl-premii-na-Koncie-Smart-9128496.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

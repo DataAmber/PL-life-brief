@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "航空安全", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，波兰卢布林省发生了一起严重的森林火灾救援事故。一架参与灭火作业的 Dromader 型号飞机在比乌戈拉伊（Biłgoraj）附近不幸坠毁，导致飞行员遇难。波兰各界对此深表哀悼，华沙巴比采机场（Lotnisko Babice）的工作人员及广大网友纷纷发文缅怀。社交媒体上出现了大量“Blue skies”（蓝天，飞行员悼念用语）的留言，以此向牺牲的英雄飞行员致敬。这起事故不仅令当地民众感到震惊，也引起了波兰全社会的广泛关注。
-
-**关键信息：**
-- **事故地点：** 波兰卢布林省比乌戈拉伊附近。
-- **涉事机型：** Dromader灭火飞机。
-- **人员伤亡：** 飞行员不幸在坠机事故中遇难。
-- **救援背景：** 飞机当时正在执行森林灭火的救援任务。
-- **悼念方式：** 航空界人士使用“Blue skies”作为对逝去飞行员的哀悼术语。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Tragiczny wypadek wydarzył się w Polsce. Samolot gaśniczy rozbił się podcza
 注意动词“rozbić się”（坠毁/摔碎）的用法。它是一个自复动词（动词后加-się），在描述交通工具或物品破碎时，主语需要用名词的单数或复数主格。例如：Samolot się rozbił (飞机坠毁了)。
 
 ---
+
+### 🗞️ 中文摘要
+近期，波兰卢布林省发生了一起严重的森林火灾救援事故。一架参与灭火作业的 Dromader 型号飞机在比乌戈拉伊（Biłgoraj）附近不幸坠毁，导致飞行员遇难。波兰各界对此深表哀悼，华沙巴比采机场（Lotnisko Babice）的工作人员及广大网友纷纷发文缅怀。社交媒体上出现了大量“Blue skies”（蓝天，飞行员悼念用语）的留言，以此向牺牲的英雄飞行员致敬。这起事故不仅令当地民众感到震惊，也引起了波兰全社会的广泛关注。
+
+**关键信息：**
+- **事故地点：** 波兰卢布林省比乌戈拉伊附近。
+- **涉事机型：** Dromader灭火飞机。
+- **人员伤亡：** 飞行员不幸在坠机事故中遇难。
+- **救援背景：** 飞机当时正在执行森林灭火的救援任务。
+- **悼念方式：** 航空界人士使用“Blue skies”作为对逝去飞行员的哀悼术语。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/lublin/lotnisko-zegna-pilota-ktory-zginal-w-samolocie-gasniczym-pod-bilgorajem/4hk07h7](https://www.fakt.pl/wydarzenia/polska/lublin/lotnisko-zegna-pilota-ktory-zginal-w-samolocie-gasniczym-pod-bilgorajem/4hk07h7)

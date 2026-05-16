@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "波美贸易", "出口外贸", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰财政部长安杰伊·多曼斯基近日表示，他将致力于扩大波兰企业在美国市场的份额。尽管波兰对美出口额已达到约510亿兹罗提，但部长认为这一数字仍未发挥出应有潜力。他计划在即将到来的会晤中与美方探讨相关政策，进一步推动波兰产品进入美国。多曼斯基指出，家具、五金、造船、食品及高科技产业在美市场前景广阔。此外，波兰投资贸易局（PAIH）已在硅谷设立新办公室，旨在为波兰企业进军美国提供全方位支持。
-
-**关键信息：**
-- 波兰计划发起对美出口攻势，扩大双边贸易额。
-- 当前波兰对美出口额约为510亿兹罗提。
-- 重点开拓领域包括家具、五金、造船、食品和高科技。
-- 波兰政府通过外交手段积极改善企业对美准入。
-- PAIH已在硅谷设立办事处，为企业进入美国提供咨询与便利。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Minister Andrzej Domański chce zwiększyć eksport polskich firm do USA. Rynek 
 注意句中动词搭配，例如“zabiegać o coś”（争取某事）。这里的“o”后面需要接宾格（Biernik）。例如：zabiegać o zwiększenie obecności（争取增加出席率）。在B1水平中，掌握这类动词+介词的固定搭配是提升表达地道性的关键。
 
 ---
+
+### 🗞️ 中文摘要
+波兰财政部长安杰伊·多曼斯基近日表示，他将致力于扩大波兰企业在美国市场的份额。尽管波兰对美出口额已达到约510亿兹罗提，但部长认为这一数字仍未发挥出应有潜力。他计划在即将到来的会晤中与美方探讨相关政策，进一步推动波兰产品进入美国。多曼斯基指出，家具、五金、造船、食品及高科技产业在美市场前景广阔。此外，波兰投资贸易局（PAIH）已在硅谷设立新办公室，旨在为波兰企业进军美国提供全方位支持。
+
+**关键信息：**
+- 波兰计划发起对美出口攻势，扩大双边贸易额。
+- 当前波兰对美出口额约为510亿兹罗提。
+- 重点开拓领域包括家具、五金、造船、食品和高科技。
+- 波兰政府通过外交手段积极改善企业对美准入。
+- PAIH已在硅谷设立办事处，为企业进入美国提供咨询与便利。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Rynek-amerykanski-jest-obiecujacy-Minister-Domanski-zapowiada-ofensywe-polskich-firm-w-USA-9112411.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rynek-amerykanski-jest-obiecujacy-Minister-Domanski-zapowiada-ofensywe-polskich-firm-w-USA-9112411.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

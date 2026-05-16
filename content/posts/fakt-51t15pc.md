@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "奥波莱", "生活资讯", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近日，在波兰奥波莱（Opole）发生了一起离奇的交通事故。一名驾驶保时捷的司机在奥希文钦斯卡街（ul. Oświęcimska）撞上了加油站建筑后直接驾车逃离现场。警方初步判断该男子可能处于醉酒状态。目前，奥波莱警方已投入多支巡逻队全力搜寻这辆灰色保时捷。由于警方已掌握车辆牌照信息，预计很快能锁定租车人身份。
-
-**关键信息：**
-- **事发地点：** 奥波莱市奥希文钦斯卡街（ul. Oświęcimska）。
-- **涉事车辆：** 一辆灰色保时捷，撞击后车身可能有损坏。
-- **逃逸行为：** 司机在撞击加油站建筑后未停留，直接驾车离开。
-- **警方推断：** 司机被怀疑处于酒后驾驶状态。
-- **调查进展：** 警方已获取牌照信息，正通过租赁记录追踪车主。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Kierowca szarego Porsche uderzył w stację benzynową w Opolu. Mężczyzna nie 
 注意“uderzyć w”接宾格（Accusative）。当表达“撞上某物”时，介词“w”后面通常接物体的宾格形式。例如：uderzył w stację (stacja -> stację) 或 uderzył w budynek (budynek保持不变)。
 
 ---
+
+### 🗞️ 中文摘要
+近日，在波兰奥波莱（Opole）发生了一起离奇的交通事故。一名驾驶保时捷的司机在奥希文钦斯卡街（ul. Oświęcimska）撞上了加油站建筑后直接驾车逃离现场。警方初步判断该男子可能处于醉酒状态。目前，奥波莱警方已投入多支巡逻队全力搜寻这辆灰色保时捷。由于警方已掌握车辆牌照信息，预计很快能锁定租车人身份。
+
+**关键信息：**
+- **事发地点：** 奥波莱市奥希文钦斯卡街（ul. Oświęcimska）。
+- **涉事车辆：** 一辆灰色保时捷，撞击后车身可能有损坏。
+- **逃逸行为：** 司机在撞击加油站建筑后未停留，直接驾车离开。
+- **警方推断：** 司机被怀疑处于酒后驾驶状态。
+- **调查进展：** 警方已获取牌照信息，正通过租赁记录追踪车主。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/wroclaw/opole-uderzyl-samochodem-w-stacje-paliw-i-uciekl/51t15pc](https://www.fakt.pl/wydarzenia/polska/wroclaw/opole-uderzyl-samochodem-w-stacje-paliw-i-uciekl/51t15pc)

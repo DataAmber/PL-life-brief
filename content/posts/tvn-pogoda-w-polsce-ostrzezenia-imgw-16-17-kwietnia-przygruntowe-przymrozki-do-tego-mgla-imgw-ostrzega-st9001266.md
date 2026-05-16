@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰天气", "生活资讯", "安全提示", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-随着秋季深入，波兰气象部门近日发布预警，全国多地在清晨出现了明显的雾霾和霜冻现象。由于夜间气温骤降至零度以下，早晨路面极易出现结冰，导致交通能见度大幅降低。专家提醒广大驾驶员在清晨出行时应减速慢行，特别是在桥梁和森林路段。行人也需注意防寒保暖，谨防路面湿滑带来的跌倒风险。这一天气状况预示着波兰正式进入了寒冷的深秋季节。
-
-**关键信息：**
-- 波兰多地出现清晨浓雾及霜冻现象。
-- 气温骤降至冰点以下，路面结冰风险增加。
-- 交通能见度降低，驾驶员被要求减速行驶。
-- 特别提醒在桥梁和阴凉路段需提高警惕。
-- 建议民众做好保暖工作以应对低温天气。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Dzisiaj rano w Polsce wystąpiły mgły i przymrozki. Temperatura spadła poniż
 注意形容词的性数格变化。本句中“drogi są śliskie”（道路很滑），因为drogi是阴性复数，所以形容词śliski变为śliskie。学习波兰语时，务必注意形容词与名词在性、数、格上的一致性。
 
 ---
+
+### 🗞️ 中文摘要
+随着秋季深入，波兰气象部门近日发布预警，全国多地在清晨出现了明显的雾霾和霜冻现象。由于夜间气温骤降至零度以下，早晨路面极易出现结冰，导致交通能见度大幅降低。专家提醒广大驾驶员在清晨出行时应减速慢行，特别是在桥梁和森林路段。行人也需注意防寒保暖，谨防路面湿滑带来的跌倒风险。这一天气状况预示着波兰正式进入了寒冷的深秋季节。
+
+**关键信息：**
+- 波兰多地出现清晨浓雾及霜冻现象。
+- 气温骤降至冰点以下，路面结冰风险增加。
+- 交通能见度降低，驾驶员被要求减速行驶。
+- 特别提醒在桥梁和阴凉路段需提高警惕。
+- 建议民众做好保暖工作以应对低温天气。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-ostrzezenia-imgw-16-17-kwietnia-przygruntowe-przymrozki-do-tego-mgla-imgw-ostrzega-st9001266?source=rss](https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-ostrzezenia-imgw-16-17-kwietnia-przygruntowe-przymrozki-do-tego-mgla-imgw-ostrzega-st9001266?source=rss)

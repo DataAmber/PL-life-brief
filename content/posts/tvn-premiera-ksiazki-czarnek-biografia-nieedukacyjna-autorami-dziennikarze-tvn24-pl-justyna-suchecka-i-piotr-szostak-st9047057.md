@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰时政", "出版动态", "人物传记", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰新闻门户网站tvn24.pl的记者们近日出版了一部关于波兰前教育部长普热梅斯瓦夫·恰尔内克（Przemysław Czarnek）的传记。这本书名为《恰尔内克：非教育性的传记》，详细记录了他在任期间引发的多次争议事件。作者团队通过深度调查，剖析了他极具个人色彩的政策主张及其对波兰教育体系的影响。该书的发布在波兰政坛和社会舆论界引起了广泛关注与讨论。这部作品不仅是对他政治生涯的回顾，更是一次对波兰近年来教育改革方向的批判性思考。
-
-**关键信息：**
-- 这是一本关于波兰前教育部长恰尔内克的非官方传记
-- 由tvn24.pl的新闻调查团队共同撰写
-- 书名强调了“非教育性”，暗示其政策具有极强争议性
-- 内容涵盖了其部长任期内的重要政策决策与舆论事件
-- 该书目前已在波兰书店正式上架销售
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Niedawno ukazała się nowa książka o Przemysławie Czarnku. Napisali ją dzie
 注意形容词与名词的性数格一致。例如“były minister”（阳性主格）中，były的词尾-y表示阳性单数。当形容词修饰阴性名词时，词尾变为-a，如“polityczna droga”；修饰中性名词时则变为-e。这是B1水平写作中非常基础且重要的词尾变化规则。
 
 ---
+
+### 🗞️ 中文摘要
+波兰新闻门户网站tvn24.pl的记者们近日出版了一部关于波兰前教育部长普热梅斯瓦夫·恰尔内克（Przemysław Czarnek）的传记。这本书名为《恰尔内克：非教育性的传记》，详细记录了他在任期间引发的多次争议事件。作者团队通过深度调查，剖析了他极具个人色彩的政策主张及其对波兰教育体系的影响。该书的发布在波兰政坛和社会舆论界引起了广泛关注与讨论。这部作品不仅是对他政治生涯的回顾，更是一次对波兰近年来教育改革方向的批判性思考。
+
+**关键信息：**
+- 这是一本关于波兰前教育部长恰尔内克的非官方传记
+- 由tvn24.pl的新闻调查团队共同撰写
+- 书名强调了“非教育性”，暗示其政策具有极强争议性
+- 内容涵盖了其部长任期内的重要政策决策与舆论事件
+- 该书目前已在波兰书店正式上架销售
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/polska/premiera-ksiazki-czarnek-biografia-nieedukacyjna-autorami-dziennikarze-tvn24-pl-justyna-suchecka-i-piotr-szostak-st9047057?source=rss](https://tvn24.pl/polska/premiera-ksiazki-czarnek-biografia-nieedukacyjna-autorami-dziennikarze-tvn24-pl-justyna-suchecka-i-piotr-szostak-st9047057?source=rss)

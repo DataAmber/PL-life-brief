@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["国际新闻", "地缘政治", "伊朗局势", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-伊朗官方近日向美国发出严厉警告，称任何针对伊朗的军事行动都将演变成美国民众的“活地狱”。此次表态加剧了中东地区的紧张局势，引发国际社会对潜在冲突升级的担忧。
-
-**关键信息：**
-- 伊朗威胁称美国家庭将遭受严重打击。
-- 双方地缘政治对抗进入敏感时期。
-- 国际社会密切关注局势恶化风险。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Iran ostrzega Stany Zjednoczone przed atakiem. Według władz w Teheranie, każd
 注意“dla”这个前置词，它后面必须接名词的第二格（Genitive）。例如“dla amerykańskich rodzin”（为了美国家庭），原词是rodzina，单数二格为rodziny，复数二格为rodzin。练习时，尝试将“dla”与不同的人称代词搭配（dla mnie, dla ciebie, dla niego）。
 
 ---
+
+### 🗞️ 中文摘要
+伊朗官方近日向美国发出严厉警告，称任何针对伊朗的军事行动都将演变成美国民众的“活地狱”。此次表态加剧了中东地区的紧张局势，引发国际社会对潜在冲突升级的担忧。
+
+**关键信息：**
+- 伊朗威胁称美国家庭将遭受严重打击。
+- 双方地缘政治对抗进入敏感时期。
+- 国际社会密切关注局势恶化风险。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/iran-odpowiada-na-ultiamtum-donalda-trumpa-w-sprawie-ciesniny-ormuz-st8984572?source=rss](https://tvn24.pl/swiat/iran-odpowiada-na-ultiamtum-donalda-trumpa-w-sprawie-ciesniny-ormuz-st8984572?source=rss)

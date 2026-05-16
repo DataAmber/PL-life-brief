@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Hugo output
+public/
+resources/
+
+# Editor artifacts
+.vscode/
+*.swp
+*~
+.DS_Store

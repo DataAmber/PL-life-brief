@@ -5,18 +5,6 @@ categories: ["Daily"]
 tags: ["华沙生活", "波兰治安", "警民关系", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-一名华沙居民近日致信华沙第二警区，公开赞扬了Ursynów分局警员的出色表现。该居民此前因遭受人身威胁并伴有腿部伤情，在前往警局报案时情绪极度紧张。接待他的警员表现出了极高的专业素养，不仅耐心倾听，还细致处理了相关报案手续。这种富有同理心的态度极大地缓解了当事人的压力，让其感到安全并受到尊重。警方对此回应称，将继续坚持以人为本，致力于提供专业的执法服务。
-
-**关键信息：**
-- 华沙市民写信感谢Ursynów警局警员。
-- 当事人因威胁事件及伤情在报案时处于高压状态。
-- 警员展现出高度的专业性、耐心与同理心。
-- 该行为显著降低了当事人的心理压力并提升了警民信任。
-- 警方重申尊重与专业是执法工作的基石。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Obywatel przyszedł na policję zgłosić przestępstwo. Był bardzo zdenerwowan
 本篇提到“z kontuzją nogi”（带着腿伤），这里使用了工具格 (Narzędnik)。当你想表达“带着某物/某状态做某事”时，通常使用“z + 工具格”。例如：z przyjemnością (愉快地/带着愉快), z empatią (富有同理心地)。
 
 ---
+
+### 🗞️ 中文摘要
+一名华沙居民近日致信华沙第二警区，公开赞扬了Ursynów分局警员的出色表现。该居民此前因遭受人身威胁并伴有腿部伤情，在前往警局报案时情绪极度紧张。接待他的警员表现出了极高的专业素养，不仅耐心倾听，还细致处理了相关报案手续。这种富有同理心的态度极大地缓解了当事人的压力，让其感到安全并受到尊重。警方对此回应称，将继续坚持以人为本，致力于提供专业的执法服务。
+
+**关键信息：**
+- 华沙市民写信感谢Ursynów警局警员。
+- 当事人因威胁事件及伤情在报案时处于高压状态。
+- 警员展现出高度的专业性、耐心与同理心。
+- 该行为显著降低了当事人的心理压力并提升了警民信任。
+- 警方重申尊重与专业是执法工作的基石。
+
+---
+
 > 📰 原文来源：[https://mokotow.policja.gov.pl/r2/aktualnosci/149395,Mam-poczucie-ze-Policja-to-nie-tylko-mundur-i-paragrafy-slowa-uznania-dla-policj.html](https://mokotow.policja.gov.pl/r2/aktualnosci/149395,Mam-poczucie-ze-Policja-to-nie-tylko-mundur-i-paragrafy-slowa-uznania-dla-policj.html)

@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["地缘政治", "能源经济", "波兰新闻", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-美国总统特朗普近日对伊朗发出严厉警告，称如果伊朗攻击美军或商船，将面临被“从地球表面抹去”的后果。此前，霍尔木兹海峡发生了一起针对韩国货轮的爆炸火灾事件，引起国际社会高度关注。美方声称已在海峡区域摧毁了数艘伊朗快艇，并展示了强大的军事补给能力。尽管局势紧张，特朗普认为伊朗目前在谈判中表现得更为灵活。目前，韩国政府正与阿联酋合作调查货轮遇袭的具体原因，尚未确认是否属于外部攻击。
-
-**关键信息：**
-- 特朗普威胁若伊朗攻击美方目标将采取毁灭性打击
-- 美军近期在霍尔木兹海峡与伊朗船只发生交火
-- 一艘韩国货轮在该海域遭遇爆炸，暂无人员伤亡
-- 美国正推行“项目自由”行动，为该区域商船护航
-- 特朗普声称美国已完成军备补给，有能力应对冲突
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Prezydent Trump ostrzegł Iran przed atakiem na siły USA. Jeśli Iran zaatakuje
 注意动词“zostać”的用法。在被动语态中，它与过去分词连用。例如“zostanie zmieciony”（将被抹去），“został uszkodzony”（被损坏）。这是B1阶段表达“被动事件”的核心结构，学会后能更准确地理解新闻中的因果关系。
 
 ---
+
+### 🗞️ 中文摘要
+美国总统特朗普近日对伊朗发出严厉警告，称如果伊朗攻击美军或商船，将面临被“从地球表面抹去”的后果。此前，霍尔木兹海峡发生了一起针对韩国货轮的爆炸火灾事件，引起国际社会高度关注。美方声称已在海峡区域摧毁了数艘伊朗快艇，并展示了强大的军事补给能力。尽管局势紧张，特朗普认为伊朗目前在谈判中表现得更为灵活。目前，韩国政府正与阿联酋合作调查货轮遇袭的具体原因，尚未确认是否属于外部攻击。
+
+**关键信息：**
+- 特朗普威胁若伊朗攻击美方目标将采取毁灭性打击
+- 美军近期在霍尔木兹海峡与伊朗船只发生交火
+- 一艘韩国货轮在该海域遭遇爆炸，暂无人员伤亡
+- 美国正推行“项目自由”行动，为该区域商船护航
+- 特朗普声称美国已完成军备补给，有能力应对冲突
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Trump-Iran-zostanie-zmieciony-z-powierzchni-Ziemi-jesli-zaatakuje-USA-9127554.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Trump-Iran-zostanie-zmieciony-z-powierzchni-Ziemi-jesli-zaatakuje-USA-9127554.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["乌克兰局势", "泽连斯基", "国际动态", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-乌克兰总统泽连斯基近日透露，他正在制定一份针对俄罗斯的全新和平建议方案。据报道，该方案并非直接与俄方接触，而是通过美国作为中间人进行传递。泽连斯基强调，这份文件将重点关注如何实现公正且持久的和平。目前，乌方正等待美国政府对该提议的反馈与评估。这一举措被视为乌克兰在战场局势复杂的背景下，寻求外交突破的重要尝试。
-
-**关键信息：**
-- 泽连斯基制定了旨在结束冲突的新方案
-- 乌克兰选择通过美国作为沟通渠道
-- 方案核心目标是实现公正与持久的和平
-- 美方正在对该建议进行评估与审核
-- 此举反映了乌克兰对外交解决方案的重视
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Prezydent Zełenski przygotował nową propozycję pokoju dla Rosji. Przekazał 
 本句中使用了介词短语 "za pośrednictwem"（通过...），它在波兰语中后接第二格（Genitive）。例如：za pośrednictwem USA (Stanów Zjednoczonych)。这是B1级别中表达“媒介”或“工具”的常见高级用法。
 
 ---
+
+### 🗞️ 中文摘要
+乌克兰总统泽连斯基近日透露，他正在制定一份针对俄罗斯的全新和平建议方案。据报道，该方案并非直接与俄方接触，而是通过美国作为中间人进行传递。泽连斯基强调，这份文件将重点关注如何实现公正且持久的和平。目前，乌方正等待美国政府对该提议的反馈与评估。这一举措被视为乌克兰在战场局势复杂的背景下，寻求外交突破的重要尝试。
+
+**关键信息：**
+- 泽连斯基制定了旨在结束冲突的新方案
+- 乌克兰选择通过美国作为沟通渠道
+- 方案核心目标是实现公正与持久的和平
+- 美方正在对该建议进行评估与审核
+- 此举反映了乌克兰对外交解决方案的重视
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/wojna-w-ukrainie-wolodymyr-zelenski-ma-propozycje-dla-rosji-przekazal-ja-za-posrednictwem-usa-st8985564?source=rss](https://tvn24.pl/swiat/wojna-w-ukrainie-wolodymyr-zelenski-ma-propozycje-dla-rosji-przekazal-ja-za-posrednictwem-usa-st8985564?source=rss)

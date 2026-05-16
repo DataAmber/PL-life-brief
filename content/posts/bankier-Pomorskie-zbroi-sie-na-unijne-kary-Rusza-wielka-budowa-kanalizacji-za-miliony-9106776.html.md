@@ -5,19 +5,6 @@ categories: ["Economy"]
 tags: ["波兰财经", "环保投资", "基础设施", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波美拉尼亚省近日启动了名为“Szlamnik”的生态贷款项目，旨在通过总额8000万兹罗提的资金投入，全面升级该地区的供排水基础设施。该项目由波美拉尼亚发展基金与格但斯克省环保基金联合推动，首批已签署两份融资协议。其中，特热比利诺（Trzebielino）和瓦迪斯瓦沃沃（Władysławowo）的供排水公司将获得资金，用于铺设新的污水管网并兴建加压泵站。此举的核心目标是应对欧盟即将于2027年生效的严苛污水处理环保指令，以避免未来可能面临的巨额罚款。通过淘汰老旧的非封闭式污水池，该项目将显著提升当地的环境质量与治理水平。
-
-**关键信息：**
-- **项目资金：** 本年度生态贷款项目总预算为8000万兹罗提。
-- **核心目的：** 确保污水处理标准符合2027年欧盟新指令，规避违规罚款。
-- **主要举措：** 扩建污水管网、建设加压泵站，并取缔老旧的非封闭式污水池。
-- **首批受惠方：** 特热比利诺市及瓦迪斯瓦沃沃的供排水企业EKOWIK。
-- **社会效益：** 减少污水运输成本，大幅改善波美拉尼亚区域的水环境。
-
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -40,4 +27,18 @@ W województwie pomorskim rusza nowy projekt ekologiczny. Inwestycja ma na celu 
 注意动词“pożyczyć”（借出/借入）的变体。文中提到的“pożyczka”是名词形式，意为“贷款”。在波兰语中，以“-cja”结尾的词通常为阴性名词（rodzaj żeński），其复数形式为“-cje”，例如“inwestycje”（投资们/投资项目）。
 
 ---
+
+### 🗞️ 中文摘要
+波美拉尼亚省近日启动了名为“Szlamnik”的生态贷款项目，旨在通过总额8000万兹罗提的资金投入，全面升级该地区的供排水基础设施。该项目由波美拉尼亚发展基金与格但斯克省环保基金联合推动，首批已签署两份融资协议。其中，特热比利诺（Trzebielino）和瓦迪斯瓦沃沃（Władysławowo）的供排水公司将获得资金，用于铺设新的污水管网并兴建加压泵站。此举的核心目标是应对欧盟即将于2027年生效的严苛污水处理环保指令，以避免未来可能面临的巨额罚款。通过淘汰老旧的非封闭式污水池，该项目将显著提升当地的环境质量与治理水平。
+
+**关键信息：**
+- **项目资金：** 本年度生态贷款项目总预算为8000万兹罗提。
+- **核心目的：** 确保污水处理标准符合2027年欧盟新指令，规避违规罚款。
+- **主要举措：** 扩建污水管网、建设加压泵站，并取缔老旧的非封闭式污水池。
+- **首批受惠方：** 特热比利诺市及瓦迪斯瓦沃沃的供排水企业EKOWIK。
+- **社会效益：** 减少污水运输成本，大幅改善波美拉尼亚区域的水环境。
+
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Pomorskie-zbroi-sie-na-unijne-kary-Rusza-wielka-budowa-kanalizacji-za-miliony-9106776.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pomorskie-zbroi-sie-na-unijne-kary-Rusza-wielka-budowa-kanalizacji-za-miliony-9106776.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

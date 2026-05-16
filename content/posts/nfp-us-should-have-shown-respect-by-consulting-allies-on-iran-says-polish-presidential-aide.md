@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["波兰政治", "外交关系", "国际时政", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰总统府顾问近期公开批评美国，认为美国在涉及伊朗的问题上未能充分与盟友沟通，缺乏应有的尊重。波兰方面强调国际决策中盟友间透明协作的重要性，并呼吁美国在重大安全事务上加强协调。
-
-**关键信息：**
-- 波兰总统顾问批评美国处理伊朗问题的方式
-- 波兰认为美国缺乏与盟友协商的尊重
-- 波兰呼吁在国际安全政策中加强盟友协作
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Polski doradca prezydenta krytykuje USA. Jego zdaniem Amerykanie powinni szanowa
 注意 "w sprawach" 的用法。名词 "sprawa"（事情）在复数形式时使用 Locative 格，因此变为 "sprawach"。在谈论“关于某事”时，我们常使用 "w sprawach + Genitive (名词的二格)" 结构。
 
 ---
+
+### 🗞️ 中文摘要
+波兰总统府顾问近期公开批评美国，认为美国在涉及伊朗的问题上未能充分与盟友沟通，缺乏应有的尊重。波兰方面强调国际决策中盟友间透明协作的重要性，并呼吁美国在重大安全事务上加强协调。
+
+**关键信息：**
+- 波兰总统顾问批评美国处理伊朗问题的方式
+- 波兰认为美国缺乏与盟友协商的尊重
+- 波兰呼吁在国际安全政策中加强盟友协作
+
+---
+
 > 📰 原文来源：[https://notesfrompoland.com/2026/04/01/us-should-have-shown-respect-by-consulting-allies-on-iran-says-polish-presidential-aide/](https://notesfrompoland.com/2026/04/01/us-should-have-shown-respect-by-consulting-allies-on-iran-says-polish-presidential-aide/)

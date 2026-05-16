@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["国际新闻", "卫生安全", "波兰动态", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-一艘载有数千名乘客的豪华邮轮近日爆发严重病毒感染，引起了公共卫生部门的高度警惕。尽管当地政府出于防疫安全考虑明确表示反对，邮轮公司仍执意将其驶向原定的目标港口。目前，卫生官员正与港口管理部门紧急磋商，以决定如何处理船上的传染风险。乘客们对滞留和隔离表示担忧，而船方则坚称已采取严格的机上防护措施。此次事件凸显了大型海上旅游在面对流行病风险时的管理难题。
-
-**关键信息：**
-- 邮轮上爆发病毒感染威胁乘客健康
-- 当地政府因防疫需求反对邮轮靠港
-- 邮轮公司无视警告坚持前往目的地
-- 相关部门正就靠港安全进行紧急磋商
-- 乘客面临被隔离和行程中断的风险
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Na statku wycieczkowym wybuchła groźna infekcja. Władze portu nie chcą wpuś
 本文中出现的“płynie w stronę”涉及了波兰语中的“生格（Genitive case）”。当使用方位介词结构时，后面的名词通常需要变为生格形式。例如：strona (方向) 变为 strony。记住：strona -> w stronę (朝……方向)，这是波兰语中最常用的固定搭配之一。
 
 ---
+
+### 🗞️ 中文摘要
+一艘载有数千名乘客的豪华邮轮近日爆发严重病毒感染，引起了公共卫生部门的高度警惕。尽管当地政府出于防疫安全考虑明确表示反对，邮轮公司仍执意将其驶向原定的目标港口。目前，卫生官员正与港口管理部门紧急磋商，以决定如何处理船上的传染风险。乘客们对滞留和隔离表示担忧，而船方则坚称已采取严格的机上防护措施。此次事件凸显了大型海上旅游在面对流行病风险时的管理难题。
+
+**关键信息：**
+- 邮轮上爆发病毒感染威胁乘客健康
+- 当地政府因防疫需求反对邮轮靠港
+- 邮轮公司无视警告坚持前往目的地
+- 相关部门正就靠港安全进行紧急磋商
+- 乘客面临被隔离和行程中断的风险
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/wycieczkowiec-z-groznym-hantawirusem-plynie-w-strone-portu-docelowego-mimo-sprzeciwu-wladz-st9035204?source=rss](https://tvn24.pl/swiat/wycieczkowiec-z-groznym-hantawirusem-plynie-w-strone-portu-docelowego-mimo-sprzeciwu-wladz-st9035204?source=rss)

@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "极端天气", "生活资讯", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰部分地区近期持续遭受雷雨天气影响。尽管部分气象警报已解除，但雷暴活动在全国范围内仍未完全停止。气象部门提醒民众，局部地区仍可能出现强降雨和阵风。相关气象监测系统实时追踪雷暴路径，建议居民出行前查阅最新天气预报。请大家务必关注人身安全，避免在雷暴天气下前往开阔地带。
-
-**关键信息：**
-- 波兰部分地区仍处于雷雨活跃期
-- 气象部门持续发布局部雷暴警告
-- 居民应通过在线雷达监测系统查询天气
-- 出行需防范强降雨及突发阵风
-- 请在恶劣天气期间尽量留在室内
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ W wielu miejscach w Polsce wciąż pada deszcz. Burze przemieszczają się z zac
 注意 "ostrzegać przed" 后必须使用“属格”(Genitive)。例如：ostrzegać przed wiatrem (风-属格), ostrzegać przed burzą (雷暴-属格)。掌握好介词后的变格是B1级别表达准确的关键。
 
 ---
+
+### 🗞️ 中文摘要
+波兰部分地区近期持续遭受雷雨天气影响。尽管部分气象警报已解除，但雷暴活动在全国范围内仍未完全停止。气象部门提醒民众，局部地区仍可能出现强降雨和阵风。相关气象监测系统实时追踪雷暴路径，建议居民出行前查阅最新天气预报。请大家务必关注人身安全，避免在雷暴天气下前往开阔地带。
+
+**关键信息：**
+- 波兰部分地区仍处于雷雨活跃期
+- 气象部门持续发布局部雷暴警告
+- 居民应通过在线雷达监测系统查询天气
+- 出行需防范强降雨及突发阵风
+- 请在恶劣天气期间尽量留在室内
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-czwartek-7-05-mapa-i-radar-burz-slychac-pierwsze-grzmoty-st9036000?source=rss](https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-czwartek-7-05-mapa-i-radar-burz-slychac-pierwsze-grzmoty-st9036000?source=rss)

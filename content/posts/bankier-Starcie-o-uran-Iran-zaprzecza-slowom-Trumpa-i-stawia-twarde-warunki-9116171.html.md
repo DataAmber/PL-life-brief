@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["国际政治", "能源安全", "伊美关系", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-伊朗外交部副部长哈提布扎德日前表示，德黑兰拒绝与美国举行新一轮直接对话。此前美国总统特朗普声称双方已达成运送浓缩铀的共识，但伊朗方面对此予以坚决否认，称转让铀资源是不可接受的条件。伊朗方面坚持要求美国先解决制裁等核心诉求，并在开启面对面会谈前达成“框架协议”。目前，巴基斯坦正作为中间人斡旋两国关系。随着目前的临时停火协议即将到期，双方在核问题上的立场依然分歧巨大。
-
-**关键信息：**
-- 伊朗明确拒绝将浓缩铀移交给美国。
-- 特朗普声称伊方已同意放弃浓缩铀，但遭伊朗驳斥。
-- 伊朗要求美国必须先考虑解除制裁等核心问题。
-- 巴基斯坦正在担任伊美双方的谈判调停人。
-- 当前的停火协议即将在本周中旬到期。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -40,4 +28,17 @@ Iran nie chce oddać wzbogaconego uranu. Teheran zaprzecza słowom Donalda Trump
 
 
 ---
+
+### 🗞️ 中文摘要
+伊朗外交部副部长哈提布扎德日前表示，德黑兰拒绝与美国举行新一轮直接对话。此前美国总统特朗普声称双方已达成运送浓缩铀的共识，但伊朗方面对此予以坚决否认，称转让铀资源是不可接受的条件。伊朗方面坚持要求美国先解决制裁等核心诉求，并在开启面对面会谈前达成“框架协议”。目前，巴基斯坦正作为中间人斡旋两国关系。随着目前的临时停火协议即将到期，双方在核问题上的立场依然分歧巨大。
+
+**关键信息：**
+- 伊朗明确拒绝将浓缩铀移交给美国。
+- 特朗普声称伊方已同意放弃浓缩铀，但遭伊朗驳斥。
+- 伊朗要求美国必须先考虑解除制裁等核心问题。
+- 巴基斯坦正在担任伊美双方的谈判调停人。
+- 当前的停火协议即将在本周中旬到期。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Starcie-o-uran-Iran-zaprzecza-slowom-Trumpa-i-stawia-twarde-warunki-9116171.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Starcie-o-uran-Iran-zaprzecza-slowom-Trumpa-i-stawia-twarde-warunki-9116171.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

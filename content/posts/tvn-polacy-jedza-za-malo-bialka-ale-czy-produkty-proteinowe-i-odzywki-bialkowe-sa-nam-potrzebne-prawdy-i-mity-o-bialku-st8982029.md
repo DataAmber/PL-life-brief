@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["健康生活", "饮食建议", "波兰新闻", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期波兰健康专家对“蛋白质补充”进行了深入分析，揭示了过量摄入蛋白质可能带来的健康隐患。文章辟谣了许多关于蛋白质补充剂的常见误区，并强调了均衡饮食的重要性。
-
-**关键信息：**
-- 蛋白质虽然对肌肉构建至关重要，但过量摄入会加重肾脏负担。
-- 并非所有补充剂都比天然食物更好，天然食物中含有的微量元素同样不可替代。
-- 专家建议根据个人运动量调整摄入，切勿盲目追求高蛋白饮食。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Białko jest ważne dla naszych mięśni. Jednak nie powinniśmy jeść go za du
 注意形容词“szkodliwy”与其后的名词“nerki”在格位上的搭配。当我们要表达“对……有害”时，使用“szkodliwy dla + 生格（Genetivus）”。例如：szkodliwy dla zdrowia (健康) 或 szkodliwy dla nerek (肾脏)。
 
 ---
+
+### 🗞️ 中文摘要
+近期波兰健康专家对“蛋白质补充”进行了深入分析，揭示了过量摄入蛋白质可能带来的健康隐患。文章辟谣了许多关于蛋白质补充剂的常见误区，并强调了均衡饮食的重要性。
+
+**关键信息：**
+- 蛋白质虽然对肌肉构建至关重要，但过量摄入会加重肾脏负担。
+- 并非所有补充剂都比天然食物更好，天然食物中含有的微量元素同样不可替代。
+- 专家建议根据个人运动量调整摄入，切勿盲目追求高蛋白饮食。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/zdrowie/polacy-jedza-za-malo-bialka-ale-czy-produkty-proteinowe-i-odzywki-bialkowe-sa-nam-potrzebne-prawdy-i-mity-o-bialku-st8982029?source=rss](https://tvn24.pl/zdrowie/polacy-jedza-za-malo-bialka-ale-czy-produkty-proteinowe-i-odzywki-bialkowe-sa-nam-potrzebne-prawdy-i-mity-o-bialku-st8982029?source=rss)

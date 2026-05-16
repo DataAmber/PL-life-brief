@@ -5,16 +5,6 @@ categories: ["Economy"]
 tags: ["能源经济", "国际局事", "石油市场", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-受中东地区冲突影响，全球石油供应出现历史性中断，油价逼近每桶120美元。对此，OPEC+组织宣布将从5月起每日增产20.6万桶，以缓解市场波动并保障能源供应安全。
-
-**关键信息：**
-- **OPEC+决定增产：** 为应对供应短缺，计划从5月起每日额外生产20.6万桶石油。
-- **地缘政治风险：** 伊朗与美以的冲突导致霍尔木兹海峡受阻，威胁全球能源运输。
-- **供应严重受损：** 目前全球日均石油供应减少约1200至1500万桶，约占全球总产量的15%。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Ceny ropy naftowej gwałtownie rosną z powodu wojny na Bliskim Wschodzie. OPEC+
 注意词组“z powodu + 第二格(Genitive)”。例如文中“z powodu wojny”（因为战争），wojna（战争）的结尾从-a变为-y，这是典型的阳性/阴性名词单数二格变化，用于表达原因或归属。
 
 ---
+
+### 🗞️ 中文摘要
+受中东地区冲突影响，全球石油供应出现历史性中断，油价逼近每桶120美元。对此，OPEC+组织宣布将从5月起每日增产20.6万桶，以缓解市场波动并保障能源供应安全。
+
+**关键信息：**
+- **OPEC+决定增产：** 为应对供应短缺，计划从5月起每日额外生产20.6万桶石油。
+- **地缘政治风险：** 伊朗与美以的冲突导致霍尔木兹海峡受阻，威胁全球能源运输。
+- **供应严重受损：** 目前全球日均石油供应减少约1200至1500万桶，约占全球总产量的15%。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Widmo-ropy-po-150-dolarow-OPEC-interweniuje-w-obliczu-globalnego-kryzysu-9109621.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Widmo-ropy-po-150-dolarow-OPEC-interweniuje-w-obliczu-globalnego-kryzysu-9109621.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

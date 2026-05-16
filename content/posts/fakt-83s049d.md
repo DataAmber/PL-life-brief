@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["突发新闻", "巴塞罗那", "国际安全", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-巴塞罗那附近的高档社区近日发生一起骇人听闻的持刀杀人案。一名持刀男子在光天化日之下，无故袭击了一名亚洲女性，导致受害者不幸身亡。据目击者称，凶手在作案前曾在街头挥舞利刃，表现得极其不安。警方在案发后不久，于繁华的对角线大道上将其成功抓获。在此次袭击中，还有一名58岁男性被刺伤肩膀，目前伤势稳定。
-
-**关键信息：**
-- 案件发生在巴塞罗那附近的Esplugues de Llobregat高档区域。
-- 一名亚洲女性不幸遭遇袭击后丧生。
-- 袭击者在袭击前曾在街头挥刀，行为表现极不稳定。
-- 另一名58岁路人在袭击中受伤，无生命危险。
-- 警方已在案发后迅速控制了嫌疑人。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ W Barcelonie doszło do krwawego ataku. Nieznany napastnik zaatakował przypadko
 本篇报道多次出现“ataku” (genitive格)，这是因为动词“dojść”要求接Genitive（二格）。在波兰语中，当你描述事故或突发事件发生时，记好这个结构：Dość do + Genitive。例如：Doszło do tragedii (发生了一场悲剧)。
 
 ---
+
+### 🗞️ 中文摘要
+巴塞罗那附近的高档社区近日发生一起骇人听闻的持刀杀人案。一名持刀男子在光天化日之下，无故袭击了一名亚洲女性，导致受害者不幸身亡。据目击者称，凶手在作案前曾在街头挥舞利刃，表现得极其不安。警方在案发后不久，于繁华的对角线大道上将其成功抓获。在此次袭击中，还有一名58岁男性被刺伤肩膀，目前伤势稳定。
+
+**关键信息：**
+- 案件发生在巴塞罗那附近的Esplugues de Llobregat高档区域。
+- 一名亚洲女性不幸遭遇袭击后丧生。
+- 袭击者在袭击前曾在街头挥刀，行为表现极不稳定。
+- 另一名58岁路人在袭击中受伤，无生命危险。
+- 警方已在案发后迅速控制了嫌疑人。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/swiat/barcelona-zabojczy-atak-na-ulicy-popularnego-kurortu-nie-zyje-kobieta/83s049d](https://www.fakt.pl/wydarzenia/swiat/barcelona-zabojczy-atak-na-ulicy-popularnego-kurortu-nie-zyje-kobieta/83s049d)

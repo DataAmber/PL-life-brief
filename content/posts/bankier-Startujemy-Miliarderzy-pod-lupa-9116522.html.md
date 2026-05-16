@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "商业领袖", "Rafał Brzoska", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰知名财经媒体Bankier.pl近日开启了一档名为《亿万富翁面面观》的深度栏目。该系列旨在客观、深度地剖析那些对波兰经济和民众生活产生重大影响的企业界大佬。栏目首期将目光聚焦于InPost创始人拉法尔·布佐斯卡（Rafał Brzoska）。节目将摒弃公关辞令，从慈善表现、商业版图、职业道德争议以及未来发展潜力四个维度进行多方位审视。媒体方表示，这一系列节目将保持严谨与独立，并邀请观众共同参与讨论与评估。
-
-**关键信息：**
-- Bankier.pl推出专题系列节目《亿万富翁面面观》。
-- 首期深度解析波兰最具影响力的企业家Rafał Brzoska。
-- 评估维度涵盖慈善、商业成就、职业道德与前景。
-- 强调摒弃包装，追求客观且无滤镜的商业报道。
-- 邀请观众参与互动，反馈该深度报道节目的价值。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Bankier.pl rozpoczyna nowy program o miliarderach. W pierwszym odcinku dziennika
 注意“pod lupę”这个搭配，动词“brać”后接第四格（Biernik）。“Lupa”在第四格中变为“lupę”。在波兰语中，当你需要表达“仔细研究”某个议题时，直接使用这个地道表达即可，不需要在lupa前加任何形容词。
 
 ---
+
+### 🗞️ 中文摘要
+波兰知名财经媒体Bankier.pl近日开启了一档名为《亿万富翁面面观》的深度栏目。该系列旨在客观、深度地剖析那些对波兰经济和民众生活产生重大影响的企业界大佬。栏目首期将目光聚焦于InPost创始人拉法尔·布佐斯卡（Rafał Brzoska）。节目将摒弃公关辞令，从慈善表现、商业版图、职业道德争议以及未来发展潜力四个维度进行多方位审视。媒体方表示，这一系列节目将保持严谨与独立，并邀请观众共同参与讨论与评估。
+
+**关键信息：**
+- Bankier.pl推出专题系列节目《亿万富翁面面观》。
+- 首期深度解析波兰最具影响力的企业家Rafał Brzoska。
+- 评估维度涵盖慈善、商业成就、职业道德与前景。
+- 强调摒弃包装，追求客观且无滤镜的商业报道。
+- 邀请观众参与互动，反馈该深度报道节目的价值。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Startujemy-Miliarderzy-pod-lupa-9116522.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Startujemy-Miliarderzy-pod-lupa-9116522.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
