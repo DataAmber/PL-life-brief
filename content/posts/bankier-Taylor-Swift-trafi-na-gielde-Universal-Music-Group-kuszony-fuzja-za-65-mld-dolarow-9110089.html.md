@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["环球音乐", "并购交易", "华尔街", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-全球音乐巨头环球音乐集团（Universal Music Group）近日收到了一份高达643亿美元的并购提议。该提议由亿万富翁比尔·阿克曼旗下的Pershing Square投资公司提出，旨在通过整合资源推动公司赴美上市。若交易达成，新公司将直接在纽约证券交易所挂牌，并可能引入原迪士尼高管参与管理。虽然环球音乐在艺术家资源和业务表现上极具优势，但阿克曼指出其在股市的表现仍有提升空间。目前，受此消息影响，环球音乐股价在开盘后已上涨约11%。
-
-**关键信息：**
-- **并购规模：** 交易估值约为643亿美元。
-- **核心提议：** Pershing Square提议合并公司并促成其在华尔街上市。
-- **财务细节：** 股东将获得现金及新公司股票，总额极具吸引力。
-- **战略意图：** 通过重组解决因持股结构和上市进度滞后导致的市场低估问题。
-- **市场反应：** 消息公布后，环球音乐股价盘中大涨11%。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Universal Music Group otrzymał ofertę przejęcia. Kwota transakcji to ponad 64
 注意词组“trafić na giełdę”。其中“na”接宾格（Biernik），表示动作的趋向。B1级别学习者常会混淆方位格（Locative），请记住：表示“去往/进入”市场用“na giełdę”，若表示“在市场上”，则用“na giełdzie”（Locative）。
 
 ---
+
+### 🗞️ 中文摘要
+全球音乐巨头环球音乐集团（Universal Music Group）近日收到了一份高达643亿美元的并购提议。该提议由亿万富翁比尔·阿克曼旗下的Pershing Square投资公司提出，旨在通过整合资源推动公司赴美上市。若交易达成，新公司将直接在纽约证券交易所挂牌，并可能引入原迪士尼高管参与管理。虽然环球音乐在艺术家资源和业务表现上极具优势，但阿克曼指出其在股市的表现仍有提升空间。目前，受此消息影响，环球音乐股价在开盘后已上涨约11%。
+
+**关键信息：**
+- **并购规模：** 交易估值约为643亿美元。
+- **核心提议：** Pershing Square提议合并公司并促成其在华尔街上市。
+- **财务细节：** 股东将获得现金及新公司股票，总额极具吸引力。
+- **战略意图：** 通过重组解决因持股结构和上市进度滞后导致的市场低估问题。
+- **市场反应：** 消息公布后，环球音乐股价盘中大涨11%。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Taylor-Swift-trafi-na-gielde-Universal-Music-Group-kuszony-fuzja-za-65-mld-dolarow-9110089.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Taylor-Swift-trafi-na-gielde-Universal-Music-Group-kuszony-fuzja-za-65-mld-dolarow-9110089.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

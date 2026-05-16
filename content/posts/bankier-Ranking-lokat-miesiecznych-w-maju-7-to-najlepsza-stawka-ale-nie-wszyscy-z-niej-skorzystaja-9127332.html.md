@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "银行存款", "个人理财", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰最新的月度定期存款排名显示，银行提供的最高年化利率达到7%。该高额利率由Bank Nowy提供，但仅面向新客户且设有1万兹罗提的存款上限。排在第二位的是Bank Millennium的“生日存款”，年利率为4%，但要求客户在生日前后30天内通过手机APP办理。市场上的其他存款产品利率普遍较低，多数在2%至4%之间波动。投资者在追求高收益的同时，需特别注意银行设定的各项附加门槛和资金限额。
-
-**关键信息：**
-- 市场最高月度存款利率为7%（年化），由Bank Nowy提供。
-- 高收益存款通常要求是银行的新客户。
-- 存款产品通常设有最低与最高额度限制。
-- 部分优惠存款如“生日存款”有特定的时间与渠道限制。
-- 多数银行要求持有现有账户才能办理相关定期业务。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Banki w Polsce oferują różne lokaty miesięczne. Najwyższe oprocentowanie wy
 注意名词短语的格变化。在谈论“7%”时，我们使用“siedem procent”。百分比在波兰语中通常作为不可变名词或与其后的名词构成属格（Genitive）关系。例如：7% zysku (7% 的利润)，其中 zysk 变为 zysku。在表达利率时，p.a. (per annum) 对应的波兰语是 w skali roku。
 
 ---
+
+### 🗞️ 中文摘要
+波兰最新的月度定期存款排名显示，银行提供的最高年化利率达到7%。该高额利率由Bank Nowy提供，但仅面向新客户且设有1万兹罗提的存款上限。排在第二位的是Bank Millennium的“生日存款”，年利率为4%，但要求客户在生日前后30天内通过手机APP办理。市场上的其他存款产品利率普遍较低，多数在2%至4%之间波动。投资者在追求高收益的同时，需特别注意银行设定的各项附加门槛和资金限额。
+
+**关键信息：**
+- 市场最高月度存款利率为7%（年化），由Bank Nowy提供。
+- 高收益存款通常要求是银行的新客户。
+- 存款产品通常设有最低与最高额度限制。
+- 部分优惠存款如“生日存款”有特定的时间与渠道限制。
+- 多数银行要求持有现有账户才能办理相关定期业务。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Ranking-lokat-miesiecznych-w-maju-7-to-najlepsza-stawka-ale-nie-wszyscy-z-niej-skorzystaja-9127332.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ranking-lokat-miesiecznych-w-maju-7-to-najlepsza-stawka-ale-nie-wszyscy-z-niej-skorzystaja-9127332.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

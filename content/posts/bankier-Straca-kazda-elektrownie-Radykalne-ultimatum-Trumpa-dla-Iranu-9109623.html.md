@@ -5,16 +5,6 @@ categories: ["Economy"]
 tags: ["国际财经", "中东局势", "能源安全", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-美国总统特朗普向伊朗发出最后通牒，要求其在周二前开放霍尔木兹海峡，否则将摧毁伊朗境内的所有发电站和桥梁。特朗普同时表示，若局势恶化，美国不排除接管石油资源，并声称已有信心在近期达成协议。
-
-**关键信息：**
-- 特朗普威胁称，若伊朗不开放霍尔木兹海峡，将对其基础设施进行毁灭性打击。
-- 美国正积极应对在该地区的一系列军事冲突，包括近期发生的F-15战机被击落事件。
-- 特朗普强调了美国在谈判中的强势立场，并提到曾向伊朗抗议者提供武器援助。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Prezydent Trump postawił Iranowi ostateczne ultimatum. Jeśli Iran nie otworzy 
 本文中多次出现条件句结构："Jeśli... (jeśli) + 条件, to (则)..."。这是波兰语中最基础的假设句型。注意“jeśli”引导的从句通常后接现在时或未来时，而主句可以使用命令式或将来时，非常适合在商务谈判或日常生活中表达“如果不...就...”的逻辑。
 
 ---
+
+### 🗞️ 中文摘要
+美国总统特朗普向伊朗发出最后通牒，要求其在周二前开放霍尔木兹海峡，否则将摧毁伊朗境内的所有发电站和桥梁。特朗普同时表示，若局势恶化，美国不排除接管石油资源，并声称已有信心在近期达成协议。
+
+**关键信息：**
+- 特朗普威胁称，若伊朗不开放霍尔木兹海峡，将对其基础设施进行毁灭性打击。
+- 美国正积极应对在该地区的一系列军事冲突，包括近期发生的F-15战机被击落事件。
+- 特朗普强调了美国在谈判中的强势立场，并提到曾向伊朗抗议者提供武器援助。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Straca-kazda-elektrownie-Radykalne-ultimatum-Trumpa-dla-Iranu-9109623.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Straca-kazda-elektrownie-Radykalne-ultimatum-Trumpa-dla-Iranu-9109623.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

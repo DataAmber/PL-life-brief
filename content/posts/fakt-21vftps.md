@@ -5,16 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰社会", "动物保护", "法律新闻", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰Sobolew一家动物收容所因长期虐待、忽视及导致动物死亡，其负责人Marian D.近期被法院判刑。调查显示该机构存在严重的管理不善，甚至有通过虐待动物骗取政府补贴的行为，目前针对其个人的多项调查仍在进行中。
-
-**关键信息：**
-- Sobolew动物收容所因恶劣的生存环境被强制关闭。
-- 负责人Marian D.因虐待动物罪被判处有期徒刑。
-- 调查揭露了该收容所利用残疾动物骗取政府安置资金的黑幕。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Schronisko w Sobolewie zostało zamknięte. Właściciel miejsca był okrutny dl
 注意“znęcać się”后面必须接“nad”加工具格（Instrumental case）。例如：nad psem (dog, 阳性), nad kotem (cat, 阳性)。这是表示“对待/虐待某人或某物”的标准语法结构。
 
 ---
+
+### 🗞️ 中文摘要
+波兰Sobolew一家动物收容所因长期虐待、忽视及导致动物死亡，其负责人Marian D.近期被法院判刑。调查显示该机构存在严重的管理不善，甚至有通过虐待动物骗取政府补贴的行为，目前针对其个人的多项调查仍在进行中。
+
+**关键信息：**
+- Sobolew动物收容所因恶劣的生存环境被强制关闭。
+- 负责人Marian D.因虐待动物罪被判处有期徒刑。
+- 调查揭露了该收容所利用残疾动物骗取政府安置资金的黑幕。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/dramatyczna-walka-o-zycie-psa-szokujace-kulisy-interwencji-w-sobolewie/21vftps](https://www.fakt.pl/wydarzenia/dramatyczna-walka-o-zycie-psa-szokujace-kulisy-interwencji-w-sobolewie/21vftps)

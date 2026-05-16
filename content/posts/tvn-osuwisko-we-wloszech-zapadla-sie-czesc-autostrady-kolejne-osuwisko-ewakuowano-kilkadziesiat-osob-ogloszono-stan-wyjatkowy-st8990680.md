@@ -5,19 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "自然灾害", "应急响应", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期波兰部分地区遭遇严重地质灾害，再次发生大规模土地滑坡事件。当地政府迅速采取行动，组织受影响区域的居民进行紧急疏散，以确保民众生命安全。为了应对潜在的次生灾害，受灾区域已被宣布进入紧急状态。救援队伍和专家组正密切监测地质变化，防止灾情进一步扩大。相关部门呼吁公众保持警惕，并严格遵守疏散指令。
-
-**关键信息：**
-- 波兰再次发生严重土地滑坡事件
-- 政府迅速启动紧急疏散预案
-- 受灾区域正式宣布进入紧急状态
-- 专家组正在进行全面地质监测
-- 救援力量全力保障受灾民众安全
-
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -40,4 +27,18 @@ W Polsce doszło do kolejnego osuwiska ziemi. Sytuacja jest bardzo poważna i ni
 本篇文本中出现了“doszło do...”结构，这在描述自然灾害或突发事件时非常常用。例如：Doszło do wypadku (发生了事故)。请注意，介词“do”后面必须接名词的二格（Genetivus），例如“osuwiska”就是“osuwisko”的二格形式。
 
 ---
+
+### 🗞️ 中文摘要
+近期波兰部分地区遭遇严重地质灾害，再次发生大规模土地滑坡事件。当地政府迅速采取行动，组织受影响区域的居民进行紧急疏散，以确保民众生命安全。为了应对潜在的次生灾害，受灾区域已被宣布进入紧急状态。救援队伍和专家组正密切监测地质变化，防止灾情进一步扩大。相关部门呼吁公众保持警惕，并严格遵守疏散指令。
+
+**关键信息：**
+- 波兰再次发生严重土地滑坡事件
+- 政府迅速启动紧急疏散预案
+- 受灾区域正式宣布进入紧急状态
+- 专家组正在进行全面地质监测
+- 救援力量全力保障受灾民众安全
+
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnmeteo/swiat/osuwisko-we-wloszech-zapadla-sie-czesc-autostrady-kolejne-osuwisko-ewakuowano-kilkadziesiat-osob-ogloszono-stan-wyjatkowy-st8990680?source=rss](https://tvn24.pl/tvnmeteo/swiat/osuwisko-we-wloszech-zapadla-sie-czesc-autostrady-kolejne-osuwisko-ewakuowano-kilkadziesiat-osob-ogloszono-stan-wyjatkowy-st8990680?source=rss)

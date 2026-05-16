@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["国际局势", "中东经济", "能源运输", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-伊朗媒体报道称德黑兰于周四晚启动防空系统并伴有爆炸声，引发对地区局势的担忧。尽管处于停火协议期间，但当地居民报告称听到了明显的防空拦截声。以色列安全部门高层迅速予以否认，称未对伊朗发动任何袭击。目前，霍尔木兹海峡的航运封锁仍是影响全球能源市场的核心经济风险。尽管美国已延长停火协议，但伊朗与美以之间的冲突前景依然充满不确定性。
-
-**关键信息：**
-- 德黑兰启动防空系统应对不明“敌对目标”。
-- 以色列官方明确否认近期对伊朗发动空袭。
-- 尽管签署了停火协议，中东地区局势依然高度紧张。
-- 霍尔木兹海峡航运受阻，持续威胁国际能源供应安全。
-- 美国延长停火协议，但和平前景仍不明朗。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ System obrony powietrznej w Teheranie został uruchomiony. Mieszkańcy słyszeli
 注意动词 zaprzeczać 的用法：它要求接与格（Celownik）。例句中 zaprzecza (on/ona) 后面隐含了针对某个事实的否认，而在否定句中，表达“否认某事”时，通常在后面接“że”引导的从句，这对于B1水平的学习者来说是表达观点的标准句式。
 
 ---
+
+### 🗞️ 中文摘要
+伊朗媒体报道称德黑兰于周四晚启动防空系统并伴有爆炸声，引发对地区局势的担忧。尽管处于停火协议期间，但当地居民报告称听到了明显的防空拦截声。以色列安全部门高层迅速予以否认，称未对伊朗发动任何袭击。目前，霍尔木兹海峡的航运封锁仍是影响全球能源市场的核心经济风险。尽管美国已延长停火协议，但伊朗与美以之间的冲突前景依然充满不确定性。
+
+**关键信息：**
+- 德黑兰启动防空系统应对不明“敌对目标”。
+- 以色列官方明确否认近期对伊朗发动空袭。
+- 尽管签署了停火协议，中东地区局势依然高度紧张。
+- 霍尔木兹海峡航运受阻，持续威胁国际能源供应安全。
+- 美国延长停火协议，但和平前景仍不明朗。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/W-Teheranie-uruchomiono-obrone-powietrzna-Izrael-zaprzecza-by-atakowal-9122055.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/W-Teheranie-uruchomiono-obrone-powietrzna-Izrael-zaprzecza-by-atakowal-9122055.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

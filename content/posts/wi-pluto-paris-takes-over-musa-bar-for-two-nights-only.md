@@ -5,16 +5,6 @@ categories: ["Lifestyle"]
 tags: ["华沙生活", "美食探店", "波兰旅行", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-来自巴黎的知名厨师Thomas Coupeau将在华沙MUSA酒吧开启为期两晚的快闪活动。他将带来融合法式结构与亚洲风味的“新小酒馆”特色佳肴，为华沙食客提供独特的感官体验。
-
-**关键信息：**
-- **活动时间：** 2026年3月26日至27日，下午4点开始。
-- **核心理念：** 主打法亚融合料理，展现厨师独特的火烤烹饪艺术。
-- **预订方式：** 可通过电话或邮件直接联系MUSA Bar预订席位。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Znany szef kuchni z Paryża odwiedzi Warszawę. Przez dwa wieczory będzie gotow
 本篇提到时间跨度使用了“przez + 宾格(Accusative)”。在波兰语中，当你描述一件事情持续的时间时（如：przez dwa dni 两天，przez dwa wieczory 两个晚上），动词后面接持续时间段，名词需要变为宾格形式。这是A2级别中非常实用的时间表达方式。
 
 ---
+
+### 🗞️ 中文摘要
+来自巴黎的知名厨师Thomas Coupeau将在华沙MUSA酒吧开启为期两晚的快闪活动。他将带来融合法式结构与亚洲风味的“新小酒馆”特色佳肴，为华沙食客提供独特的感官体验。
+
+**关键信息：**
+- **活动时间：** 2026年3月26日至27日，下午4点开始。
+- **核心理念：** 主打法亚融合料理，展现厨师独特的火烤烹饪艺术。
+- **预订方式：** 可通过电话或邮件直接联系MUSA Bar预订席位。
+
+---
+
 > 📰 原文来源：[https://warsawinsider.pl/pluto-paris-takes-over-musa-bar-for-two-nights-only/](https://warsawinsider.pl/pluto-paris-takes-over-musa-bar-for-two-nights-only/)

@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["国际新闻", "美国政治", "乌克兰局势", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-美国驻乌克兰基辅大使馆的最高外交官近日宣布辞职。媒体报道称，此次人事变动的主要原因是其与即将上任的美国当选总统唐纳德·特朗普之间存在政策分歧。这位负责人表示，在当前复杂的地缘政治环境下，双方在如何处理乌克兰问题上无法达成一致。辞职决定被视为美国外交政策重心可能发生调整的重要信号。外界普遍关注此举对未来美乌关系及俄乌冲突走向的影响。
-
-**关键信息：**
-- 驻基辅美国外交代表决定辞职
-- 离职主因是与特朗普存在政治分歧
-- 此举引发国际社会对美乌关系的猜测
-- 辞职正值乌克兰战事关键时期
-- 美国对乌援助政策或面临调整风险
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Szefowa amerykańskiej ambasady w Kijowie złożyła rezygnację. Powodem tej de
 注意“złożyć rezygnację”中的“rezygnację”是名词rezygnacja的第4格（Accusative）。在波兰语中，当你“执行”一个动作（动词+宾语）时，宾语通常要变成第4格，即以-a结尾的阴性名词在4格变为-ę。
 
 ---
+
+### 🗞️ 中文摘要
+美国驻乌克兰基辅大使馆的最高外交官近日宣布辞职。媒体报道称，此次人事变动的主要原因是其与即将上任的美国当选总统唐纳德·特朗普之间存在政策分歧。这位负责人表示，在当前复杂的地缘政治环境下，双方在如何处理乌克兰问题上无法达成一致。辞职决定被视为美国外交政策重心可能发生调整的重要信号。外界普遍关注此举对未来美乌关系及俄乌冲突走向的影响。
+
+**关键信息：**
+- 驻基辅美国外交代表决定辞职
+- 离职主因是与特朗普存在政治分歧
+- 此举引发国际社会对美乌关系的猜测
+- 辞职正值乌克兰战事关键时期
+- 美国对乌援助政策或面临调整风险
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/szefowa-ambasady-usa-w-kijowie-odchodzi-w-obliczu-roznic-z-prezydentem-donaldem-trumpem-st9021966?source=rss](https://tvn24.pl/swiat/szefowa-ambasady-usa-w-kijowie-odchodzi-w-obliczu-roznic-z-prezydentem-donaldem-trumpem-st9021966?source=rss)

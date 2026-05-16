@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "Nordea", "养老金管理", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-尽管Nordea Pension拥有市场上顶尖的投资收益率，但其内部管理却面临严峻挑战。由于陈旧的IT系统限制，该公司难以承接大型企业客户的养老金业务，导致收入增长缓慢且出现年度亏损。最讽刺的是，Nordea银行的约6000名员工宁愿选择竞争对手Velliv，也不愿使用自家的养老金服务。这一现象被市场视为对其IT能力不足的直接投票，严重损害了公司形象。尽管管理层承诺通过“Scale 2030”战略改善现状，但转型期限的一再推迟令投资者信心受挫。
-
-**关键信息：**
-- **高回报低增长**：Nordea Pension投资业绩优异，但2025年收入仅增长5%，且亏损1.07亿丹麦克朗。
-- **技术瓶颈**：落后的IT系统导致公司无法处理大型企业养老金业务，不得不放弃多个竞标项目。
-- **员工选择**：6000名Nordea员工依然选择将养老金托管给竞争对手Velliv。
-- **战略模糊**：公司宣布“Scale 2030”计划，但缺乏明确的执行时间表，被质疑缺乏核心竞争力。
-- **市场定位**：目前业务过于依赖对波动敏感的个人客户，缺乏稳定的B2B企业客户基础。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Nordea Pension osiąga świetne wyniki finansowe. Jednak firma ma duże problemy
 注意动词“wybierać”（选择）的接格用法。本句中“Pracownicy nie wybierają własnego towarzystwa”使用了宾格（Accusative）。当“选择”的对象是具体事物时，记得检查其阳性单数形式是否需要根据有生/无生名词规则变化。此外，własny (自己的) 必须与被修饰名词在性、数、格上保持一致。
 
 ---
+
+### 🗞️ 中文摘要
+尽管Nordea Pension拥有市场上顶尖的投资收益率，但其内部管理却面临严峻挑战。由于陈旧的IT系统限制，该公司难以承接大型企业客户的养老金业务，导致收入增长缓慢且出现年度亏损。最讽刺的是，Nordea银行的约6000名员工宁愿选择竞争对手Velliv，也不愿使用自家的养老金服务。这一现象被市场视为对其IT能力不足的直接投票，严重损害了公司形象。尽管管理层承诺通过“Scale 2030”战略改善现状，但转型期限的一再推迟令投资者信心受挫。
+
+**关键信息：**
+- **高回报低增长**：Nordea Pension投资业绩优异，但2025年收入仅增长5%，且亏损1.07亿丹麦克朗。
+- **技术瓶颈**：落后的IT系统导致公司无法处理大型企业养老金业务，不得不放弃多个竞标项目。
+- **员工选择**：6000名Nordea员工依然选择将养老金托管给竞争对手Velliv。
+- **战略模糊**：公司宣布“Scale 2030”计划，但缺乏明确的执行时间表，被质疑缺乏核心竞争力。
+- **市场定位**：目前业务过于依赖对波动敏感的个人客户，缺乏稳定的B2B企业客户基础。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Pracownicy-Nordei-nie-wybieraja-wlasnego-towarzystwa-emerytalnego-To-nie-wyglada-dobrze-9109486.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pracownicy-Nordei-nie-wybieraja-wlasnego-towarzystwa-emerytalnego-To-nie-wyglada-dobrze-9109486.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

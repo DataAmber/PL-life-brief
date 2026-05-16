@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["华沙生活", "波兰新闻", "野生动物", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，华沙Bemowo区的一个儿童游乐场迎来了一位不速之客——一只野猪。这只野猪大摇大摆地进入了游乐区，引起了附近居民的恐慌。当地警察随即接到报警并赶赴现场，封锁了相关区域以确保儿童和居民的安全。随后，华沙林业部门的专家也赶到现场，通过专业手段将野猪安全驱离并带回野外。目前该游乐场已恢复正常开放，幸好此次事件中未造成人员伤亡。
-
-**关键信息：**
-- 华沙Bemowo区游乐场出现野猪闯入事件
-- 当地警方迅速出动以维护公共安全
-- 华沙林业部门配合进行专业处置
-- 野猪已被安全转移至野外森林区域
-- 游乐场周边环境目前已解除危险
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Dziki dzik wszedł na plac zabaw w Warszawie. Mieszkańcy byli bardzo przestrasz
 本篇文本中出现了过去时动词“wszedł”（进入）和“został przewieziony”（被运输）。注意“został”+过去分词是典型的被动语态构造，在新闻报道中非常常见，用于客观描述事件经过。
 
 ---
+
+### 🗞️ 中文摘要
+近期，华沙Bemowo区的一个儿童游乐场迎来了一位不速之客——一只野猪。这只野猪大摇大摆地进入了游乐区，引起了附近居民的恐慌。当地警察随即接到报警并赶赴现场，封锁了相关区域以确保儿童和居民的安全。随后，华沙林业部门的专家也赶到现场，通过专业手段将野猪安全驱离并带回野外。目前该游乐场已恢复正常开放，幸好此次事件中未造成人员伤亡。
+
+**关键信息：**
+- 华沙Bemowo区游乐场出现野猪闯入事件
+- 当地警方迅速出动以维护公共安全
+- 华沙林业部门配合进行专业处置
+- 野猪已被安全转移至野外森林区域
+- 游乐场周边环境目前已解除危险
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnwarszawa/bemowo/warszawa-dzik-na-placu-zabaw-na-bemowie-zostal-uspiony-st9015939?source=rss](https://tvn24.pl/tvnwarszawa/bemowo/warszawa-dzik-na-placu-zabaw-na-bemowie-zostal-uspiony-st9015939?source=rss)

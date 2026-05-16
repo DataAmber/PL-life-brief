@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "突发事故", "航空安全", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近日，波兰一架参与森林灭火任务的飞机在执行作业时不幸坠毁。据目击者称，飞机在飞行过程中突然失去控制，直线下坠并最终坠地。当地救援部门迅速赶往现场，但遗憾的是事故造成了严重损失。目前，相关部门已展开调查，以查明事故发生的具体原因，包括技术故障或天气影响等因素。这起悲剧再次引发了社会各界对森林消防飞行安全的广泛关注。
-
-**关键信息：**
-- 事故发生于波兰境内的森林灭火作业中
-- 目击者描述飞机是突然坠落的
-- 当地应急救援力量迅速投入现场处置
-- 事故原因目前处于全面调查阶段
-- 该事件引起了波兰国内对航空安全的讨论
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Samolot gaśniczy uległ wypadkowi podczas akcji w lesie. Maszyna nagle spadła 
 注意词组 "ulec wypadkowi"，这里的 "wypadkowi" 使用了与格 (Celownik)。动词 "ulec" (遭受/经历) 在描述负面事件时，后接名词的与格形式，这是B1级别表达书面事故报道的经典用法。
 
 ---
+
+### 🗞️ 中文摘要
+近日，波兰一架参与森林灭火任务的飞机在执行作业时不幸坠毁。据目击者称，飞机在飞行过程中突然失去控制，直线下坠并最终坠地。当地救援部门迅速赶往现场，但遗憾的是事故造成了严重损失。目前，相关部门已展开调查，以查明事故发生的具体原因，包括技术故障或天气影响等因素。这起悲剧再次引发了社会各界对森林消防飞行安全的广泛关注。
+
+**关键信息：**
+- 事故发生于波兰境内的森林灭火作业中
+- 目击者描述飞机是突然坠落的
+- 当地应急救援力量迅速投入现场处置
+- 事故原因目前处于全面调查阶段
+- 该事件引起了波兰国内对航空安全的讨论
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/polska/rozbil-sie-samolot-bioracy-udzial-w-akcji-gasniczej-na-lubelszczyznie-zginela-jedna-osoba-st9033004?source=rss](https://tvn24.pl/polska/rozbil-sie-samolot-bioracy-udzial-w-akcji-gasniczej-na-lubelszczyznie-zginela-jedna-osoba-st9033004?source=rss)

@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["瑞安航空", "旅游资讯", "波兰生活", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-瑞安航空近日进一步收紧了对手提行李尺寸的检查力度。为了遏制乘客携带超规行李登机的行为，航空公司将员工发现违规行李的奖励从1.5欧元提高到了2.5欧元，并取消了每月奖励上限。瑞安航空CEO表示，这一激励措施已成功将违规携带行李的乘客比例从0.5%降低至0.1%。公司明确要求，行李箱的每一个凸起部分（包括轮子）都必须在规定尺寸内，否则将面临高达370兹罗提的额外费用。瑞安航空强调，严格执行规定是为了维护绝大多数遵守规则乘客的飞行效率。
-
-**关键信息：**
-- 手提行李基础免费尺寸为40x30x20厘米，必须能放入前排座椅下方。
-- 员工抓到一个违规行李可获2.5欧元奖励，且取消了月度奖励上限。
-- 航空公司明确提示，行李轮子等凸起部位也会计入尺寸测量。
-- 若行李超标被拦截，乘客可能需支付高达370兹罗提的托运费。
-- 瑞安航空CEO Michael O'Leary表示该策略有效降低了违规行为。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Ryanair zaostrza kontrole bagażu podręcznego. Pracownicy dostają wyższą pre
 注意动词“przestrzegać”的接格要求。在波兰语中，该动词后面必须接**生格 (Genitive)**。例如：przestrzegać zasad (遵守规则)。这在描述法律、交通规则或公司条款时非常常用，是B1阶段需要熟练掌握的动词用法。
 
 ---
+
+### 🗞️ 中文摘要
+瑞安航空近日进一步收紧了对手提行李尺寸的检查力度。为了遏制乘客携带超规行李登机的行为，航空公司将员工发现违规行李的奖励从1.5欧元提高到了2.5欧元，并取消了每月奖励上限。瑞安航空CEO表示，这一激励措施已成功将违规携带行李的乘客比例从0.5%降低至0.1%。公司明确要求，行李箱的每一个凸起部分（包括轮子）都必须在规定尺寸内，否则将面临高达370兹罗提的额外费用。瑞安航空强调，严格执行规定是为了维护绝大多数遵守规则乘客的飞行效率。
+
+**关键信息：**
+- 手提行李基础免费尺寸为40x30x20厘米，必须能放入前排座椅下方。
+- 员工抓到一个违规行李可获2.5欧元奖励，且取消了月度奖励上限。
+- 航空公司明确提示，行李轮子等凸起部位也会计入尺寸测量。
+- 若行李超标被拦截，乘客可能需支付高达370兹罗提的托运费。
+- 瑞安航空CEO Michael O'Leary表示该策略有效降低了违规行为。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Oszukuja-system-Ryanair-znow-zaostrza-kontrole-bagazu-podrecznego-9120864.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Oszukuja-system-Ryanair-znow-zaostrza-kontrole-bagazu-podrecznego-9120864.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

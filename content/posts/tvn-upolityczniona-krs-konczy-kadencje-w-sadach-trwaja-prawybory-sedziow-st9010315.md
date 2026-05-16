@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰时政", "司法改革", "法治建设", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰最高法院法官近期举行了关键投票，选举产生了新任最高领导人。此次选举被视为波兰司法系统重建法治的重要一步，备受全国瞩目。候选人们强调了法官独立性的重要性，并重申了司法机构在民主国家中应承担的责任。新任领导人的当选标志着波兰法院内部权力架构的进一步稳固。各界人士普遍期待新任领导人能修复此前动荡中受损的司法公信力。此次投票不仅是程序上的更替，更体现了波兰法官对国家责任的深刻自觉。
-
-**关键信息：**
-- 波兰最高法院法官进行内部选举投票
-- 选举旨在选出新一任最高司法领导人
-- 候选人聚焦司法独立与法治重建
-- 此次选举被视为恢复司法公信力的关键
-- 强调法官在民主国家中的职责与担当
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Sędziowie Sądu Najwyższego wybrali nowego prezesa. To bardzo ważny moment dl
 注意形容词与名词的性数格匹配（Gramatyka）。在本句中“nowego prezesa”是“nowy prezes”的生格形式（Genetivus），因为动词“wybrać”（选择）在表示具体某人担任某职时，通常搭配生格形式。
 
 ---
+
+### 🗞️ 中文摘要
+波兰最高法院法官近期举行了关键投票，选举产生了新任最高领导人。此次选举被视为波兰司法系统重建法治的重要一步，备受全国瞩目。候选人们强调了法官独立性的重要性，并重申了司法机构在民主国家中应承担的责任。新任领导人的当选标志着波兰法院内部权力架构的进一步稳固。各界人士普遍期待新任领导人能修复此前动荡中受损的司法公信力。此次投票不仅是程序上的更替，更体现了波兰法官对国家责任的深刻自觉。
+
+**关键信息：**
+- 波兰最高法院法官进行内部选举投票
+- 选举旨在选出新一任最高司法领导人
+- 候选人聚焦司法独立与法治重建
+- 此次选举被视为恢复司法公信力的关键
+- 强调法官在民主国家中的职责与担当
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/plus/programy/polska-i-swiat/upolityczniona-krs-konczy-kadencje-w-sadach-trwaja-prawybory-sedziow-st9010315?source=rss](https://tvn24.pl/plus/programy/polska-i-swiat/upolityczniona-krs-konczy-kadencje-w-sadach-trwaja-prawybory-sedziow-st9010315?source=rss)

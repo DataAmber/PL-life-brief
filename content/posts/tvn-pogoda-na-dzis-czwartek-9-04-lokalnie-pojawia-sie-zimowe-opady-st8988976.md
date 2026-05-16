@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰天气", "今日资讯", "春季气象", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-本周四，波兰大部分地区天气多变，气温较往日有所下降。气象部门预报显示，局部地区可能会出现春季罕见的降雪或雨夹雪天气。居民在出行时需留意气温波动，并根据实际情况增添衣物以防感冒。由于路面湿滑，司机在驾驶时应保持警惕，注意交通安全。春季气候反复无常，请大家持续关注最新的气象预报。
-
-**关键信息：**
-- 今日波兰多地天气不稳定
-- 部分区域出现降雪或雨夹雪
-- 气温波动较大需注意保暖
-- 驾驶员需留意路面湿滑风险
-- 请关注官方气象预警信息
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Dzisiaj w Polsce pogoda jest bardzo zmienna. Miejscami spadł śnieg z deszczem.
 注意形容词与名词的性数配合。例如“śliskie drogi”中，śliskie是复数形式，因为drogi（道路）是阴性名词drog-的复数。在B1水平，要熟练掌握形容词词尾在不同格（尤其是主格和宾格）下的变化规律。
 
 ---
+
+### 🗞️ 中文摘要
+本周四，波兰大部分地区天气多变，气温较往日有所下降。气象部门预报显示，局部地区可能会出现春季罕见的降雪或雨夹雪天气。居民在出行时需留意气温波动，并根据实际情况增添衣物以防感冒。由于路面湿滑，司机在驾驶时应保持警惕，注意交通安全。春季气候反复无常，请大家持续关注最新的气象预报。
+
+**关键信息：**
+- 今日波兰多地天气不稳定
+- 部分区域出现降雪或雨夹雪
+- 气温波动较大需注意保暖
+- 驾驶员需留意路面湿滑风险
+- 请关注官方气象预警信息
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-czwartek-9-04-lokalnie-pojawia-sie-zimowe-opady-st8988976?source=rss](https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-czwartek-9-04-lokalnie-pojawia-sie-zimowe-opady-st8988976?source=rss)

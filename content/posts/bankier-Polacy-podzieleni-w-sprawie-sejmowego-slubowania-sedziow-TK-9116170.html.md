@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰政治", "民意调查", "宪法法院", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，波兰针对宪法法院（TK）法官在议会而非总统面前宣誓的争议性举措进行了民意调查。根据United Surveys的最新民调显示，波兰社会对此持截然相反的意见，支持与反对比例分别为43.9%和42.2%。由于总统拒绝接受部分新任法官的宣誓，议会决定由公证人见证并完成宣誓程序，这一做法引发了政治上的激烈争论。调查结果显示了明显的党派阵营化倾向，执政联盟选民表现出压倒性的支持，而反对派选民则持有极高的否定态度。该事件凸显了波兰当前严峻的司法与政治体制对抗现状。
-
-**关键信息：**
-- 波兰社会对议会主持宪法法院法官宣誓的评价呈高度分裂状态。
-- 43.9%的受访者持支持态度，42.2%的受访者持反对态度。
-- 执政联盟选民中有84%认可此决定，而反对派选民中仅有10%表示支持。
-- 争议起因于总统拒绝为议会选出的全部新法官主持宣誓仪式。
-- 调查通过CATI和CAWI方法对1000名波兰成年人进行了民意抽样。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Polacy mają podzielone zdania na temat sędziów Trybunału Konstytucyjnego. Se
 注意“zdecydować o (+ locative)”结构：当你想说“决定某事”时，在zdecydować后接介词o，随后名词必须使用变格（Locative/第六格）。例如文中“zdecydować o zaprzysiężeniu”（决定关于宣誓之事）。
 
 ---
+
+### 🗞️ 中文摘要
+近期，波兰针对宪法法院（TK）法官在议会而非总统面前宣誓的争议性举措进行了民意调查。根据United Surveys的最新民调显示，波兰社会对此持截然相反的意见，支持与反对比例分别为43.9%和42.2%。由于总统拒绝接受部分新任法官的宣誓，议会决定由公证人见证并完成宣誓程序，这一做法引发了政治上的激烈争论。调查结果显示了明显的党派阵营化倾向，执政联盟选民表现出压倒性的支持，而反对派选民则持有极高的否定态度。该事件凸显了波兰当前严峻的司法与政治体制对抗现状。
+
+**关键信息：**
+- 波兰社会对议会主持宪法法院法官宣誓的评价呈高度分裂状态。
+- 43.9%的受访者持支持态度，42.2%的受访者持反对态度。
+- 执政联盟选民中有84%认可此决定，而反对派选民中仅有10%表示支持。
+- 争议起因于总统拒绝为议会选出的全部新法官主持宣誓仪式。
+- 调查通过CATI和CAWI方法对1000名波兰成年人进行了民意抽样。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Polacy-podzieleni-w-sprawie-sejmowego-slubowania-sedziow-TK-9116170.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polacy-podzieleni-w-sprawie-sejmowego-slubowania-sedziow-TK-9116170.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "医疗保健", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，波兰公民联盟（KO）议员在受访时回应了公众对医疗保健系统的质疑。面对医疗排队时间过长和资源短缺的问题，该议员坦言目前的改革措施已达到政府现阶段的能力极限。他强调，尽管医疗资金投入在增加，但结构性矛盾依然严峻。政府目前正试图在预算限制与民众需求之间寻找平衡点。尽管如此，反对派和民众对医疗改善的进展仍表示不满。
-
-**关键信息：**
-- 公民联盟议员回应医疗体系现状
-- 现阶段政策已达政府能力极限
-- 医疗排队与资源短缺问题依然存在
-- 政府正试图平衡预算与民生需求
-- 公众对医疗改革进展表示持续担忧
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Sytuacja w polskiej ochronie zdrowia jest bardzo trudna. Poseł twierdzi, że rz
 本篇出现了形容词短语 'niezadowolony z czegoś'。在波兰语中，形容词 'zadowolony'（满意的）或 'niezadowolony'（不满的）后面必须接名词的工具格（Narzędnik）。例如：'jestem zadowolony z reformy'（我对改革很满意）。
 
 ---
+
+### 🗞️ 中文摘要
+近期，波兰公民联盟（KO）议员在受访时回应了公众对医疗保健系统的质疑。面对医疗排队时间过长和资源短缺的问题，该议员坦言目前的改革措施已达到政府现阶段的能力极限。他强调，尽管医疗资金投入在增加，但结构性矛盾依然严峻。政府目前正试图在预算限制与民众需求之间寻找平衡点。尽管如此，反对派和民众对医疗改善的进展仍表示不满。
+
+**关键信息：**
+- 公民联盟议员回应医疗体系现状
+- 现阶段政策已达政府能力极限
+- 医疗排队与资源短缺问题依然存在
+- 政府正试图平衡预算与民生需求
+- 公众对医疗改革进展表示持续担忧
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/zdrowie/posel-ko-arkadiusz-marchewka-o-ochronie-zdrowia-to-jest-maksymalne-to-co-dzisiaj-jestesmy-w-stanie-zrobic-st9004146?source=rss](https://tvn24.pl/zdrowie/posel-ko-arkadiusz-marchewka-o-ochronie-zdrowia-to-jest-maksymalne-to-co-dzisiaj-jestesmy-w-stanie-zrobic-st9004146?source=rss)

@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "社会治安", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，波兰弗罗茨瓦夫发生了一起恶性案件。一名28岁男子在旅舍内持危险工具袭击了一名26岁的印度籍男子，并抢走其随身物品。受害者被喷辣椒水并遭受多处刺伤。嫌疑人在案发后试图逃往国外，但在经过弗罗茨瓦夫与兹戈热莱茨警方的通力协作下，于边境附近被成功逮捕。目前，该男子面临抢劫及蓄意谋杀等多项指控，法院已批准将其先行羁押三个月。
-
-**关键信息：**
-- **地点：** 弗罗茨瓦夫（Wrocław）某旅舍
-- **受害者：** 26岁印度公民
-- **嫌疑人：** 28岁男性，目前已被捕
-- **罪名：** 抢劫及蓄意谋杀（面临终身监禁）
-- **抓捕行动：** 警方在靠近国界的火车站附近成功拦截嫌疑人
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ We Wrocławiu doszło do brutalnego ataku. Mężczyzna zaatakował obywatela Ind
 注意词组“usiłowanie zabójstwa”。这里的 zabójstwa 是 zabójstwo 的二格（Genitive case），表示从属关系，类似于英语的“attempt of murder”。在波兰语法律术语中，二格非常常见，用于限定犯罪性质。
 
 ---
+
+### 🗞️ 中文摘要
+近期，波兰弗罗茨瓦夫发生了一起恶性案件。一名28岁男子在旅舍内持危险工具袭击了一名26岁的印度籍男子，并抢走其随身物品。受害者被喷辣椒水并遭受多处刺伤。嫌疑人在案发后试图逃往国外，但在经过弗罗茨瓦夫与兹戈热莱茨警方的通力协作下，于边境附近被成功逮捕。目前，该男子面临抢劫及蓄意谋杀等多项指控，法院已批准将其先行羁押三个月。
+
+**关键信息：**
+- **地点：** 弗罗茨瓦夫（Wrocław）某旅舍
+- **受害者：** 26岁印度公民
+- **嫌疑人：** 28岁男性，目前已被捕
+- **罪名：** 抢劫及蓄意谋杀（面临终身监禁）
+- **抓捕行动：** 警方在靠近国界的火车站附近成功拦截嫌疑人
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/wroclaw/atak-i-usilowanie-zabojstwa-we-wroclawiu-28-latek-probowal-uciec-z-kraju/qvfpb7v](https://www.fakt.pl/wydarzenia/polska/wroclaw/atak-i-usilowanie-zabojstwa-we-wroclawiu-28-latek-probowal-uciec-z-kraju/qvfpb7v)

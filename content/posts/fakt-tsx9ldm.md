@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "波兰生活", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-本周三，在波兰塔诺古拉县Ptakowice的一家马术中心发生了一起严重意外。一名15岁女孩在进行跨越障碍练习时从马背上摔落，并被倒下的马匹压伤。由于情况紧急，救援部门立即派遣医疗直升机（LPR）前往现场救助。受伤女孩随后被紧急送往上西里西亚儿童健康中心接受检查。幸运的是，医生在当天晚些时候便允许她出院，事故被定性为意外事件。
-
-**关键信息：**
-- 地点：波兰塔诺古拉县Ptakowice马术中心
-- 事件：女孩练习跨越障碍时坠马被压
-- 救援：医疗直升机现场介入并送医
-- 健康：女孩伤势无大碍，已于当天出院
-- 调查：警方确认教练处于清醒状态，属意外
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ W środę w Ptakowicach wydarzył się wypadek. 15-latka spadła z konia podczas
 注意动词的过去时阴性结尾 -a。在波兰语中，描述女性的行为时（如：dziewczyna spadła, instruktorka była trzeźwa），动词过去时单数第三人称通常以 -a 结尾。这是A2/B1阶段最基础的性别一致性练习。
 
 ---
+
+### 🗞️ 中文摘要
+本周三，在波兰塔诺古拉县Ptakowice的一家马术中心发生了一起严重意外。一名15岁女孩在进行跨越障碍练习时从马背上摔落，并被倒下的马匹压伤。由于情况紧急，救援部门立即派遣医疗直升机（LPR）前往现场救助。受伤女孩随后被紧急送往上西里西亚儿童健康中心接受检查。幸运的是，医生在当天晚些时候便允许她出院，事故被定性为意外事件。
+
+**关键信息：**
+- 地点：波兰塔诺古拉县Ptakowice马术中心
+- 事件：女孩练习跨越障碍时坠马被压
+- 救援：医疗直升机现场介入并送医
+- 健康：女孩伤势无大碍，已于当天出院
+- 调查：警方确认教练处于清醒状态，属意外
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/wypadek-podczas-treningu-jezdzieckiego-kon-przygniotl-15-latke/tsx9ldm](https://www.fakt.pl/wydarzenia/wypadek-podczas-treningu-jezdzieckiego-kon-przygniotl-15-latke/tsx9ldm)

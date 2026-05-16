@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["生物科技", "全球投资", "波兰财经", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，全球生物科技行业展现出强劲的投资潜力，表现甚至超越了传统的科技巨头。行业专家指出，随着美国政治环境的改善及制药巨头与政府达成价格协议，市场消除了重大政策风险。此外，大型药企通过密集的并购活动，为中小型生物科技公司的创新药物研发提供了资金支持。得益于人工智能技术的应用，新药从实验室到市场的开发周期正在显著缩短。尽管目前市场仍呈现波动，但部分生物科技基金去年已实现超过50%的丰厚回报。
-
-**关键信息：**
-- 生物科技行业表现优于以科技巨头为主的纳斯达克综合指数。
-- 美国政府与药企就药品定价达成的协议有效降低了行业系统性风险。
-- 第四季度出现的大规模并购潮是促进行业增长的核心动力。
-- 人工智能技术正在加速新药研发的商业化进程。
-- 行业专家建议关注中小型生物科技公司的创新潜力与大药企的收购动向。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Sektor biotechnologii szybko rośnie na całym świecie. Inwestorzy zarabiają d
 注意动词“osiągnąć”（达成）后的宾语需要使用**第四格（Biernik）**。例如，“osiągnąć porozumienie”（达成协议），porozumienie 本身结尾不变，但如果是阴性名词如“umowa”（合同），则变为“osiągnąć umowę”。
 
 ---
+
+### 🗞️ 中文摘要
+近期，全球生物科技行业展现出强劲的投资潜力，表现甚至超越了传统的科技巨头。行业专家指出，随着美国政治环境的改善及制药巨头与政府达成价格协议，市场消除了重大政策风险。此外，大型药企通过密集的并购活动，为中小型生物科技公司的创新药物研发提供了资金支持。得益于人工智能技术的应用，新药从实验室到市场的开发周期正在显著缩短。尽管目前市场仍呈现波动，但部分生物科技基金去年已实现超过50%的丰厚回报。
+
+**关键信息：**
+- 生物科技行业表现优于以科技巨头为主的纳斯达克综合指数。
+- 美国政府与药企就药品定价达成的协议有效降低了行业系统性风险。
+- 第四季度出现的大规模并购潮是促进行业增长的核心动力。
+- 人工智能技术正在加速新药研发的商业化进程。
+- 行业专家建议关注中小型生物科技公司的创新潜力与大药企的收购动向。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Inwestowanie-w-biotechnologie-Jak-sztuczna-inteligencja-i-przejecia-napedzaja-gigantyczne-zyski-na-gieldzie-9130053.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Inwestowanie-w-biotechnologie-Jak-sztuczna-inteligencja-i-przejecia-napedzaja-gigantyczne-zyski-na-gieldzie-9130053.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

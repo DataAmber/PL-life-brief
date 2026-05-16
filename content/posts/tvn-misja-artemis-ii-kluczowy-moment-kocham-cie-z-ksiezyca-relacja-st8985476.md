@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["航天科技", "太空探索", "波兰新闻", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-阿耳忒弥斯二号任务圆满完成了绕月飞行目标，宇航员们在太空中目睹了如同科幻电影般的壮丽景象。目前，整个飞行团队正准备执行最后的返航程序，计划安全降落在地球表面。这次任务是人类重返月球的重要一步，验证了新一代载人航天系统的可靠性。全球科学界对宇航员们的平安归来充满期待，这将为后续的长远月球探测打下坚实基础。
-
-**关键信息：**
-- 阿耳忒弥斯二号成功完成绕月飞行任务
-- 宇航员描述太空景观极具科幻色彩
-- 目前任务已进入返航阶段准备工作
-- 此次飞行测试了新载人航天器系统
-- 任务成功对人类重返月球意义重大
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Misja Artemis II jest bardzo ważna dla nauki. Astronauci okrążyli Księżyc i
 注意“Przygotowywać się do + 第四格(Accusative)”结构。波兰语中“准备做某事”通常使用此搭配，例如“Przygotowuję się do egzaminu”（我正在为考试做准备）。
 
 ---
+
+### 🗞️ 中文摘要
+阿耳忒弥斯二号任务圆满完成了绕月飞行目标，宇航员们在太空中目睹了如同科幻电影般的壮丽景象。目前，整个飞行团队正准备执行最后的返航程序，计划安全降落在地球表面。这次任务是人类重返月球的重要一步，验证了新一代载人航天系统的可靠性。全球科学界对宇航员们的平安归来充满期待，这将为后续的长远月球探测打下坚实基础。
+
+**关键信息：**
+- 阿耳忒弥斯二号成功完成绕月飞行任务
+- 宇航员描述太空景观极具科幻色彩
+- 目前任务已进入返航阶段准备工作
+- 此次飞行测试了新载人航天器系统
+- 任务成功对人类重返月球意义重大
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnmeteo/nauka/misja-artemis-ii-kluczowy-moment-kocham-cie-z-ksiezyca-relacja-st8985476?source=rss](https://tvn24.pl/tvnmeteo/nauka/misja-artemis-ii-kluczowy-moment-kocham-cie-z-ksiezyca-relacja-st8985476?source=rss)

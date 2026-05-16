@@ -5,19 +5,6 @@ categories: ["News"]
 tags: ["波兰时政", "卫生政策", "议会动态", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰卫生部长伊莎贝拉·莱什奇娜（Izabela Leszczyna）近日在议会面临反对党提出的不信任动议。反对党批评其在医疗改革及改善医院财政状况方面表现不力，未能有效解决医疗资源短缺问题。卫生委员会经过讨论后，最终针对该动议发表了否定性意见。虽然执政联盟在议会中占据多数席位，但这反映了公众对当前医疗系统日益增长的不满。目前，相关辩论仍在进行，该动议预计难以通过，但政治争议依然存在。
-
-**关键信息：**
-- 反对党正式向卫生部长提出不信任动议。
-- 主要争议点在于医疗系统改革进程缓慢。
-- 卫生委员会已对该动议进行了审议并表态。
-- 委员会建议议会否决该不信任动议。
-- 此事件反映了波兰医疗领域的民意分歧。
-
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -40,4 +27,18 @@ Opozycja złożyła wniosek o wotum nieufności wobec ministry zdrowia. Członko
 注意名词“minister”的阴性形式。在现代波兰语中，女性部长常称为“ministra”，但在官方语境或保守派观点中，使用“pani minister”（部长女士）更为常见，需根据语境灵活选择。
 
 ---
+
+### 🗞️ 中文摘要
+波兰卫生部长伊莎贝拉·莱什奇娜（Izabela Leszczyna）近日在议会面临反对党提出的不信任动议。反对党批评其在医疗改革及改善医院财政状况方面表现不力，未能有效解决医疗资源短缺问题。卫生委员会经过讨论后，最终针对该动议发表了否定性意见。虽然执政联盟在议会中占据多数席位，但这反映了公众对当前医疗系统日益增长的不满。目前，相关辩论仍在进行，该动议预计难以通过，但政治争议依然存在。
+
+**关键信息：**
+- 反对党正式向卫生部长提出不信任动议。
+- 主要争议点在于医疗系统改革进程缓慢。
+- 卫生委员会已对该动议进行了审议并表态。
+- 委员会建议议会否决该不信任动议。
+- 此事件反映了波兰医疗领域的民意分歧。
+
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/polska/wotum-nieufnosci-dla-ministry-zdrowia-jolanty-sobieranskiej-grendy-oto-co-jej-zarzucaja-st9024109?source=rss](https://tvn24.pl/polska/wotum-nieufnosci-dla-ministry-zdrowia-jolanty-sobieranskiej-grendy-oto-co-jej-zarzucaja-st9024109?source=rss)

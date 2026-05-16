@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰娱乐", "波兰生活", "暖心求助", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-曾参加波兰版《顶级厨师》（MasterChef）第八季的选手马里乌什·科门达（Mariusz Komenda）近日公布了令人揪心的消息。他在今年年初被诊断出患有恶性胶质瘤，生活发生了翻天覆地的变化。为了治疗这种严重的脑部肿瘤，他已经在短时间内经历了两次复杂的手术。目前，马里乌什正在接受密集的康复治疗，并面临着巨大的医疗和通勤支出。他通过慈善平台发起募捐，希望能筹集资金以专注于抗击病魔，争取早日康复。
-
-**关键信息：**
-- **马里乌什曾是《顶级厨师》第八季的决赛选手。**
-- **他不幸被诊断出患有恶性胶质瘤。**
-- **目前已进行了两次复杂的脑部手术，并处于康复期。**
-- **持续的治疗和高额的医疗费用让他倍感压力。**
-- **他正通过Siepomaga平台向公众发起筹款求助。**
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Mariusz Komenda był uczestnikiem programu MasterChef. Niestety, teraz walczy z 
 注意句中的“z”搭配。当你要表达“与某人/某事斗争”时，常用动词“walczyć”加介词“z”再接工具格（Instrumental Case）。例如：walczyć z chorobą（与疾病斗争），walczyć z czasem（与时间赛跑）。
 
 ---
+
+### 🗞️ 中文摘要
+曾参加波兰版《顶级厨师》（MasterChef）第八季的选手马里乌什·科门达（Mariusz Komenda）近日公布了令人揪心的消息。他在今年年初被诊断出患有恶性胶质瘤，生活发生了翻天覆地的变化。为了治疗这种严重的脑部肿瘤，他已经在短时间内经历了两次复杂的手术。目前，马里乌什正在接受密集的康复治疗，并面临着巨大的医疗和通勤支出。他通过慈善平台发起募捐，希望能筹集资金以专注于抗击病魔，争取早日康复。
+
+**关键信息：**
+- **马里乌什曾是《顶级厨师》第八季的决赛选手。**
+- **他不幸被诊断出患有恶性胶质瘤。**
+- **目前已进行了两次复杂的脑部手术，并处于康复期。**
+- **持续的治疗和高额的医疗费用让他倍感压力。**
+- **他正通过Siepomaga平台向公众发起筹款求助。**
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/mariusz-komenda-z-masterchefa-walczy-z-glejakiem-jest-zbiorka/s43kexx](https://www.fakt.pl/wydarzenia/mariusz-komenda-z-masterchefa-walczy-z-glejakiem-jest-zbiorka/s43kexx)

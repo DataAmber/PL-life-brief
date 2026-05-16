@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰生活", "博物馆之夜", "华沙交通", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-华沙“博物馆之夜”即将来临，为了方便市民参与活动，市交通局决定延长多条线路的运营时间。活动当晚，不仅地铁将全天候运行，还将增设多条连接各大热门博物馆的临时公交专线。游客可以利用特别票务优惠，高效穿梭于城市的不同文化场所。交通部门建议民众提前查询实时班次，以避开深夜人流高峰。此次举措旨在提升文化活动的参与度，确保夜间出行安全有序。
-
-**关键信息：**
-- 华沙博物馆之夜提供特别交通服务
-- 地铁线路将实施全天候24小时运营
-- 新增临时接驳巴士连接热门博物馆
-- 建议市民通过公共交通出行以避堵
-- 官方网站可查询详细的时刻表变动
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Podczas Nocy Muzeów komunikacja miejska w Warszawie będzie działać dłużej.
 注意句中的“będzie działać”和“będzie kursować”。这是波兰语的将来时（Czas przyszły），由“być”的变位加动词原形构成。对于B1级别学习者，这是描述计划和行程时最常用的结构。
 
 ---
+
+### 🗞️ 中文摘要
+华沙“博物馆之夜”即将来临，为了方便市民参与活动，市交通局决定延长多条线路的运营时间。活动当晚，不仅地铁将全天候运行，还将增设多条连接各大热门博物馆的临时公交专线。游客可以利用特别票务优惠，高效穿梭于城市的不同文化场所。交通部门建议民众提前查询实时班次，以避开深夜人流高峰。此次举措旨在提升文化活动的参与度，确保夜间出行安全有序。
+
+**关键信息：**
+- 华沙博物馆之夜提供特别交通服务
+- 地铁线路将实施全天候24小时运营
+- 新增临时接驳巴士连接热门博物馆
+- 建议市民通过公共交通出行以避堵
+- 官方网站可查询详细的时刻表变动
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnwarszawa/komunikacja/warszawa-komunikacja-miejska-w-noc-muzeow-jak-dojechac-i-wrocic-specjalne-i-zabytkowe-linie-st9044230?source=rss](https://tvn24.pl/tvnwarszawa/komunikacja/warszawa-komunikacja-miejska-w-noc-muzeow-jak-dojechac-i-wrocic-specjalne-i-zabytkowe-linie-st9044230?source=rss)

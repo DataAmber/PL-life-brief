@@ -5,19 +5,6 @@ categories: ["Lifestyle"]
 tags: ["华沙新闻", "波兰生活", "突发事件", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-华沙附近的Nowy Modlin垃圾处理厂日前发生严重火灾。此次大火波及约60x60米的塑料垃圾堆，滚滚浓烟甚至在几十公里外清晰可见。这是该地点今年第二次发生火灾，目前消防部门已派出23支救援队全力扑救。当局提醒周边居民紧闭门窗，避免吸入潜在的有毒烟雾。目前暂无伤亡报告，火灾的具体原因仍有待后续调查。
-
-**关键信息：**
-- **地点：** 华沙附近的Nowy Modlin垃圾处理厂
-- **火势：** 约60x60米的塑料垃圾堆起火，浓烟弥漫
-- **救援：** 23支消防队正在现场，并有化学监测单位协助
-- **影响：** 当局建议周边居民关闭门窗，以防毒气
-- **背景：** 这是该地点今年内第二次发生火灾
-
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -40,4 +27,18 @@ W Nowym Modlinie płonie wysypisko śmieci. Dym jest widoczny z bardzo daleka. S
 注意本篇出现的“z”这个介词。在本课中，“widoczny z daleka”（从远处可见）表达的是空间来源，“walczyć z ogniem”（与火搏斗）表达的是伴随或对象。在波兰语中，“z”后面接工具格（Instrumental）表示“和/与”，接属格（Genitive）则常表示“从……出来/来源”。
 
 ---
+
+### 🗞️ 中文摘要
+华沙附近的Nowy Modlin垃圾处理厂日前发生严重火灾。此次大火波及约60x60米的塑料垃圾堆，滚滚浓烟甚至在几十公里外清晰可见。这是该地点今年第二次发生火灾，目前消防部门已派出23支救援队全力扑救。当局提醒周边居民紧闭门窗，避免吸入潜在的有毒烟雾。目前暂无伤亡报告，火灾的具体原因仍有待后续调查。
+
+**关键信息：**
+- **地点：** 华沙附近的Nowy Modlin垃圾处理厂
+- **火势：** 约60x60米的塑料垃圾堆起火，浓烟弥漫
+- **救援：** 23支消防队正在现场，并有化学监测单位协助
+- **影响：** 当局建议周边居民关闭门窗，以防毒气
+- **背景：** 这是该地点今年内第二次发生火灾
+
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/warszawa/gigantyczny-pozar-smieci-pod-warszawa-wysypisko-plonie-juz-drugi-raz-w-tym-roku/2ldwy64](https://www.fakt.pl/wydarzenia/polska/warszawa/gigantyczny-pozar-smieci-pod-warszawa-wysypisko-plonie-juz-drugi-raz-w-tym-roku/2ldwy64)

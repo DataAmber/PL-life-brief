@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "环保政策", "押金制度", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰目前的押金回收系统涵盖了塑料瓶、金属罐及部分可重复使用的玻璃瓶。近期一项调查显示，63%的波兰消费者支持将容量较小的酒精饮品瓶（俗称“小猴子”酒瓶）纳入该回收体系。波兰气候与环境部对此持谨慎态度，表示正在监测局势，并计划于6月作出最终决定。副部长Anita Sowińska指出，将玻璃瓶纳入回收面临较大的物流挑战，且必须兼顾环保与商业效益。若政策落地，预计最快可能从9月起实施。
-
-**关键信息：**
-- **现行系统包括塑料瓶、金属罐及可循环玻璃瓶。**
-- **超六成受访民众支持将小瓶酒精饮料纳入回收范围。**
-- **政府相关部门目前正就此进行可行性评估。**
-- **玻璃回收面临物流难度大、成本高的挑战。**
-- **政策调整预期将在6月决定，并可能于9月生效。**
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Polacy chcą zmian w systemie kaucyjnym. Większość mieszkańców popiera doda
 注意形容词的变格（Deklinacja）。在本新闻中提到的“małe jednorazowe butelki”（小的一次性瓶子），形容词“małe”和“jednorazowe”使用了复数形式。当名词是阴性且为复数时，形容词词尾通常变为“-e”，这是B1级别写作和对话中必须掌握的基础一致性规则。
 
 ---
+
+### 🗞️ 中文摘要
+波兰目前的押金回收系统涵盖了塑料瓶、金属罐及部分可重复使用的玻璃瓶。近期一项调查显示，63%的波兰消费者支持将容量较小的酒精饮品瓶（俗称“小猴子”酒瓶）纳入该回收体系。波兰气候与环境部对此持谨慎态度，表示正在监测局势，并计划于6月作出最终决定。副部长Anita Sowińska指出，将玻璃瓶纳入回收面临较大的物流挑战，且必须兼顾环保与商业效益。若政策落地，预计最快可能从9月起实施。
+
+**关键信息：**
+- **现行系统包括塑料瓶、金属罐及可循环玻璃瓶。**
+- **超六成受访民众支持将小瓶酒精饮料纳入回收范围。**
+- **政府相关部门目前正就此进行可行性评估。**
+- **玻璃回收面临物流难度大、成本高的挑战。**
+- **政策调整预期将在6月决定，并可能于9月生效。**
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Malpki-w-systemie-kaucyjnym-Polacy-na-tak-Co-zrobi-ministerstwo-9132369.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Malpki-w-systemie-kaucyjnym-Polacy-na-tak-Co-zrobi-ministerstwo-9132369.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

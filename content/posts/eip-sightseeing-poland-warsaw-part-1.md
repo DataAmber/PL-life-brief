@@ -5,16 +5,6 @@ categories: ["Analysis"]
 tags: ["华沙旅游", "波兰生活", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-本文介绍了波兰首都华沙的三日游行程建议，重点推荐了Złote Tarasy购物中心和科学文化宫（PKiN）。尽管游客通常计划步行4公里，但在探索城市的过程中，实际步行距离往往更远，建议游客根据兴趣灵活调整路线。
-
-**关键信息：**
-- **推荐地标：** 包含科学文化宫、老城区、瓦金基公园及Złote Tarasy购物中心。
-- **出行提示：** 建议游客下载在线地图，并预留充足的步行时间，享受漫步华沙的过程。
-- **文化价值：** 科学文化宫不仅是地标，还汇集了博物馆、剧院和各类展览，是了解华沙文化的重要窗口。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Warszawa to stolica Polski. W centrum miasta znajduje się Pałac Kultury i Nauk
 注意“lokalizator”（位置词）的使用。当描述物体位置时，波兰语常用“znajdować się”加上方位词（如 w centrum, na północy）。注意“w”与“na”的搭配，通常城市和封闭空间用“w”，开放空间（如广场、街道）用“na”。
 
 ---
+
+### 🗞️ 中文摘要
+本文介绍了波兰首都华沙的三日游行程建议，重点推荐了Złote Tarasy购物中心和科学文化宫（PKiN）。尽管游客通常计划步行4公里，但在探索城市的过程中，实际步行距离往往更远，建议游客根据兴趣灵活调整路线。
+
+**关键信息：**
+- **推荐地标：** 包含科学文化宫、老城区、瓦金基公园及Złote Tarasy购物中心。
+- **出行提示：** 建议游客下载在线地图，并预留充足的步行时间，享受漫步华沙的过程。
+- **文化价值：** 科学文化宫不仅是地标，还汇集了博物馆、剧院和各类展览，是了解华沙文化的重要窗口。
+
+---
+
 > 📰 原文来源：[https://www.expatinpoland.pl/sightseeing-poland-warsaw-part-1/](https://www.expatinpoland.pl/sightseeing-poland-warsaw-part-1/)

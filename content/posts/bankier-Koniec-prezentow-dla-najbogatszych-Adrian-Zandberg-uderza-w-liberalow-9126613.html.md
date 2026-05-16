@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰政治", "劳动权益", "经济政策", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-在五一劳动节期间，波兰“一起党”（Partia Razem）领导人阿德里安·赞德伯格（Adrian Zandberg）在格但斯克举行集会，对波兰当前的经济与社会政策发起猛烈抨击。他认为现行制度对劳动者极不友好，指责自由派政客的贪婪与自私导致了社会不平等的加剧。赞德伯格特别批评政府在医疗、教育等公共服务领域的投入不足，导致平民利益受损。他还指出，多年来政府过度向富人阶层进行政策倾斜，而普通劳动者却面临就业不稳和被剥削的困境。该党承诺将致力于保护劳工权益，并改革税收及公共服务体系以实现社会公平。
-
-**关键信息：**
-- 阿德里安·赞德伯格批评波兰体制未能保障普通劳动者的尊严与安全。
-- 批评者认为医疗体系的资金缺口正迫使患者承担更高的治疗成本。
-- 赞德伯格指出，格但斯克虽是“团结工会”诞生地，但也成了自由派经济政策的温床。
-- “一起党”主张改善劳工待遇，打击不公平的“垃圾合同”与剥削现象。
-- 该党计划推动社会保障房建设，限制房地产商势力并改革税制。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Adrian Zandberg krytykuje obecny system polityczny w Polsce. Jego zdaniem, polit
 注意形容词与名词的性数格匹配（Koniugacja i deklinacja）。在本篇新闻中，“nierówności społeczne” (社会不平等) 是阴性复数形式，其形容词“społeczne”的词尾为“-e”，这与阳性名词词尾不同。在描述复杂的社会现象时，确认名词的性对于正确使用形容词至关重要。
 
 ---
+
+### 🗞️ 中文摘要
+在五一劳动节期间，波兰“一起党”（Partia Razem）领导人阿德里安·赞德伯格（Adrian Zandberg）在格但斯克举行集会，对波兰当前的经济与社会政策发起猛烈抨击。他认为现行制度对劳动者极不友好，指责自由派政客的贪婪与自私导致了社会不平等的加剧。赞德伯格特别批评政府在医疗、教育等公共服务领域的投入不足，导致平民利益受损。他还指出，多年来政府过度向富人阶层进行政策倾斜，而普通劳动者却面临就业不稳和被剥削的困境。该党承诺将致力于保护劳工权益，并改革税收及公共服务体系以实现社会公平。
+
+**关键信息：**
+- 阿德里安·赞德伯格批评波兰体制未能保障普通劳动者的尊严与安全。
+- 批评者认为医疗体系的资金缺口正迫使患者承担更高的治疗成本。
+- 赞德伯格指出，格但斯克虽是“团结工会”诞生地，但也成了自由派经济政策的温床。
+- “一起党”主张改善劳工待遇，打击不公平的“垃圾合同”与剥削现象。
+- 该党计划推动社会保障房建设，限制房地产商势力并改革税制。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Koniec-prezentow-dla-najbogatszych-Adrian-Zandberg-uderza-w-liberalow-9126613.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Koniec-prezentow-dla-najbogatszych-Adrian-Zandberg-uderza-w-liberalow-9126613.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["华沙新闻", "社会动态", "生活资讯", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-华沙Mokotów区居民近日组织抗议，反对当地新开设的Volta-Med戒毒诊所。居民指出，诊所周边频繁出现丢弃的针头、暴力斗殴及非法药物交易，严重威胁社区安全。该诊所此前曾因管理混乱被迫从Praga区搬迁，如今在住宅区和学校附近再次引发居民恐慌。当地人表示，诊所不仅影响治安，还让老人和孩子不敢正常使用公共设施。居民们希望相关部门尽快解决这一严重的环境与安全隐患。
-
-**关键信息：**
-- 华沙Mokotów区Czerska街居民举行抗议活动。
-- 诊所周边发现大量废弃针头及非法药物交易。
-- 居民目击诊所患者参与暴力斗殴并携带武器。
-- 诊所选址紧邻多所学校、幼儿园及住宅区。
-- 该机构曾因监管不力从原址搬迁至此。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Mieszkańcy Mokotowa protestują przeciwko nowej klinice dla uzależnionych. Na 
 注意名词的格变化：文中“przeciwko”是一个固定搭配，后面必须接“与格 (Celownik)”。例如：protest przeciwko klinice (名词 klinika 的与格形式)，大家在表达反对某事时要记得变换词尾哦！
 
 ---
+
+### 🗞️ 中文摘要
+华沙Mokotów区居民近日组织抗议，反对当地新开设的Volta-Med戒毒诊所。居民指出，诊所周边频繁出现丢弃的针头、暴力斗殴及非法药物交易，严重威胁社区安全。该诊所此前曾因管理混乱被迫从Praga区搬迁，如今在住宅区和学校附近再次引发居民恐慌。当地人表示，诊所不仅影响治安，还让老人和孩子不敢正常使用公共设施。居民们希望相关部门尽快解决这一严重的环境与安全隐患。
+
+**关键信息：**
+- 华沙Mokotów区Czerska街居民举行抗议活动。
+- 诊所周边发现大量废弃针头及非法药物交易。
+- 居民目击诊所患者参与暴力斗殴并携带武器。
+- 诊所选址紧邻多所学校、幼儿园及住宅区。
+- 该机构曾因监管不力从原址搬迁至此。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/warszawa/strzykawki-i-przemoc-wokol-kliniki-volta-med-mieszkancy-mokotowa-protestuja/87jzp7r](https://www.fakt.pl/wydarzenia/polska/warszawa/strzykawki-i-przemoc-wokol-kliniki-volta-med-mieszkancy-mokotowa-protestuja/87jzp7r)

@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "法律案件", "深度报道", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰男子Piotr Pytel因2004年在德国慕尼黑发生的一起谋杀案被判处终身监禁。尽管他坚称自己并未参与杀人，且多年后德国法院又判处了另一名主动认罪的凶手，但Pytel至今仍被关押在波兰热舒夫监狱。Pytel表示，案发当时他仅在附近参与了一起入室抢劫的预谋，并未进入事发现场。然而，德国法院却因通讯记录等证据将其定罪。这起案件因存在两份相互矛盾的判决，引发了对司法公正的广泛质疑。
-
-**关键信息：**
-- **案件起因：** 2004年慕尼黑发生一起导致女性死亡的恶性入室抢劫案。
-- **当事人现状：** Piotr Pytel在波兰热舒夫监狱服刑超过20年。
-- **关键矛盾：** 德国法院曾针对同一案件作出两份判决，另一名罪犯已承认杀人。
-- **被告辩护：** Pytel声称案发时他在400米外等待，并未参与谋杀过程。
-- **定罪依据：** 德国警方主要根据案发地附近的手机信号记录将其逮捕并定罪。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Piotr Pytel przebywa w więzieniu od ponad dwudziestu lat. Został skazany za za
 注意“przyznać się”这个动词，它要求后接“do”再加上名词的**第二格 (Genitive)**。例如：przyznać się do winy (承认罪行) 或 przyznać się do błędu (承认错误)。这是B1水平写作中非常实用的搭配。
 
 ---
+
+### 🗞️ 中文摘要
+波兰男子Piotr Pytel因2004年在德国慕尼黑发生的一起谋杀案被判处终身监禁。尽管他坚称自己并未参与杀人，且多年后德国法院又判处了另一名主动认罪的凶手，但Pytel至今仍被关押在波兰热舒夫监狱。Pytel表示，案发当时他仅在附近参与了一起入室抢劫的预谋，并未进入事发现场。然而，德国法院却因通讯记录等证据将其定罪。这起案件因存在两份相互矛盾的判决，引发了对司法公正的广泛质疑。
+
+**关键信息：**
+- **案件起因：** 2004年慕尼黑发生一起导致女性死亡的恶性入室抢劫案。
+- **当事人现状：** Piotr Pytel在波兰热舒夫监狱服刑超过20年。
+- **关键矛盾：** 德国法院曾针对同一案件作出两份判决，另一名罪犯已承认杀人。
+- **被告辩护：** Pytel声称案发时他在400米外等待，并未参与谋杀过程。
+- **定罪依据：** 德国警方主要根据案发地附近的手机信号记录将其逮捕并定罪。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/rzeszow/piotr-pytel-od-22-lat-za-kratami-skazany-za-zbrodnie-ktorej-nie-popelnil/8fvz3jm](https://www.fakt.pl/wydarzenia/polska/rzeszow/piotr-pytel-od-22-lat-za-kratami-skazany-za-zbrodnie-ktorej-nie-popelnil/8fvz3jm)

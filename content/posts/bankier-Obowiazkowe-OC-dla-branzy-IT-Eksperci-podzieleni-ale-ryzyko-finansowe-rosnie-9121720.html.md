@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰IT", "职场保险", "经济风险", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-随着波兰IT行业的迅猛发展，因代码错误导致的巨额经济损失风险日益增加。目前，波兰IT从业者尚无法定强制保险义务，许多以B2B合同形式工作的程序员需用个人资产承担潜在赔偿责任。历史上如Knight Capital和Ariane 5的失败案例表明，代码失误可能造成毁灭性的财务打击。专家指出，随着数字化渗透到关键基础设施，IT项目的索赔金额已不再是小数目。目前，不仅行业呼吁加强保障，海外客户也开始将职业保险列为合作的硬性指标。
-
-**关键信息：**
-- IT从业者暂无强制性职业责任险(OC)，风险由个人承担。
-- 代码错误可能导致数万甚至数百万欧元的赔偿诉求。
-- B2B合同模式下，程序员需以个人财产承担责任。
-- 关键基础设施的数字化提升了IT事故的连锁经济代价。
-- 许多海外合作伙伴已开始要求波兰IT人员购买职业保险。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Sektor IT w Polsce bardzo szybko rośnie. Wielu programistów pracuje na kontrak
 注意形容词与名词的性数格匹配：在本文中，“obowiązkowe ubezpieczenie”是中性名词短语。如果你想说“强制性工作”，则是“obowiązkowa praca”（阴性）。记住OC作为缩写时，其性数由它所代表的完整名词“ubezpieczenie”（中性）决定。即：obowiązkow**e** OC。
 
 ---
+
+### 🗞️ 中文摘要
+随着波兰IT行业的迅猛发展，因代码错误导致的巨额经济损失风险日益增加。目前，波兰IT从业者尚无法定强制保险义务，许多以B2B合同形式工作的程序员需用个人资产承担潜在赔偿责任。历史上如Knight Capital和Ariane 5的失败案例表明，代码失误可能造成毁灭性的财务打击。专家指出，随着数字化渗透到关键基础设施，IT项目的索赔金额已不再是小数目。目前，不仅行业呼吁加强保障，海外客户也开始将职业保险列为合作的硬性指标。
+
+**关键信息：**
+- IT从业者暂无强制性职业责任险(OC)，风险由个人承担。
+- 代码错误可能导致数万甚至数百万欧元的赔偿诉求。
+- B2B合同模式下，程序员需以个人财产承担责任。
+- 关键基础设施的数字化提升了IT事故的连锁经济代价。
+- 许多海外合作伙伴已开始要求波兰IT人员购买职业保险。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Obowiazkowe-OC-dla-branzy-IT-Eksperci-podzieleni-ale-ryzyko-finansowe-rosnie-9121720.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Obowiazkowe-OC-dla-branzy-IT-Eksperci-podzieleni-ale-ryzyko-finansowe-rosnie-9121720.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

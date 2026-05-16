@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "奥斯特鲁夫", "社会资讯", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰奥斯特鲁夫的一处墓园近日发生了离奇的损毁事件，约20座墓碑和祭奠用品遭到破坏。当地警方在现场调查后初步排除人为蓄意破坏的嫌疑，认为这可能是由天气因素导致的自然灾害。然而，当地居民和石匠表示怀疑，称近期并未出现足以造成如此破坏的强风。目前，警方发现损毁呈现出“L”型排列，且有墓园员工声称曾目击到一阵旋风经过现场。目前案件调查仍在进行中，真相尚待进一步确认。
-
-**关键信息：**
-- 奥斯特鲁夫墓园约20座墓碑和祭品受损。
-- 警方初步推测损毁由恶劣天气导致。
-- 居民质疑天气说，称近期没有强风记录。
-- 现场损毁呈现规律的“L”型排列。
-- 墓园员工提及当时现场曾出现旋风。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Na cmentarzu w Ostrowie Wielkopolskim doszło do zniszczeń. Policja zbadała mi
 注意动词“wykluczyć”（排除）在否定句中的用法。波兰语中，当我们说“Nie wykluczamy...”时，后面接的宾语通常使用宾格（Accusative）。例如：Nie wykluczamy wypadku (排除意外)。这是B1级别在描述可能性时非常实用的句型。
 
 ---
+
+### 🗞️ 中文摘要
+波兰奥斯特鲁夫的一处墓园近日发生了离奇的损毁事件，约20座墓碑和祭奠用品遭到破坏。当地警方在现场调查后初步排除人为蓄意破坏的嫌疑，认为这可能是由天气因素导致的自然灾害。然而，当地居民和石匠表示怀疑，称近期并未出现足以造成如此破坏的强风。目前，警方发现损毁呈现出“L”型排列，且有墓园员工声称曾目击到一阵旋风经过现场。目前案件调查仍在进行中，真相尚待进一步确认。
+
+**关键信息：**
+- 奥斯特鲁夫墓园约20座墓碑和祭品受损。
+- 警方初步推测损毁由恶劣天气导致。
+- 居民质疑天气说，称近期没有强风记录。
+- 现场损毁呈现规律的“L”型排列。
+- 墓园员工提及当时现场曾出现旋风。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/poznan/ostrow-wielkopolski-tajemnicze-zniszczenia-na-cmentarzu/nzvkdtb](https://www.fakt.pl/wydarzenia/polska/poznan/ostrow-wielkopolski-tajemnicze-zniszczenia-na-cmentarzu/nzvkdtb)

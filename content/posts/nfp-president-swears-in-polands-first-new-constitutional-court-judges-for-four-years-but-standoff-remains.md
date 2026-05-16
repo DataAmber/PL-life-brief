@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["波兰政治", "宪法法院", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰总统纳罗茨基近日为议会新任命的两位宪法法院法官举行了宣誓仪式，这是该机构四年来首次迎来新法官。然而，此举并未解决政府与总统之间的法治争端，因为总统拒绝为议会选出的另外四名法官举行宣誓，双方陷入新的僵局。
-
-**关键信息：**
-- 宪法法院目前因法官缺额，难以达到法定最低审判人数。
-- 政府曾因认为法院非法而抵制任命，近期改变策略试图补齐缺额。
-- 总统仅选择性地为两名法官举行宣誓，导致政府与总统之间的法律对抗持续升级。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Prezydent przyjął ślubowanie dwóch nowych sędziów Trybunału Konstytucyjne
 注意 "złożyć ślubowanie" 这个短语。在波兰语中，动词 "złożyć" 意为“提交”或“做出”，常与名词构成固定搭配，例如 "złożyć wizytę" (拜访) 或 "złożyć rezygnację" (辞职)。掌握这些词组能让你的表达更地道。
 
 ---
+
+### 🗞️ 中文摘要
+波兰总统纳罗茨基近日为议会新任命的两位宪法法院法官举行了宣誓仪式，这是该机构四年来首次迎来新法官。然而，此举并未解决政府与总统之间的法治争端，因为总统拒绝为议会选出的另外四名法官举行宣誓，双方陷入新的僵局。
+
+**关键信息：**
+- 宪法法院目前因法官缺额，难以达到法定最低审判人数。
+- 政府曾因认为法院非法而抵制任命，近期改变策略试图补齐缺额。
+- 总统仅选择性地为两名法官举行宣誓，导致政府与总统之间的法律对抗持续升级。
+
+---
+
 > 📰 原文来源：[https://notesfrompoland.com/2026/04/01/president-swears-in-polands-first-new-constitutional-court-judges-for-four-years-but-standoff-remains/](https://notesfrompoland.com/2026/04/01/president-swears-in-polands-first-new-constitutional-court-judges-for-four-years-but-standoff-remains/)

@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "生活资讯", "交通安全", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-4月22日晚，波兰罗兹省贝乌哈图夫县附近发生一起严重车祸。在483号省道上，两辆小汽车发生剧烈碰撞，造成两人不幸当场身亡。救援人员使用专业工具从损毁车辆中救出了伤者并进行了急救，但未能挽回一名63岁女性和一名34岁男性的生命。此外，车内一名24岁女性伤势严重，目前仍在医院接受紧急救治。当地警方已介入调查，具体事故原因尚在确认中。
-
-**关键信息：**
-- **事故时间：** 4月22日晚20:39左右
-- **事故地点：** 罗兹省贝乌哈图夫县Chabielice地区的483号公路
-- **伤亡情况：** 2人不幸死亡，1人重伤送医
-- **救援行动：** 多支消防及医疗队参与抢救，并使用了破拆救援设备
-- **后续调查：** 警方已正式启动事故调查程序
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ W środę wieczorem pod Bełchatowem doszło do tragicznego wypadku. Dwa samocho
 注意“zginąć”（死亡）与“śmierć”（死亡）的区别。在新闻中，我们常用“zginąć”作为动词（例如：Dwie osoby zginęły），这是一个完成体动词，强调事故导致的结果。而“śmierć”是名词，常用于短语“ponieść śmierć”。
 
 ---
+
+### 🗞️ 中文摘要
+4月22日晚，波兰罗兹省贝乌哈图夫县附近发生一起严重车祸。在483号省道上，两辆小汽车发生剧烈碰撞，造成两人不幸当场身亡。救援人员使用专业工具从损毁车辆中救出了伤者并进行了急救，但未能挽回一名63岁女性和一名34岁男性的生命。此外，车内一名24岁女性伤势严重，目前仍在医院接受紧急救治。当地警方已介入调查，具体事故原因尚在确认中。
+
+**关键信息：**
+- **事故时间：** 4月22日晚20:39左右
+- **事故地点：** 罗兹省贝乌哈图夫县Chabielice地区的483号公路
+- **伤亡情况：** 2人不幸死亡，1人重伤送医
+- **救援行动：** 多支消防及医疗队参与抢救，并使用了破拆救援设备
+- **后续调查：** 警方已正式启动事故调查程序
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/lodz/chabielice-potezne-zderzenie-samochodow-policja-wyjasnia-przyczyny-tragedii/dsdxrev](https://www.fakt.pl/wydarzenia/polska/lodz/chabielice-potezne-zderzenie-samochodow-policja-wyjasnia-przyczyny-tragedii/dsdxrev)

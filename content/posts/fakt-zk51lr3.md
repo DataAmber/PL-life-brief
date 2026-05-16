@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰生活", "突发新闻", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰埃尔布隆格市警方近日发布了一段监控录像，寻找一名身份不明的女子。该女子于3月16日凌晨在当地街道被拍到，警方认为她可能掌握重要线索。然而，由于监控画质模糊，社交媒体上的网友对视频内容的真实性和女性身份提出了质疑。许多人猜测该女子可能目击了某些事情并正在逃离现场。警方目前正呼吁知情者通过电话或邮件提供相关信息。
-
-**关键信息：**
-- 地点位于波兰埃尔布隆格市（Elbląg）的Klimuszki和Obrońców Pokoju街附近。
-- 监控拍摄时间为3月16日凌晨2点左右。
-- 警方公开寻找该女子，是因为她可能掌握与某案件相关的重要信息。
-- 网民质疑监控画质过差，甚至怀疑视频中的人物是否真的是女性。
-- 警方已设立专项联络电话和邮箱，以便公众提供线索。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Policja w Elblągu szuka nieznajomej kobiety. Nagranie pochodzi z kamery monitor
 注意动词“szukać”的用法：在波兰语中，szukać 后面必须接“生格”（Genitive，即 -kogo? -czego?）。例如：Policja szuka kobiety (szuka kogo? - kobiety 是 kobieta 的生格形式)。
 
 ---
+
+### 🗞️ 中文摘要
+波兰埃尔布隆格市警方近日发布了一段监控录像，寻找一名身份不明的女子。该女子于3月16日凌晨在当地街道被拍到，警方认为她可能掌握重要线索。然而，由于监控画质模糊，社交媒体上的网友对视频内容的真实性和女性身份提出了质疑。许多人猜测该女子可能目击了某些事情并正在逃离现场。警方目前正呼吁知情者通过电话或邮件提供相关信息。
+
+**关键信息：**
+- 地点位于波兰埃尔布隆格市（Elbląg）的Klimuszki和Obrońców Pokoju街附近。
+- 监控拍摄时间为3月16日凌晨2点左右。
+- 警方公开寻找该女子，是因为她可能掌握与某案件相关的重要信息。
+- 网民质疑监控画质过差，甚至怀疑视频中的人物是否真的是女性。
+- 警方已设立专项联络电话和邮箱，以便公众提供线索。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/elblag-tajemnicze-poszukiwania-nieznajomej-jest-nagranie-cos-widziala/zk51lr3](https://www.fakt.pl/wydarzenia/polska/elblag-tajemnicze-poszukiwania-nieznajomej-jest-nagranie-cos-widziala/zk51lr3)

@@ -5,16 +5,6 @@ categories: ["Immigration"]
 tags: ["波兰移民", "乌克兰难民", "政策更新", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-自2026年3月5日起，波兰外国人办公室将停止签发新的临时保护证明。已持有的证书有效期将自动延续至2027年3月4日，若遇证件丢失或损坏，持有人应通过申请UKR状态的PESEL号来证明其受保护身份。
-
-**关键信息：**
-- 2026年3月5日起停止签发纸质临时保护证明。
-- 旧证书在2027年3月4日前依然有效。
-- 证件丢失者需前往地方政府申请UKR状态的PESEL号以确立身份。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Od 5 marca 2026 roku urząd nie wydaje zaświadczeń o ochronie czasowej. Twoje 
 注意时间状语的表达：波兰语中表达“在某日期之前”通常使用“do + 生格(Genitive)”，如“do 4 marca”。注意月份名称（marzec）在该结构中词尾发生了变化（marzec -> marca）。
 
 ---
+
+### 🗞️ 中文摘要
+自2026年3月5日起，波兰外国人办公室将停止签发新的临时保护证明。已持有的证书有效期将自动延续至2027年3月4日，若遇证件丢失或损坏，持有人应通过申请UKR状态的PESEL号来证明其受保护身份。
+
+**关键信息：**
+- 2026年3月5日起停止签发纸质临时保护证明。
+- 旧证书在2027年3月4日前依然有效。
+- 证件丢失者需前往地方政府申请UKR状态的PESEL号以确立身份。
+
+---
+
 > 📰 原文来源：[https://www.gov.pl/web/udsc-en/discontinuation-of-issuing-the-certificates-of-temporary-protection](https://www.gov.pl/web/udsc-en/discontinuation-of-issuing-the-certificates-of-temporary-protection)

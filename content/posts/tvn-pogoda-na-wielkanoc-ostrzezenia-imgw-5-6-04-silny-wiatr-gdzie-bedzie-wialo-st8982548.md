@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "天气预报", "波兰生活", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰气象与水利管理研究所（IMGW）近日向全国超过半数的省份发布了强风预警。由于气象条件不稳定，当地居民需注意防范大风可能造成的电力中断及树木倒伏风险。
-
-**关键信息：**
-- IMGW发布了覆盖波兰半数以上地区的强风警报。
-- 大风可能导致交通受阻和基础设施损坏。
-- 建议民众尽量减少不必要的户外活动并固定阳台杂物。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ IMGW wydał ostrzeżenia przed silnym wiatrem. Wiatr może być bardzo niebezpie
 本篇学习形容词用法。注意“silny”（强壮的/强的）随名词“wiatr”（阳性单数）保持一致，使用了阳性原形。如果修饰阴性名词，例如“ostrzeżenie”（中性），词尾通常会变为“-e”。
 
 ---
+
+### 🗞️ 中文摘要
+波兰气象与水利管理研究所（IMGW）近日向全国超过半数的省份发布了强风预警。由于气象条件不稳定，当地居民需注意防范大风可能造成的电力中断及树木倒伏风险。
+
+**关键信息：**
+- IMGW发布了覆盖波兰半数以上地区的强风警报。
+- 大风可能导致交通受阻和基础设施损坏。
+- 建议民众尽量减少不必要的户外活动并固定阳台杂物。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wielkanoc-ostrzezenia-imgw-5-6-04-silny-wiatr-gdzie-bedzie-wialo-st8982548?source=rss](https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wielkanoc-ostrzezenia-imgw-5-6-04-silny-wiatr-gdzie-bedzie-wialo-st8982548?source=rss)

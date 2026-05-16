@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰政治", "移民政策", "欧洲新闻", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰总理图斯克近日针对非法移民问题发表了重要讲话。他明确表示，波兰政府将采取坚定措施，对那些非法进入边境的人员进行遣返。同时，图斯克强调了边境安全在当前地缘政治局势下的核心地位。他希望未来能以合法的程序欢迎那些遵守法律的人士进入波兰。这一表态反映了波兰在应对边境压力时，平衡人权保护与国家安全的新思路。
-
-**关键信息：**
-- 波兰总理图斯克重申了边境管控的重要性。
-- 政府将加大力度遣返非法越境的移民。
-- 图斯克强调必须通过合法途径申请进入波兰。
-- 此举旨在回应边境地区持续的移民压力。
-- 波兰政府将继续执行严厉的边境保护政策。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Donald Tusk mówi o bezpieczeństwie na granicy. Premier chce, żeby wszyscy prz
 本篇文本中出现了动词“przestrzegać”（遵守）。请注意，该动词后面必须接**属格 (Genitive)**。例如：przestrzegać prawa (遵守法律)，przestrzegać zasad (遵守原则)。这是B1级别写作中非常地道的搭配用法，一定要记牢！
 
 ---
+
+### 🗞️ 中文摘要
+波兰总理图斯克近日针对非法移民问题发表了重要讲话。他明确表示，波兰政府将采取坚定措施，对那些非法进入边境的人员进行遣返。同时，图斯克强调了边境安全在当前地缘政治局势下的核心地位。他希望未来能以合法的程序欢迎那些遵守法律的人士进入波兰。这一表态反映了波兰在应对边境压力时，平衡人权保护与国家安全的新思路。
+
+**关键信息：**
+- 波兰总理图斯克重申了边境管控的重要性。
+- 政府将加大力度遣返非法越境的移民。
+- 图斯克强调必须通过合法途径申请进入波兰。
+- 此举旨在回应边境地区持续的移民压力。
+- 波兰政府将继续执行严厉的边境保护政策。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/polska/donald-tusk-o-zbigniewie-ziobrze-i-marcinie-romanowskim-mam-nadzieje-ze-powiem-im-witam-w-polsce-st8994834?source=rss](https://tvn24.pl/polska/donald-tusk-o-zbigniewie-ziobrze-i-marcinie-romanowskim-mam-nadzieje-ze-powiem-im-witam-w-polsce-st8994834?source=rss)

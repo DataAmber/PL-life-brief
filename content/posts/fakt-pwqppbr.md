@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "边境执法", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰边防局近日在卢布斯卡省Tuplice附近进行例行检查时，拦下了一辆从德国被盗的梅赛德斯奔驰轿车。两名试图逃跑的波兰籍男子当场被捕。然而，警方在车内发现了疑似“人类尸体”的可怕物体，场面一度非常惊悚。经过进一步核实，这具尸体其实是一个极其逼真的影视道具模型，属于该车车主所有。目前，这两名嫌疑人已被移交当地警方，他们将因盗窃罪面临法律制裁。
-
-**关键信息：**
-- **案发地点：** 波兰与德国边境附近的Tuplice小镇。
-- **作案车辆：** 一辆在德国境内被盗的梅赛德斯奔驰。
-- **惊人发现：** 车内藏有一个逼真的电影拍摄道具，被误认为尸体。
-- **嫌疑人状况：** 两名波兰籍男子因企图潜逃及盗窃已被扣留。
-- **车辆价值：** 被盗车辆价值约6.5万兹罗提。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Straż Graniczna zatrzymała skradziony samochód w miejscowości Tuplice. W śr
 注意形容词与名词的性数格一致。例如：skradziony (阳性单数) samochód，但在阴性名词后要用skradziona (如skradziona rzecz)。本课出现的核心动词“znaleźć”在表达发现某物时非常常用，需注意其过去式的变位（znalazłem/znalazłaś）。
 
 ---
+
+### 🗞️ 中文摘要
+波兰边防局近日在卢布斯卡省Tuplice附近进行例行检查时，拦下了一辆从德国被盗的梅赛德斯奔驰轿车。两名试图逃跑的波兰籍男子当场被捕。然而，警方在车内发现了疑似“人类尸体”的可怕物体，场面一度非常惊悚。经过进一步核实，这具尸体其实是一个极其逼真的影视道具模型，属于该车车主所有。目前，这两名嫌疑人已被移交当地警方，他们将因盗窃罪面临法律制裁。
+
+**关键信息：**
+- **案发地点：** 波兰与德国边境附近的Tuplice小镇。
+- **作案车辆：** 一辆在德国境内被盗的梅赛德斯奔驰。
+- **惊人发现：** 车内藏有一个逼真的电影拍摄道具，被误认为尸体。
+- **嫌疑人状况：** 两名波兰籍男子因企图潜逃及盗窃已被扣留。
+- **车辆价值：** 被盗车辆价值约6.5万兹罗提。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/tuplice-luksusowy-mercedes-odzyskany-w-srodku-cos-przypominajacego-zwloki/pwqppbr](https://www.fakt.pl/wydarzenia/polska/tuplice-luksusowy-mercedes-odzyskany-w-srodku-cos-przypominajacego-zwloki/pwqppbr)

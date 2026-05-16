@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰就业", "人工智能", "职场焦虑", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-根据ManpowerGroup的最新调查，波兰职场人士对当前的就业前景表现出显著忧虑。主要的焦虑来源包括经济不确定性、人工智能技术对岗位的替代风险以及企业重组带来的潜在裁员压力。尽管如此，仍有约28%的受访者表示目前工作状态较为稳定，未感到特别担忧。专家分析认为，虽然自动化正在改变部分行业，但AI更多表现为对岗位的职能转化，而非完全取代。调查显示，不同行业间的焦虑感存在差异，制造业和医疗行业的雇员相对更具安全感。
-
-**关键信息：**
-- 33%的受访者最担忧经济形势，20%担忧被AI技术取代。
-- 19%的职场人士担心公司进行大规模裁员。
-- 只有约四分之一的雇员表示完全没有职业忧虑。
-- 制造业和医疗卫生领域是目前员工信心最强的行业。
-- 男性员工表现出的职业稳定感普遍高于女性。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Polscy pracownicy bardzo martwią się o swoją przyszłość. Największym prob
 注意“martwić się”的使用规则。它是一个反身动词，后接介词“o”和第四格（Accusative case）。例如：Martwię się o przyszłość (我担心未来)，其中“przyszłość”保持原形，因为阴性名词第四格与第一格相同。如果你担心的是某人，比如“我担心我的朋友”，则是“Martwię się o mojego przyjaciela”。
 
 ---
+
+### 🗞️ 中文摘要
+根据ManpowerGroup的最新调查，波兰职场人士对当前的就业前景表现出显著忧虑。主要的焦虑来源包括经济不确定性、人工智能技术对岗位的替代风险以及企业重组带来的潜在裁员压力。尽管如此，仍有约28%的受访者表示目前工作状态较为稳定，未感到特别担忧。专家分析认为，虽然自动化正在改变部分行业，但AI更多表现为对岗位的职能转化，而非完全取代。调查显示，不同行业间的焦虑感存在差异，制造业和医疗行业的雇员相对更具安全感。
+
+**关键信息：**
+- 33%的受访者最担忧经济形势，20%担忧被AI技术取代。
+- 19%的职场人士担心公司进行大规模裁员。
+- 只有约四分之一的雇员表示完全没有职业忧虑。
+- 制造业和医疗卫生领域是目前员工信心最强的行业。
+- 男性员工表现出的职业稳定感普遍高于女性。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Pracownicy-boja-sie-o-swoje-zatrudnienie-Tego-najbardziej-9114411.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pracownicy-boja-sie-o-swoje-zatrudnienie-Tego-najbardziej-9114411.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

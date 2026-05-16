@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "生活资讯", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近日，波兰马佐夫舍地区的警界陷入沉痛的哀悼之中，为不幸离世的警员帕维尔·马代斯基（Paweł Madejski）举行了葬礼。这位年轻警员在与疾病进行顽强抗争后，不幸于5月10日去世。葬礼在加尔沃林（Garwolin）附近的弗鲁布莱-瓦尔戈钦（Wróble-Wargocin）教区教堂庄重举行。在拉多姆防暴警察荣誉卫队的协助下，仪式完全遵循波兰警察的葬礼礼仪进行。当地警局代表及家属一同护送他走向了最后的安息之地，整个警界都对他的离去表示深切哀悼。
-
-**关键信息：**
-- **逝者身份：** 离世者为波兰警员帕维尔·马代斯基（Paweł Madejski）。
-- **去世原因：** 经过与疾病的长期斗争后，于5月10日因病去世。
-- **葬礼形式：** 遵循波兰警察的标准礼仪，并有荣誉卫队护送。
-- **地点：** 仪式在加尔沃林附近的弗鲁布莱-瓦尔戈钦教区教堂举行。
-- **社会影响：** 此事在当地社区及波兰警界引起了广泛的悲痛与缅怀。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Policjant Paweł Madejski zmarł po walce z chorobą. W środę odbył się jego
 注意句中的“pogrzeb post. Pawła Madejskiego”。波兰语中的“post.”是“posterunkowy”的缩写，意为初级警员。在正式文书中，当提到具体头衔时，通常使用第二格（Genitive case），因此Paweł（第一格）变为Pawła（第二格），表示所属关系。在学习B1级别时，熟练掌握姓名和称谓在各格间的变化非常重要。
 
 ---
+
+### 🗞️ 中文摘要
+近日，波兰马佐夫舍地区的警界陷入沉痛的哀悼之中，为不幸离世的警员帕维尔·马代斯基（Paweł Madejski）举行了葬礼。这位年轻警员在与疾病进行顽强抗争后，不幸于5月10日去世。葬礼在加尔沃林（Garwolin）附近的弗鲁布莱-瓦尔戈钦（Wróble-Wargocin）教区教堂庄重举行。在拉多姆防暴警察荣誉卫队的协助下，仪式完全遵循波兰警察的葬礼礼仪进行。当地警局代表及家属一同护送他走向了最后的安息之地，整个警界都对他的离去表示深切哀悼。
+
+**关键信息：**
+- **逝者身份：** 离世者为波兰警员帕维尔·马代斯基（Paweł Madejski）。
+- **去世原因：** 经过与疾病的长期斗争后，于5月10日因病去世。
+- **葬礼形式：** 遵循波兰警察的标准礼仪，并有荣誉卫队护送。
+- **地点：** 仪式在加尔沃林附近的弗鲁布莱-瓦尔戈钦教区教堂举行。
+- **社会影响：** 此事在当地社区及波兰警界引起了广泛的悲痛与缅怀。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/warszawa/pogrzeb-policjanta-pod-garwolinem-ostatnie-pozegnanie-pawla-madejskiego/5jg713z](https://www.fakt.pl/wydarzenia/polska/warszawa/pogrzeb-policjanta-pod-garwolinem-ostatnie-pozegnanie-pawla-madejskiego/5jg713z)

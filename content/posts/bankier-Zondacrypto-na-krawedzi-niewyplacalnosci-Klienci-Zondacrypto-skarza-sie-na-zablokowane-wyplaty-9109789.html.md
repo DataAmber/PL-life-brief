@@ -5,19 +5,6 @@ categories: ["Economy"]
 tags: ["加密货币", "波兰经济", "金融风险", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰最大的加密货币交易所Zondacrypto近期陷入了严重的流动性危机。据媒体报道，该交易所的比特币储备在近两年内缩水了近99%，目前账面资金极度匮乏，引发市场恐慌。大量用户投诉称无法正常提取资金，且有消息称交易所拖欠了部分赞助款项。尽管交易所首席执行官否认了财务危机，声称持有冷钱包储备，但其并未提供充分的证据支持。随着用户提现需求增加，该平台的支付能力正面临前所未有的严峻考验。
-
-**关键信息：**
-- Zondacrypto比特币储备在两年内下降了99.7%。
-- 用户持续反馈无法正常提取比特币及以太坊资金。
-- 调查显示交易所账面资金甚至无法覆盖大规模挤兑风险。
-- 交易所曾被曝拖欠合作方的赞助费用。
-- CEO称冷钱包内有大量储备，但未能提供审计证据。
-
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -40,4 +27,18 @@ Największa polska giełda kryptowalut ma poważne problemy. Użytkownicy skarż
 注意名词的格变化：句中“problemy z wypłatą”(提现问题)使用了工具格 (Narzędnik)。当你想表达“与……有关”或“对……有困难”时，介词“z”后面通常接名词的工具格形式（例如：wypłata -> wypłatą）。
 
 ---
+
+### 🗞️ 中文摘要
+波兰最大的加密货币交易所Zondacrypto近期陷入了严重的流动性危机。据媒体报道，该交易所的比特币储备在近两年内缩水了近99%，目前账面资金极度匮乏，引发市场恐慌。大量用户投诉称无法正常提取资金，且有消息称交易所拖欠了部分赞助款项。尽管交易所首席执行官否认了财务危机，声称持有冷钱包储备，但其并未提供充分的证据支持。随着用户提现需求增加，该平台的支付能力正面临前所未有的严峻考验。
+
+**关键信息：**
+- Zondacrypto比特币储备在两年内下降了99.7%。
+- 用户持续反馈无法正常提取比特币及以太坊资金。
+- 调查显示交易所账面资金甚至无法覆盖大规模挤兑风险。
+- 交易所曾被曝拖欠合作方的赞助费用。
+- CEO称冷钱包内有大量储备，但未能提供审计证据。
+
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Zondacrypto-na-krawedzi-niewyplacalnosci-Klienci-Zondacrypto-skarza-sie-na-zablokowane-wyplaty-9109789.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zondacrypto-na-krawedzi-niewyplacalnosci-Klienci-Zondacrypto-skarza-sie-na-zablokowane-wyplaty-9109789.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

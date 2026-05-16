@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["华沙资讯", "波兰新闻", "公益动态", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰议员卢卡斯·利特夫卡（Łukasz Litewka）因意外不幸去世，引发了社会各界的哀悼。他的慈善基金会成员近期发表公开信，宣布了基金会的未来去向。经过与卢卡斯家人及家人的深切商议，团队达成共识。他们决定继续运营该基金会，以此作为对他最好的纪念。团队表示，基金会承载着卢卡斯的梦想，将继续帮助那些需要援助的人。这种集体行为被视为是对他生前热心公益事业的最崇高致敬。
-
-**关键信息：**
-- 卢卡斯·利特夫卡离世后，其基金会运营一度成为焦点。
-- 基金会团队与卢卡斯的家人进行了详细沟通并达成共识。
-- 基金会将继续维持运营，以实现他生前的遗愿。
-- 该决定被认为是纪念卢卡斯最有力的方式。
-- 基金会将继续通过#teamLitewka社区帮助弱势群体。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Fundacja Łukasza Litewki będzie dalej działać. Przyjaciele zmarłego posła 
 注意动词词组“być zgodnym, że...”（一致认为……）。在波兰语中，形容词“zgodny”常与“z”搭配（zgodny z czymś），但在表达观点达成一致时，可以用“być zgodnym”后接从句，这在描述团队共识或正式场合中非常地道。
 
 ---
+
+### 🗞️ 中文摘要
+波兰议员卢卡斯·利特夫卡（Łukasz Litewka）因意外不幸去世，引发了社会各界的哀悼。他的慈善基金会成员近期发表公开信，宣布了基金会的未来去向。经过与卢卡斯家人及家人的深切商议，团队达成共识。他们决定继续运营该基金会，以此作为对他最好的纪念。团队表示，基金会承载着卢卡斯的梦想，将继续帮助那些需要援助的人。这种集体行为被视为是对他生前热心公益事业的最崇高致敬。
+
+**关键信息：**
+- 卢卡斯·利特夫卡离世后，其基金会运营一度成为焦点。
+- 基金会团队与卢卡斯的家人进行了详细沟通并达成共识。
+- 基金会将继续维持运营，以实现他生前的遗愿。
+- 该决定被认为是纪念卢卡斯最有力的方式。
+- 基金会将继续通过#teamLitewka社区帮助弱势群体。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/slask/jest-kluczowa-decyzja-po-tragicznej-smierci-lukasza-litewki/t1c1ny5](https://www.fakt.pl/wydarzenia/polska/slask/jest-kluczowa-decyzja-po-tragicznej-smierci-lukasza-litewki/t1c1ny5)

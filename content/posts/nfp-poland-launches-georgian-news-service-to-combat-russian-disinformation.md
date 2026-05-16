@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰时政", "媒体传播", "国际外交", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰外交部与公共电视台（TVP）近日联合启动了一项名为“VT Sakartvelo News”的格鲁吉亚语新闻服务。该项目旨在为格鲁吉亚民众提供可靠的资讯，以对抗在该地区传播的俄罗斯虚假宣传，并传达欧洲视角。这是波兰继针对白俄罗斯、俄罗斯、摩尔多瓦和亚美尼亚开展媒体行动后，在东欧地区扩展舆论影响力的最新举措。尽管波兰强调其中立立场并支持民主进程，但该举动仍引起了格鲁吉亚国内亲政府媒体的质疑与攻击。目前，相关新闻节目已通过Belsat频道及YouTube平台正式开播。
-
-**关键信息：**
-- **项目名称为VT Sakartvelo News，旨在为格鲁吉亚提供欧洲视角新闻。**
-- **波兰通过此举旨在对抗俄罗斯在格鲁吉亚散布的虚假信息。**
-- **新闻内容通过卫星电视Belsat及专属YouTube频道播出。**
-- **波兰希望借此支持格鲁吉亚的民主进程与区域稳定。**
-- **格鲁吉亚国内政局分歧，部分亲政府媒体对该项目表示抵触。**
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Polska uruchomiła nowy serwis informacyjny w języku gruzińskim. Celem tej ini
 注意“w języku gruzińskim”这个短语。波兰语中表达“使用某种语言”时，使用介词“w”+方位格（Locative case）。形容词“gruzińskim”要与中性名词“języku”保持性、数、格的一致（均为阳性/中性方位格词尾-ym）。
 
 ---
+
+### 🗞️ 中文摘要
+波兰外交部与公共电视台（TVP）近日联合启动了一项名为“VT Sakartvelo News”的格鲁吉亚语新闻服务。该项目旨在为格鲁吉亚民众提供可靠的资讯，以对抗在该地区传播的俄罗斯虚假宣传，并传达欧洲视角。这是波兰继针对白俄罗斯、俄罗斯、摩尔多瓦和亚美尼亚开展媒体行动后，在东欧地区扩展舆论影响力的最新举措。尽管波兰强调其中立立场并支持民主进程，但该举动仍引起了格鲁吉亚国内亲政府媒体的质疑与攻击。目前，相关新闻节目已通过Belsat频道及YouTube平台正式开播。
+
+**关键信息：**
+- **项目名称为VT Sakartvelo News，旨在为格鲁吉亚提供欧洲视角新闻。**
+- **波兰通过此举旨在对抗俄罗斯在格鲁吉亚散布的虚假信息。**
+- **新闻内容通过卫星电视Belsat及专属YouTube频道播出。**
+- **波兰希望借此支持格鲁吉亚的民主进程与区域稳定。**
+- **格鲁吉亚国内政局分歧，部分亲政府媒体对该项目表示抵触。**
+
+---
+
 > 📰 原文来源：[https://notesfrompoland.com/2026/04/28/poland-launches-georgian-news-service-to-combat-russian-disinformation/](https://notesfrompoland.com/2026/04/28/poland-launches-georgian-news-service-to-combat-russian-disinformation/)

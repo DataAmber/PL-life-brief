@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰经济", "电动汽车", "科技合作", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰政府近日宣布选择台湾科技巨头富士康（Foxconn）作为战略合作伙伴，共同推进该国长期停滞的国产电动汽车项目“Izera”。项目由国有企业ElectroMobility Poland（EMP）负责，旨在通过技术转让和本土研发，在波兰建立电动汽车生产枢纽。该计划将获得欧盟45亿兹罗提的复苏基金支持，并计划在波兰南部城市亚沃日诺建设生产基地。富士康将参与研发中心建设及零部件供应链整合，以帮助波兰品牌进入欧洲市场。分析人士认为，富士康在电子制造和人工智能领域的强大实力将为波兰电动车产业注入核心竞争力。
-
-**关键信息：**
-- **波兰政府选定富士康作为国产电动汽车品牌Izera的战略合作伙伴**
-- **合作项目包括建立研发中心及在亚沃日诺建设生产基地**
-- **项目将获得欧盟约45亿兹罗提的复苏基金资助**
-- **重点聚焦于技术转让、人才培养及整合本土供应链**
-- **双方计划在今年下半年正式敲定合资协议细节**
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Polska wybrała firmę Foxconn na strategicznego partnera. Razem będą budować
 注意名词“partner”的格位变化。在句子“Polska wybrała firmę Foxconn na partnera”中，使用了“na + 对格 (Accusative)”结构表示“选为……”。作为B1级别，记住当你想表达“任命某人或某物为某职能/身份”时，常用这个结构。例如：Wybrałem go na lidera zespołu (我选他当团队负责人)。
 
 ---
+
+### 🗞️ 中文摘要
+波兰政府近日宣布选择台湾科技巨头富士康（Foxconn）作为战略合作伙伴，共同推进该国长期停滞的国产电动汽车项目“Izera”。项目由国有企业ElectroMobility Poland（EMP）负责，旨在通过技术转让和本土研发，在波兰建立电动汽车生产枢纽。该计划将获得欧盟45亿兹罗提的复苏基金支持，并计划在波兰南部城市亚沃日诺建设生产基地。富士康将参与研发中心建设及零部件供应链整合，以帮助波兰品牌进入欧洲市场。分析人士认为，富士康在电子制造和人工智能领域的强大实力将为波兰电动车产业注入核心竞争力。
+
+**关键信息：**
+- **波兰政府选定富士康作为国产电动汽车品牌Izera的战略合作伙伴**
+- **合作项目包括建立研发中心及在亚沃日诺建设生产基地**
+- **项目将获得欧盟约45亿兹罗提的复苏基金资助**
+- **重点聚焦于技术转让、人才培养及整合本土供应链**
+- **双方计划在今年下半年正式敲定合资协议细节**
+
+---
+
 > 📰 原文来源：[https://notesfrompoland.com/2026/05/08/poland-picks-taiwans-foxconn-as-partner-for-electric-vehicle-manufacturing-hub/](https://notesfrompoland.com/2026/05/08/poland-picks-taiwans-foxconn-as-partner-for-electric-vehicle-manufacturing-hub/)

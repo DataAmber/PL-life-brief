@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["国际新闻", "波兰周边", "突发事件", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰边境附近的一座大型购物中心近日突发大火，现场浓烟滚滚，消防部门已紧急出动多支队伍进行扑救。目前尚无人员伤亡的具体报告，但火势对建筑造成了严重损毁。
-
-**关键信息：**
-- 购物中心突发严重火灾
-- 消防部门全力投入灭火工作
-- 暂无伤亡报告，损失严重
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ W centrum handlowym wybuchł ogromny pożar. Straż pożarna walczy z ogniem od 
 注意“został ranny”这一结构，这是波兰语的被动语态表达方式。在描述新闻事件时，常用“zostać + 过去分词”来表示动作的承受者，例如“został zniszczony”（被毁坏）。
 
 ---
+
+### 🗞️ 中文摘要
+波兰边境附近的一座大型购物中心近日突发大火，现场浓烟滚滚，消防部门已紧急出动多支队伍进行扑救。目前尚无人员伤亡的具体报告，但火势对建筑造成了严重损毁。
+
+**关键信息：**
+- 购物中心突发严重火灾
+- 消防部门全力投入灭火工作
+- 暂无伤亡报告，损失严重
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/krolewiec-duzy-pozar-w-centrum-handlowym-blisko-polskiej-granicy-st8984490?source=rss](https://tvn24.pl/swiat/krolewiec-duzy-pozar-w-centrum-handlowym-blisko-polskiej-granicy-st8984490?source=rss)

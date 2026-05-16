@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰政治", "国防预算", "欧盟经济", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰政府近日正式签署了名为SAFE的贷款协议，将从欧盟获得高达1840亿兹罗提（约437亿欧元）的低息贷款，旨在全面提升国家国防实力。波兰众议院议长查扎斯蒂（Włodzimierz Czarzasty）公开庆祝这一成果，并抨击总统纳夫罗茨基（Karol Nawrocki）此前曾否决该计划。查扎斯蒂指出，该资金中的90%将直接投入波兰本土企业，助力国内工厂的生产与就业。尽管总统此前以主权担忧为由否决相关立法，但政府通过特定方案绕过了这一障碍。这一协议被视为波兰军事现代化进程的重要里程碑，同时也反映了执政联盟与总统之间的深层政见分歧。
-
-**关键信息：**
-- **波兰获得约1840亿兹罗提的低息贷款用于国防开支。**
-- **资金的90%将优先由波兰本土制造业获取，推动工业发展。**
-- **众议院议长批评总统对SAFE协议的否决行为，称其不仅无效且损害国家利益。**
-- **该笔贷款将极大提升波兰军队的装备水平。**
-- **政府已通过特别程序确保协议签署，绕过了总统此前设置的立法障碍。**
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Polska podpisała umowę o pożyczkę SAFE. Wojsko otrzyma 184 miliardy złotych
 在波兰语中，数字“184 miliardy”（1840亿）后跟名词时，需使用属格（Genitive case）。注意 5 以上的数字及其复合形式通常要求名词使用复数属格（Genitive Plural），这在阅读财经报道统计数据时非常重要。例如：184 miliardy złotych (1840亿兹罗提)。
 
 ---
+
+### 🗞️ 中文摘要
+波兰政府近日正式签署了名为SAFE的贷款协议，将从欧盟获得高达1840亿兹罗提（约437亿欧元）的低息贷款，旨在全面提升国家国防实力。波兰众议院议长查扎斯蒂（Włodzimierz Czarzasty）公开庆祝这一成果，并抨击总统纳夫罗茨基（Karol Nawrocki）此前曾否决该计划。查扎斯蒂指出，该资金中的90%将直接投入波兰本土企业，助力国内工厂的生产与就业。尽管总统此前以主权担忧为由否决相关立法，但政府通过特定方案绕过了这一障碍。这一协议被视为波兰军事现代化进程的重要里程碑，同时也反映了执政联盟与总统之间的深层政见分歧。
+
+**关键信息：**
+- **波兰获得约1840亿兹罗提的低息贷款用于国防开支。**
+- **资金的90%将优先由波兰本土制造业获取，推动工业发展。**
+- **众议院议长批评总统对SAFE协议的否决行为，称其不仅无效且损害国家利益。**
+- **该笔贷款将极大提升波兰军队的装备水平。**
+- **政府已通过特别程序确保协议签署，绕过了总统此前设置的立法障碍。**
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Czarzasty-o-SAFE-Polskie-wojsko-dostalo-184-mld-zl-a-nieskuteczny-prezydent-lekcje-pokory-9130306.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czarzasty-o-SAFE-Polskie-wojsko-dostalo-184-mld-zl-a-nieskuteczny-prezydent-lekcje-pokory-9130306.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

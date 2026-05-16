@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["国际新闻", "美国政治", "特朗普", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-特朗普近日在社交媒体上发布了一系列言论，使用“疯狂杂种”等激进词汇抨击其政治对手。与此同时，他还对现任政府提出了新的最后通牒，引发了舆论的广泛关注与批评。
-
-**关键信息：**
-- 特朗普在社交媒体上使用了攻击性语言。
-- 争议核心围绕其对政敌的侮辱性称呼。
-- 特朗普针对特定政策提出了新的最后通牒。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Donald Trump opublikował bardzo kontrowersyjny wpis w internecie. Użył w nim 
 本段出现的“wobec swoich przeciwników”使用了前置词 wobec，它要求其后的名词使用第二格（dopełniacz）。请记住，当你想表达“针对某人/某事”时，wobec 是一个非常正式且地道的选择。
 
 ---
+
+### 🗞️ 中文摘要
+特朗普近日在社交媒体上发布了一系列言论，使用“疯狂杂种”等激进词汇抨击其政治对手。与此同时，他还对现任政府提出了新的最后通牒，引发了舆论的广泛关注与批评。
+
+**关键信息：**
+- 特朗普在社交媒体上使用了攻击性语言。
+- 争议核心围绕其对政敌的侮辱性称呼。
+- 特朗普针对特定政策提出了新的最后通牒。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/biznes/ze-swiata/wulgarny-wpis-trumpa-szalone-bekarty-jest-tez-nowe-ultimatum-st8984332?source=rss](https://tvn24.pl/biznes/ze-swiata/wulgarny-wpis-trumpa-szalone-bekarty-jest-tez-nowe-ultimatum-st8984332?source=rss)

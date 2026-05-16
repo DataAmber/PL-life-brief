@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰政治", "外交关系", "欧盟动态", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，多名波兰法律与公正党（PiS）议员前往匈牙利，公开表达对欧尔班政府的支持，此举在波兰政坛引发轩然大波。波兰欧盟事务部长什瓦普卡（Adam Szłapka）对此严厉抨击，称这种行为不仅背离波兰的外交方针，更令国内政界感到震惊。他表示，用议会惯用的政治语言已无法形容这种“背叛”行为的荒谬。反对者认为，在欧盟内部博弈的关键时期，波兰议员这种立场鲜明的“私人行程”极其不妥。目前，这一事件正持续发酵，波兰朝野双方在外交路线上的对立愈发严重。
-
-**关键信息：**
-- 波兰PiS党议员团近日访问匈牙利，公开声援欧尔班。
-- 此次访问被视为对当前波兰政府外交政策的公开挑战。
-- 什瓦普卡部长公开批评此举超出了政治辩论的范畴。
-- 事件反映了波兰国内在欧盟核心议题上的严重分歧。
-- 此类外交行为引发了关于议员身份边界的争议。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Polscy posłowie pojechali na Węgry. Chcieli spotkać się z Viktorem Orbanem. 
 注意动词“skrytykować”后面接的是宾格（Accusative）。例如“skrytykować posłów”（批评议员们），如果是阴性单数则词尾变为-ę。掌握宾格的变格规则对于阅读波兰政经新闻至关重要。
 
 ---
+
+### 🗞️ 中文摘要
+近期，多名波兰法律与公正党（PiS）议员前往匈牙利，公开表达对欧尔班政府的支持，此举在波兰政坛引发轩然大波。波兰欧盟事务部长什瓦普卡（Adam Szłapka）对此严厉抨击，称这种行为不仅背离波兰的外交方针，更令国内政界感到震惊。他表示，用议会惯用的政治语言已无法形容这种“背叛”行为的荒谬。反对者认为，在欧盟内部博弈的关键时期，波兰议员这种立场鲜明的“私人行程”极其不妥。目前，这一事件正持续发酵，波兰朝野双方在外交路线上的对立愈发严重。
+
+**关键信息：**
+- 波兰PiS党议员团近日访问匈牙利，公开声援欧尔班。
+- 此次访问被视为对当前波兰政府外交政策的公开挑战。
+- 什瓦普卡部长公开批评此举超出了政治辩论的范畴。
+- 事件反映了波兰国内在欧盟核心议题上的严重分歧。
+- 此类外交行为引发了关于议员身份边界的争议。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/polska/wybory-parlamentarne-na-wegrzech-poslowie-pis-wspieraja-viktora-orbana-adam-szlapka-nie-ma-na-to-parlamentarnych-slow-st8992631?source=rss](https://tvn24.pl/polska/wybory-parlamentarne-na-wegrzech-poslowie-pis-wspieraja-viktora-orbana-adam-szlapka-nie-ma-na-to-parlamentarnych-slow-st8992631?source=rss)

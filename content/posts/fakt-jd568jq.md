@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰治安", "社会新闻", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰下西里西亚省的克沃兹科市（Bystrzyca Kłodzka）于4月10日发生了一起致命枪击事件。四名男子在冲突中，一名42岁男子开枪打死了26岁的受害者，受害者当场死亡。嫌疑人随后自首并辩称自己是“正当防卫”，但检察官根据监控录像和证人证词，认为其具有明确的杀人意图。目前检察院已对其提出谋杀指控，并要求法院判处其临时逮捕。警方目前正在调查枪支来源，据称嫌疑人可能具有军事背景。
-
-**关键信息：**
-- **案发地点：** 波兰下西里西亚省克沃兹科市。
-- **伤亡情况：** 1名26岁男子中弹当场身亡。
-- **嫌疑人辩护：** 嫌疑人否认谋杀，声称是正当防卫。
-- **检方认定：** 证据显示嫌疑人具有直接杀人意图。
-- **后续调查：** 检察院已申请将其临时逮捕，案件正在进一步审理中。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ W Bystrzycy Kłodzkiej doszło do strzelaniny. Jeden mężczyzna nie żyje. Pode
 注意“obronie koniecznej”中形容词词尾的变化。这是形容词在单数阴性方位格（Miejscownik）的表现。名词 *obrona* 以-a结尾，修饰它的形容词 *konieczna* 变为 *koniecznej*，这是B1阶段掌握形容词格变化的关键细节。
 
 ---
+
+### 🗞️ 中文摘要
+波兰下西里西亚省的克沃兹科市（Bystrzyca Kłodzka）于4月10日发生了一起致命枪击事件。四名男子在冲突中，一名42岁男子开枪打死了26岁的受害者，受害者当场死亡。嫌疑人随后自首并辩称自己是“正当防卫”，但检察官根据监控录像和证人证词，认为其具有明确的杀人意图。目前检察院已对其提出谋杀指控，并要求法院判处其临时逮捕。警方目前正在调查枪支来源，据称嫌疑人可能具有军事背景。
+
+**关键信息：**
+- **案发地点：** 波兰下西里西亚省克沃兹科市。
+- **伤亡情况：** 1名26岁男子中弹当场身亡。
+- **嫌疑人辩护：** 嫌疑人否认谋杀，声称是正当防卫。
+- **检方认定：** 证据显示嫌疑人具有直接杀人意图。
+- **后续调查：** 检察院已申请将其临时逮捕，案件正在进一步审理中。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/wroclaw/strzelanina-w-bystrzycy-klodzkiej-prokuratura-zada-aresztu-dla-podejrzanego/jd568jq](https://www.fakt.pl/wydarzenia/polska/wroclaw/strzelanina-w-bystrzycy-klodzkiej-prokuratura-zada-aresztu-dla-podejrzanego/jd568jq)

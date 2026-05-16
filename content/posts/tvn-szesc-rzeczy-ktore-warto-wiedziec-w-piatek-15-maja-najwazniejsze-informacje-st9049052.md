@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "波兰语学习", "每日简讯", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰近期发生多起备受关注的新闻事件。前司法部副部长罗曼诺夫斯基就针对其调查发表了回应。与此同时，某机构负责人因在办公室举办技术派对引发争议后被免职。此外，著名编剧、律师克里斯托弗·皮耶谢维奇（Krzysztof Piesiewicz）不幸去世，引发了文化界的广泛悼念。这些事件反映了波兰近期政治与社会领域的复杂性。相关调查与社会反思仍在持续进行中。
-
-**关键信息：**
-- 罗曼诺夫斯基否认相关指控并公开回应质疑
-- 涉事技术派对机构负责人已被正式解雇
-- 社会舆论对办公场所行为规范展开讨论
-- 电影界痛失泰斗克里斯托弗·皮耶谢维奇
-- 各界人士对其职业生涯与贡献表示怀念
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Romanowski skomentował sytuację w mediach. Dyrektor stracił pracę przez impr
 注意表达年龄时使用 "w wieku" 加上属格（Genitive）。例如 "w wieku osiemdziesięciu lat"（80岁）。在B1阶段，熟练掌握数字的属格变化是描述人物生平的关键。
 
 ---
+
+### 🗞️ 中文摘要
+波兰近期发生多起备受关注的新闻事件。前司法部副部长罗曼诺夫斯基就针对其调查发表了回应。与此同时，某机构负责人因在办公室举办技术派对引发争议后被免职。此外，著名编剧、律师克里斯托弗·皮耶谢维奇（Krzysztof Piesiewicz）不幸去世，引发了文化界的广泛悼念。这些事件反映了波兰近期政治与社会领域的复杂性。相关调查与社会反思仍在持续进行中。
+
+**关键信息：**
+- 罗曼诺夫斯基否认相关指控并公开回应质疑
+- 涉事技术派对机构负责人已被正式解雇
+- 社会舆论对办公场所行为规范展开讨论
+- 电影界痛失泰斗克里斯托弗·皮耶谢维奇
+- 各界人士对其职业生涯与贡献表示怀念
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-wiedziec-w-piatek-15-maja-najwazniejsze-informacje-st9049052?source=rss](https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-wiedziec-w-piatek-15-maja-najwazniejsze-informacje-st9049052?source=rss)

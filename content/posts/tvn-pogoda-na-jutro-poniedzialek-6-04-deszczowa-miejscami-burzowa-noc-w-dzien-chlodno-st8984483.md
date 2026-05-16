@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["波兰天气", "生活资讯", "欧洲新闻", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰气象部门预报显示，4月6日周一全国将迎来阴雨天气，局部地区夜间甚至会出现雷暴。白天气温普遍较低，提醒民众出行注意防雨保暖。
-
-**关键信息：**
-- 4月6日全国大范围降雨，部分地区伴有雷暴。
-- 白天气温偏低，体感凉爽，需适当添衣。
-- 建议民众出行携带雨具，并留意最新的气象预警。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Jutro będzie padać deszcz w całej Polsce. W nocy możliwe są burze. W dzień
 注意形容词的性数变化。本文中 chłodna (阴性) 用来修饰 pogoda (阴性名词)，如果是修饰 dnia (阳性) 则要变成 chłodny。在A2阶段，记得检查名词的性别再匹配形容词结尾哦！
 
 ---
+
+### 🗞️ 中文摘要
+波兰气象部门预报显示，4月6日周一全国将迎来阴雨天气，局部地区夜间甚至会出现雷暴。白天气温普遍较低，提醒民众出行注意防雨保暖。
+
+**关键信息：**
+- 4月6日全国大范围降雨，部分地区伴有雷暴。
+- 白天气温偏低，体感凉爽，需适当添衣。
+- 建议民众出行携带雨具，并留意最新的气象预警。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-6-04-deszczowa-miejscami-burzowa-noc-w-dzien-chlodno-st8984483?source=rss](https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-6-04-deszczowa-miejscami-burzowa-noc-w-dzien-chlodno-st8984483?source=rss)

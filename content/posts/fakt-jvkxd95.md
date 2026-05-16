@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "加密货币", "生活资讯", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰媒体近日调查发现，号称中东欧最大的加密货币交易所 Zondacrypto 的卡托维兹总部处于荒废状态。记者实地探访发现，办公楼内不仅没有员工，门口甚至只有一个简陋的信箱。该交易所目前正面临波兰检方的正式调查，涉及欺诈与洗钱嫌疑，多名用户反映无法提取资金。尽管其背后的所有者 Przemysław Kral 拥有多家公司，但其加密货币业务的透明度遭到广泛质疑。目前，该案件已成为波兰政界和司法部门关注的焦点。
-
-**关键信息：**
-- Zondacrypto 交易所正面临波兰检察院关于欺诈和洗钱的调查。
-- 记者实地探访发现其卡托维兹办公地点无人办公，仅有一个简陋信箱。
-- 许多用户反映在该平台出现资金无法取回的问题。
-- 公司所有者 Przemysław Kral 是一位经营法律事务所的律师。
-- 涉及该行业的监管法律草案曾被总统否决，目前市场监管仍存漏洞。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Zondacrypto to znana giełda kryptowalut. Dziennikarze sprawdzili jej biuro w Ka
 注意表达地点时介词的使用：我们在文中看到 "w biurze" (在办公室里，用 locative 格) 和 "przy ul. Ligockiej" (在 Ligocka 街旁，用 locative 格)。记住：表达“在街道上”通常用 przy + locative，而表达“在建筑里”用 w + locative。
 
 ---
+
+### 🗞️ 中文摘要
+波兰媒体近日调查发现，号称中东欧最大的加密货币交易所 Zondacrypto 的卡托维兹总部处于荒废状态。记者实地探访发现，办公楼内不仅没有员工，门口甚至只有一个简陋的信箱。该交易所目前正面临波兰检方的正式调查，涉及欺诈与洗钱嫌疑，多名用户反映无法提取资金。尽管其背后的所有者 Przemysław Kral 拥有多家公司，但其加密货币业务的透明度遭到广泛质疑。目前，该案件已成为波兰政界和司法部门关注的焦点。
+
+**关键信息：**
+- Zondacrypto 交易所正面临波兰检察院关于欺诈和洗钱的调查。
+- 记者实地探访发现其卡托维兹办公地点无人办公，仅有一个简陋信箱。
+- 许多用户反映在该平台出现资金无法取回的问题。
+- 公司所有者 Przemysław Kral 是一位经营法律事务所的律师。
+- 涉及该行业的监管法律草案曾被总统否决，目前市场监管仍存漏洞。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/slask/prokuratura-bada-dzialalnosc-zondacrypto-zamknieta-siedziba-gieldy-w-katowicach/jvkxd95](https://www.fakt.pl/wydarzenia/polska/slask/prokuratura-bada-dzialalnosc-zondacrypto-zamknieta-siedziba-gieldy-w-katowicach/jvkxd95)

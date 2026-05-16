@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["国际新闻", "中法关系", "法律动态", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近日，针对一名法国公民在中国被判处死刑的案件，中国驻法国大使馆正式发表声明予以回应。此案在国际社会引发了广泛关注，涉及领事保护及司法主权的讨论。中方在声明中强调，中国司法机关严格依法处理相关案件，并保障了当事人的合法权益。中国驻法使馆表示，中方一贯尊重并依法维护国际法原则。此事件再次凸显了跨国司法合作与外交沟通的重要性。
-
-**关键信息：**
-- 案件涉及一名法国公民在中国被判死刑
-- 中国驻法使馆针对此事件发表官方声明
-- 中方强调司法程序严格遵守中国法律
-- 声明指出已依法保障当事人的诉讼权利
-- 此事引发了关于领事保护与司法主权的讨论
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Obywatel Francji otrzymał wyrok śmierci w Chinach. Ambasada Chin wydała oficj
 注意 "wyrok śmierci" 中 "śmierci" 是 "śmierć" 的属格 (Genitive)，表示“什么的判决”。在法律新闻中，名词的属格形式非常常见，用于限定名词的范畴。学习时可以多留意这种“名词+名词(Genitive)”的固定结构。
 
 ---
+
+### 🗞️ 中文摘要
+近日，针对一名法国公民在中国被判处死刑的案件，中国驻法国大使馆正式发表声明予以回应。此案在国际社会引发了广泛关注，涉及领事保护及司法主权的讨论。中方在声明中强调，中国司法机关严格依法处理相关案件，并保障了当事人的合法权益。中国驻法使馆表示，中方一贯尊重并依法维护国际法原则。此事件再次凸显了跨国司法合作与外交沟通的重要性。
+
+**关键信息：**
+- 案件涉及一名法国公民在中国被判死刑
+- 中国驻法使馆针对此事件发表官方声明
+- 中方强调司法程序严格遵守中国法律
+- 声明指出已依法保障当事人的诉讼权利
+- 此事引发了关于领事保护与司法主权的讨论
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/chiny-kara-smierci-na-obywatelu-francji-za-handel-narkotykami-jest-oswiadczenie-chinskiej-ambasady-st8984582?source=rss](https://tvn24.pl/swiat/chiny-kara-smierci-na-obywatelu-francji-za-handel-narkotykami-jest-oswiadczenie-chinskiej-ambasady-st8984582?source=rss)

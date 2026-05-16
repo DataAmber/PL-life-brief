@@ -5,16 +5,6 @@ categories: ["Analysis"]
 tags: ["波兰生活", "二手车买卖", "波兰移民", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-在波兰购买二手车时，通过Otomoto、Allegro和OLX等平台寻找车源已成为主流方式。购车过程中必须签署正规合同，并注意检查车辆的技术状况，切勿因贪图低价而购买存在潜在问题的车辆。
-
-**关键信息：**
-- **主流平台：** Otomoto、Allegro及OLX涵盖了波兰大部分二手车信息。
-- **避坑建议：** 切勿独自看车，建议携带专业人士或前往车辆检查站（Stacja Kontroli Pojazdów）进行诊断。
-- **必要证件：** 完成交易后需获得买卖合同（Umowa kupna-sprzedaży）、车辆证件及保险证明等文件。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Chcę kupić używany samochód w Polsce. Szukam ogłoszeń na stronie Otomoto. 
 波兰语中的“买卖合同”常被称为“Umowa kupna-sprzedaży”。注意这里运用了名词的属格（Genitive case），kupna是kupno（买）的属格，sprzedaży是sprzedaż（卖）的属格。在波兰行政流程中，掌握“Umowa + 名词属格”结构对于理解各类合同名称非常有帮助。
 
 ---
+
+### 🗞️ 中文摘要
+在波兰购买二手车时，通过Otomoto、Allegro和OLX等平台寻找车源已成为主流方式。购车过程中必须签署正规合同，并注意检查车辆的技术状况，切勿因贪图低价而购买存在潜在问题的车辆。
+
+**关键信息：**
+- **主流平台：** Otomoto、Allegro及OLX涵盖了波兰大部分二手车信息。
+- **避坑建议：** 切勿独自看车，建议携带专业人士或前往车辆检查站（Stacja Kontroli Pojazdów）进行诊断。
+- **必要证件：** 完成交易后需获得买卖合同（Umowa kupna-sprzedaży）、车辆证件及保险证明等文件。
+
+---
+
 > 📰 原文来源：[https://www.expatinpoland.pl/buying-used-car-in-poland/](https://www.expatinpoland.pl/buying-used-car-in-poland/)

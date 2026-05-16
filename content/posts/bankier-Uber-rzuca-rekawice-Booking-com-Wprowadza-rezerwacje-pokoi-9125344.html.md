@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["Uber", "商业动态", "波兰财经", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-网约车巨头Uber近日宣布正式进军酒店预订市场，试图挑战Booking.com等旅游巨头的地位。该功能将与Expedia平台深度整合，初期率先在美国市场推出，未来有望逐步推广至全球。为了吸引用户，Uber承诺凡是通过其App预订酒店的客户，均可获得最高20%的打车或Uber Eats外卖折扣。公司高管表示，此举是Uber构建“超级应用”战略的关键一步，旨在将出行、餐饮和住宿体验一站式串联。目前，Uber全球月活用户已超过4600万，这一布局将进一步巩固其作为旅行综合服务平台的市场竞争力。
-
-**关键信息：**
-- Uber进军酒店预订市场，与Expedia达成合作。
-- 用户通过Uber订房可享最高20%的打车及餐饮折扣。
-- 战略目标是打造包含出行、餐饮、住宿的“超级应用”。
-- 该服务初期仅限美国，未来将分阶段扩大覆盖范围。
-- Uber正在引入OpenAI语音助手及“旅行模式”等多种创新功能。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Uber chce konkurować z Booking.com. Firma wprowadza nową funkcję rezerwacji h
 注意动词“wprowadzać”（引入/推出）及其宾格（Accusative）用法。在句子“Uber wprowadza nową funkcję”中，“nowa funkcja”变为“nową funkcję”，这是因为女性名词结尾“-a”在宾格中变为“-ę”。
 
 ---
+
+### 🗞️ 中文摘要
+网约车巨头Uber近日宣布正式进军酒店预订市场，试图挑战Booking.com等旅游巨头的地位。该功能将与Expedia平台深度整合，初期率先在美国市场推出，未来有望逐步推广至全球。为了吸引用户，Uber承诺凡是通过其App预订酒店的客户，均可获得最高20%的打车或Uber Eats外卖折扣。公司高管表示，此举是Uber构建“超级应用”战略的关键一步，旨在将出行、餐饮和住宿体验一站式串联。目前，Uber全球月活用户已超过4600万，这一布局将进一步巩固其作为旅行综合服务平台的市场竞争力。
+
+**关键信息：**
+- Uber进军酒店预订市场，与Expedia达成合作。
+- 用户通过Uber订房可享最高20%的打车及餐饮折扣。
+- 战略目标是打造包含出行、餐饮、住宿的“超级应用”。
+- 该服务初期仅限美国，未来将分阶段扩大覆盖范围。
+- Uber正在引入OpenAI语音助手及“旅行模式”等多种创新功能。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Uber-rzuca-rekawice-Booking-com-Wprowadza-rezerwacje-pokoi-9125344.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Uber-rzuca-rekawice-Booking-com-Wprowadza-rezerwacje-pokoi-9125344.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

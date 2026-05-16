@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "突发事件", "波兰语学习", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-5月10日凌晨，波兰克拉普科维采市Chrobrego街的一栋独立住宅发生严重火灾。六支消防队奋战超过三小时才成功控制火势。起初，该房屋被认为是一座无人居住的废弃建筑。然而，在后续的搜查过程中，消防员在室内发现了一具尸体。目前，警方已介入调查，正在确认死者身份并核实起火原因。
-
-**关键信息：**
-- 火灾发生于5月10日凌晨2点左右。
-- 消防员扑救时间持续超过三小时。
-- 涉事建筑为一栋被视为废弃物的住宅。
-- 在清理火场时意外发现一具遇难者遗体。
-- 警方在检察官监督下进行身份认定与事故调查。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Pożar wybuchł w nocy w Krapkowicach. Strażacy walczyli z ogniem przez trzy go
 注意“znaleziono ciało”（发现了尸体）这个表达。这是一种典型的波兰语非人称句（Forma bezosobowa），用“-no/-to”后缀结尾，表示动作已经完成且无需指明具体执行者（因为动作的主体往往是警察或消防员等公职人员，在新闻中常用此句式保持客观性）。
 
 ---
+
+### 🗞️ 中文摘要
+5月10日凌晨，波兰克拉普科维采市Chrobrego街的一栋独立住宅发生严重火灾。六支消防队奋战超过三小时才成功控制火势。起初，该房屋被认为是一座无人居住的废弃建筑。然而，在后续的搜查过程中，消防员在室内发现了一具尸体。目前，警方已介入调查，正在确认死者身份并核实起火原因。
+
+**关键信息：**
+- 火灾发生于5月10日凌晨2点左右。
+- 消防员扑救时间持续超过三小时。
+- 涉事建筑为一栋被视为废弃物的住宅。
+- 在清理火场时意外发现一具遇难者遗体。
+- 警方在检察官监督下进行身份认定与事故调查。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/nocny-pozar-w-krapkowicach-w-pogorzelisku-strazacy-znalezli-cialo/pdty9yy](https://www.fakt.pl/wydarzenia/polska/nocny-pozar-w-krapkowicach-w-pogorzelisku-strazacy-znalezli-cialo/pdty9yy)

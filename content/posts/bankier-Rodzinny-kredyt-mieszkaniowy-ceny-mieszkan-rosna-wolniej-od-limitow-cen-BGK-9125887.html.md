@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["波兰经济", "房地产", "波兰购房", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰政府为缓解住房压力，近期上调了“无首付购房计划”（Rodzinny Kredyt Mieszkaniowy）的价格上限。尽管政策覆盖范围有所扩大，但由于波兰大城市房价上涨速度过快，政策效果受到限制。数据显示，尤其是在克拉科夫等大城市，市场实际成交价远高于政府设定的价格上限。特别是二手房市场，由于其设定的补贴门槛更低，购房者很难在该计划内找到符合条件的房源。对于寻求小型公寓的买家而言，即使获得政府担保，实际购房难度依然很大。
-
-**关键信息：**
-- **政策现状：** 政府虽上调了“无首付购房计划”的价格上限，但仍滞后于市场增长。
-- **主要痛点：** 大城市房价增长远超政府设定的每平方米价格限制。
-- **市场差异：** 二手房市场面临比新房市场更严格且更难触及的价格上限要求。
-- **重灾区：** 克拉科夫的房价与政府限制额差距最大，部分户型溢价率高达26%。
-- **购房建议：** 购房者在寻找符合资质的房源时，在繁华地段和热门户型上选择空间受限。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Ceny mieszkań w Polsce stale rosną. Rząd podniósł limity w programie „Mie
 注意形容词的变格（Deklinacja）。例如“mieszkanie”是中性词，当它作为被买卖对象时，在简单句中保持原形；但在表示所属关系时（如：ceny mieszkań），注意“mieszkania”是名词的复数属格（Genitivus），这是B1级别必须掌握的语法重点。
 
 ---
+
+### 🗞️ 中文摘要
+波兰政府为缓解住房压力，近期上调了“无首付购房计划”（Rodzinny Kredyt Mieszkaniowy）的价格上限。尽管政策覆盖范围有所扩大，但由于波兰大城市房价上涨速度过快，政策效果受到限制。数据显示，尤其是在克拉科夫等大城市，市场实际成交价远高于政府设定的价格上限。特别是二手房市场，由于其设定的补贴门槛更低，购房者很难在该计划内找到符合条件的房源。对于寻求小型公寓的买家而言，即使获得政府担保，实际购房难度依然很大。
+
+**关键信息：**
+- **政策现状：** 政府虽上调了“无首付购房计划”的价格上限，但仍滞后于市场增长。
+- **主要痛点：** 大城市房价增长远超政府设定的每平方米价格限制。
+- **市场差异：** 二手房市场面临比新房市场更严格且更难触及的价格上限要求。
+- **重灾区：** 克拉科夫的房价与政府限制额差距最大，部分户型溢价率高达26%。
+- **购房建议：** 购房者在寻找符合资质的房源时，在繁华地段和热门户型上选择空间受限。
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/Rodzinny-kredyt-mieszkaniowy-ceny-mieszkan-rosna-wolniej-od-limitow-cen-BGK-9125887.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rodzinny-kredyt-mieszkaniowy-ceny-mieszkan-rosna-wolniej-od-limitow-cen-BGK-9125887.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

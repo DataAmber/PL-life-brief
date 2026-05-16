@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "社会民生", "马祖里", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰马祖里地区的志愿者救援队目前正面临严重的财务危机。由于缺乏稳定的政府资金来源，该组织已难以维持正常的救援行动。为了筹集必要的运营费用，他们被迫无奈决定出售一艘救生艇。如果不尽快解决资金缺口，救援服务的连续性将受到极大威胁。当地居民和游客对这一情况表示深切担忧，呼吁有关部门尽快介入支持。
-
-**关键信息：**
-- 马祖里救援队缺乏长期稳定的资金保障
-- 组织因财务赤字被迫出售救生船只
-- 救援服务可能因缺钱而中断运营
-- 当地居民对救援安全感到焦虑
-- 呼吁政府提供紧急财务援助
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Ratownicy na Mazurach mają duże problemy finansowe. Brakuje im pieniędzy na p
 注意动词“brakować”的用法。它通常用于表达“缺乏”，语法上要求被缺乏的事物使用第二格（Genetivus）。例如：Brakuje im pieniędzy（他们缺乏钱），pieniędzy正是pieniądze的第二格复数形式。
 
 ---
+
+### 🗞️ 中文摘要
+波兰马祖里地区的志愿者救援队目前正面临严重的财务危机。由于缺乏稳定的政府资金来源，该组织已难以维持正常的救援行动。为了筹集必要的运营费用，他们被迫无奈决定出售一艘救生艇。如果不尽快解决资金缺口，救援服务的连续性将受到极大威胁。当地居民和游客对这一情况表示深切担忧，呼吁有关部门尽快介入支持。
+
+**关键信息：**
+- 马祖里救援队缺乏长期稳定的资金保障
+- 组织因财务赤字被迫出售救生船只
+- 救援服务可能因缺钱而中断运营
+- 当地居民对救援安全感到焦虑
+- 呼吁政府提供紧急财务援助
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/fakty-artykuly/mazurskie-ochotnicze-pogotowie-ratunkowe-sprzedaje-swoja-lodz-st9002285?source=rss](https://tvn24.pl/fakty-artykuly/mazurskie-ochotnicze-pogotowie-ratunkowe-sprzedaje-swoja-lodz-st9002285?source=rss)

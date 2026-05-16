@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰政治", "新闻反思", "公共言论", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，波兰反对派领导人因发表不当言论引发舆论争议。他曾公开指责匈牙利当选总理涉嫌虐待动物，声称对方曾将幼犬放入微波炉中杀害。随着事实核查的深入，反对派被迫承认该指控缺乏证据且纯属误导信息。这一事件引起了社会对政治言论真实性的高度关注，也损害了该政党的公信力。目前，相关负责人已就此次虚假指控向公众道歉并试图平息争议。
-
-**关键信息：**
-- 波兰反对派领导人发表争议言论
-- 指控对象为匈牙利当选总理
-- 指控内容涉及残忍虐待动物行为
-- 后续证实该指控缺乏事实依据
-- 反对派已公开承认错误并致歉
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Lider opozycji przyznał, że popełnił błąd. Oskarżył premiera Węgier o o
 注意“okazać się”（结果是/被证实为）的用法，后接形容词或名词时通常使用工具格（Narzędnik）。例如本句中“nieprawdziwa”即为形容词的工具格形式，在B1级别考试中考察频率极高。
 
 ---
+
+### 🗞️ 中文摘要
+近期，波兰反对派领导人因发表不当言论引发舆论争议。他曾公开指责匈牙利当选总理涉嫌虐待动物，声称对方曾将幼犬放入微波炉中杀害。随着事实核查的深入，反对派被迫承认该指控缺乏证据且纯属误导信息。这一事件引起了社会对政治言论真实性的高度关注，也损害了该政党的公信力。目前，相关负责人已就此次虚假指控向公众道歉并试图平息争议。
+
+**关键信息：**
+- 波兰反对派领导人发表争议言论
+- 指控对象为匈牙利当选总理
+- 指控内容涉及残忍虐待动物行为
+- 后续证实该指控缺乏事实依据
+- 反对派已公开承认错误并致歉
+
+---
+
 > 📰 原文来源：[https://notesfrompoland.com/2026/04/14/polish-opposition-admits-leader-wrong-to-suggest-hungarian-pm-elect-killed-puppy-in-microwave/](https://notesfrompoland.com/2026/04/14/polish-opposition-admits-leader-wrong-to-suggest-hungarian-pm-elect-killed-puppy-in-microwave/)

@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["华沙新闻", "交通突发", "波兰生活", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-4月6日晚，华沙Jagiellońska街附近遭遇强雷雨天气，一道闪电击中路旁大树，导致树枝断裂并砸向电车供电网。事故直接切断了电力供应，造成该区域电车交通严重瘫痪。华沙交通部门迅速响应，派出救援及维修队伍清理现场并修复设施。期间，18路和20路电车被迫停运，官方紧急启动了“电车替代巴士”进行接驳服务。庆幸的是，此次突发气象灾害并未造成任何人员伤亡。
-
-**关键信息：**
-- **事件地点：** 华沙Jagiellońska街附近
-- **事故原因：** 闪电击中树木导致断枝砸中供电网
-- **交通影响：** 电车线路供电中断，交通暂时瘫痪
-- **应急措施：** 启用“电车替代巴士”（Za Tramwaj）保障出行
-- **人员伤亡：** 无人受伤
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ W niedzielę w Warszawie przeszła silna burza. Piorun uderzył w drzewo przy ul
 注意动词的过去时形式：*uderzył* (他击中，阳性) 和 *zniszczyły* (它们损毁，非阳性复数)。在波兰语中，描述自然现象（如 burza - 暴风雨）或物体损坏时，动词词尾需根据主语的性（Rodzaj）和数（Liczba）进行变化。
 
 ---
+
+### 🗞️ 中文摘要
+4月6日晚，华沙Jagiellońska街附近遭遇强雷雨天气，一道闪电击中路旁大树，导致树枝断裂并砸向电车供电网。事故直接切断了电力供应，造成该区域电车交通严重瘫痪。华沙交通部门迅速响应，派出救援及维修队伍清理现场并修复设施。期间，18路和20路电车被迫停运，官方紧急启动了“电车替代巴士”进行接驳服务。庆幸的是，此次突发气象灾害并未造成任何人员伤亡。
+
+**关键信息：**
+- **事件地点：** 华沙Jagiellońska街附近
+- **事故原因：** 闪电击中树木导致断枝砸中供电网
+- **交通影响：** 电车线路供电中断，交通暂时瘫痪
+- **应急措施：** 启用“电车替代巴士”（Za Tramwaj）保障出行
+- **人员伤亡：** 无人受伤
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/warszawa/piorun-zerwal-trakcje-na-jagiellonskiej-paraliz-ruchu-w-warszawie/eej91pv](https://www.fakt.pl/wydarzenia/polska/warszawa/piorun-zerwal-trakcje-na-jagiellonskiej-paraliz-ruchu-w-warszawie/eej91pv)

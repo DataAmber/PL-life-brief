@@ -5,18 +5,6 @@ categories: ["Health"]
 tags: ["波兰生活", "产品召回", "育儿安全", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，波兰Toruń卫生部门发布紧急召回公告，涉及Bella Happy Aqua Care品牌两款特定批次的婴儿湿巾。经实验室检测发现，产品中好氧嗜温菌、霉菌及酵母菌数量严重超标，甚至检出了白色念珠菌。这类微生物污染可能对皮肤敏感或受损的婴幼儿健康构成潜在威胁。目前，生产商已启动自愿召回程序，停止销售相关批次产品。请家中存有该品牌产品的家长务必检查批号，切勿继续使用。
-
-**关键信息：**
-- **召回产品**：Bella Happy Aqua Care 婴儿湿巾
-- **涉事批次**：0428 M394441 及 0428 M394442
-- **主要风险**：微生物超标（含细菌、霉菌和念珠菌）
-- **健康隐患**：对皮肤敏感或受损群体具有潜在感染风险
-- **紧急建议**：核对家中批号，若匹配请立即停止使用
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Firma TZMO wycofuje chusteczki dla dzieci Bella Happy Aqua Care. W produktach wy
 注意动词“wycofać”（召回）的用法，它常接前置词“z”+ 名词（obrót - 市场流通）。在波兰的新闻公告中，你经常会看到“wycofany z rynku”或“wycofany z obrotu”这样的固定搭配，掌握这个短语有助于快速识别超市里的召回告示。
 
 ---
+
+### 🗞️ 中文摘要
+近期，波兰Toruń卫生部门发布紧急召回公告，涉及Bella Happy Aqua Care品牌两款特定批次的婴儿湿巾。经实验室检测发现，产品中好氧嗜温菌、霉菌及酵母菌数量严重超标，甚至检出了白色念珠菌。这类微生物污染可能对皮肤敏感或受损的婴幼儿健康构成潜在威胁。目前，生产商已启动自愿召回程序，停止销售相关批次产品。请家中存有该品牌产品的家长务必检查批号，切勿继续使用。
+
+**关键信息：**
+- **召回产品**：Bella Happy Aqua Care 婴儿湿巾
+- **涉事批次**：0428 M394441 及 0428 M394442
+- **主要风险**：微生物超标（含细菌、霉菌和念珠菌）
+- **健康隐患**：对皮肤敏感或受损群体具有潜在感染风险
+- **紧急建议**：核对家中批号，若匹配请立即停止使用
+
+---
+
 > 📰 原文来源：[https://www.gov.pl/web/gis/ostrzezenie-publiczne-dotyczace-kosmetykow-przekroczenie-dopuszczalnych-limitow-liczby-mezofilnych-bakterii-tlenowych-oraz-plesni-i-drozdzy-w-produkcie-chusteczki-dla-dzieci-bella-happy-aqua-care](https://www.gov.pl/web/gis/ostrzezenie-publiczne-dotyczace-kosmetykow-przekroczenie-dopuszczalnych-limitow-liczby-mezofilnych-bakterii-tlenowych-oraz-plesni-i-drozdzy-w-produkcie-chusteczki-dla-dzieci-bella-happy-aqua-care)

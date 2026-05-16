@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["中东局势", "国防安全", "国际新闻", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-阿联酋国防部近日宣布，成功拦截了数枚针对该国领土的袭击武器。此次防御行动共拦截了12枚弹道导弹、3枚巡航导弹以及4架攻击型无人机。这是自近期停火协议生效以来，阿联酋境内首次拉响防空警报并遭受大规模空中袭击。目前阿联酋当局正加强警戒，并对袭击来源进行深入调查。此次事件再次引发了国际社会对海湾地区安全局势的担忧。
-
-**关键信息：**
-- 阿联酋成功拦截多波次空中袭击
-- 袭击武器包含导弹与自杀式无人机
-- 此次袭击打破了此前的停火状态
-- 阿联酋国防部已证实防空系统运作正常
-- 目前暂无关于人员伤亡的官方报告
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Ministerstwo Obrony Zjednoczonych Emiratów Arabskich przekazało ważne informa
 注意数词“dwanaście”（12）和“cztery”（4）的用法。波兰语中，数字 2, 3, 4 后面接的名词通常使用主格复数（Mianownik liczby mnogiej），而从 5 开始到 21 之前（不含 21），名词通常使用属格复数（Dopełniacz liczby mnogiej）。
 
 ---
+
+### 🗞️ 中文摘要
+阿联酋国防部近日宣布，成功拦截了数枚针对该国领土的袭击武器。此次防御行动共拦截了12枚弹道导弹、3枚巡航导弹以及4架攻击型无人机。这是自近期停火协议生效以来，阿联酋境内首次拉响防空警报并遭受大规模空中袭击。目前阿联酋当局正加强警戒，并对袭击来源进行深入调查。此次事件再次引发了国际社会对海湾地区安全局势的担忧。
+
+**关键信息：**
+- 阿联酋成功拦截多波次空中袭击
+- 袭击武器包含导弹与自杀式无人机
+- 此次袭击打破了此前的停火状态
+- 阿联酋国防部已证实防空系统运作正常
+- 目前暂无关于人员伤亡的官方报告
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/zjednoczone-emiraty-arabskie-wladze-przechwycilismy-trzy-rakiety-lecace-z-iranu-st9030740?source=rss](https://tvn24.pl/swiat/zjednoczone-emiraty-arabskie-wladze-przechwycilismy-trzy-rakiety-lecace-z-iranu-st9030740?source=rss)

@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["俄乌冲突", "国际新闻", "复活节", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-乌克兰与俄罗斯近期宣布在东正教复活节期间实施临时停火。这一决定旨在为前线及受影响地区的平民提供必要的喘息机会。双方承诺在节日期间停止敌对行动，以体现对宗教节日的尊重。尽管此次停火仅维持数日，但国际社会对此表示谨慎的欢迎。各国呼吁双方借此机会开展对话，寻求缓解长期冲突的可能性。
-
-**关键信息：**
-- 俄乌双方达成复活节停火共识
-- 停火旨在保障平民安全并提供人道主义通道
-- 双方同意在节日期间暂停军事冲突
-- 国际社会对停火协议持谨慎乐观态度
-- 此次停火被视为冲突降温的潜在信号
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Rosja i Ukraina ogłosiły zawieszenie broni na czas Wielkanocy. To bardzo ważn
 注意 "na czas" 的用法，它后接名词时通常使用宾格（Accusative）。例如 "na czas Wielkanocy"（在复活节期间）。这里的 Wielkanoc 变成了属格（Genitive）形式 Wielkanocy，表示“复活节的这段时间”。
 
 ---
+
+### 🗞️ 中文摘要
+乌克兰与俄罗斯近期宣布在东正教复活节期间实施临时停火。这一决定旨在为前线及受影响地区的平民提供必要的喘息机会。双方承诺在节日期间停止敌对行动，以体现对宗教节日的尊重。尽管此次停火仅维持数日，但国际社会对此表示谨慎的欢迎。各国呼吁双方借此机会开展对话，寻求缓解长期冲突的可能性。
+
+**关键信息：**
+- 俄乌双方达成复活节停火共识
+- 停火旨在保障平民安全并提供人道主义通道
+- 双方同意在节日期间暂停军事冲突
+- 国际社会对停火协议持谨慎乐观态度
+- 此次停火被视为冲突降温的潜在信号
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/ukraina-i-rosja-oglosily-zawieszenie-broni-w-czasie-prawoslawnej-wielkanocy-st8990857?source=rss](https://tvn24.pl/swiat/ukraina-i-rosja-oglosily-zawieszenie-broni-w-czasie-prawoslawnej-wielkanocy-st8990857?source=rss)

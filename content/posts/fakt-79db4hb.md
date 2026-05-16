@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["国际新闻", "波兰生活", "突发事件", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-黎巴嫩当地时间4月18日，联合国驻黎巴嫩临时部队（UNIFIL）遭遇迫击炮袭击。波兰驻黎巴嫩维和部队的护卫队当时正在执行任务，炮弹在其附近爆炸。尽管波兰士兵未受损伤，但有三辆装甲车辆受到轻微损坏。不幸的是，袭击导致一名法军士兵Florian Montorio殉职，另有三名法国士兵受伤。目前，波兰军方已暂停相关护卫任务，并加强了安全防范措施。
-
-**关键信息：**
-- 袭击目标为联合国维和部队（UNIFIL）。
-- 波兰维和官兵在袭击中无人伤亡。
-- 三辆波兰军用车辆在爆炸中受损。
-- 法国士兵Florian Montorio不幸殉职。
-- 波兰军方已暂时中止所有护卫队行动。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Siły pokojowe ONZ zostały zaatakowane w Libanie. Pocisk moździerzowy spadł b
 本篇提到名词的“位置格”（Miejscownik）。例如“w Libanie”（在黎巴嫩）和“w ataku”（在袭击中）。在波兰语中，当表示地点或事件发生处时，名词词尾通常变为 -e 或 -ie。记住这个简单的后缀，可以帮你更准确地描述场景！
 
 ---
+
+### 🗞️ 中文摘要
+黎巴嫩当地时间4月18日，联合国驻黎巴嫩临时部队（UNIFIL）遭遇迫击炮袭击。波兰驻黎巴嫩维和部队的护卫队当时正在执行任务，炮弹在其附近爆炸。尽管波兰士兵未受损伤，但有三辆装甲车辆受到轻微损坏。不幸的是，袭击导致一名法军士兵Florian Montorio殉职，另有三名法国士兵受伤。目前，波兰军方已暂停相关护卫任务，并加强了安全防范措施。
+
+**关键信息：**
+- 袭击目标为联合国维和部队（UNIFIL）。
+- 波兰维和官兵在袭击中无人伤亡。
+- 三辆波兰军用车辆在爆炸中受损。
+- 法国士兵Florian Montorio不幸殉职。
+- 波兰军方已暂时中止所有护卫队行动。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/polscy-zolnierze-ostrzelani-w-libanie-armia-zabrala-glos/79db4hb](https://www.fakt.pl/wydarzenia/polska/polscy-zolnierze-ostrzelani-w-libanie-armia-zabrala-glos/79db4hb)

@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰经济", "国债投资", "金融市场", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近期，波兰国债的销售热度持续攀升，呈现出强劲的增长态势。随着国民储蓄意识的增强，越来越多的个人投资者倾向于选择风险较低的国债产品。经济专家分析指出，高通胀背景下国债提供的稳定收益对其产生了极大吸引力。如果当前的购买热潮持续下去，今年很有可能创下波兰国债销售额的年度新高。财政部正在密切关注市场动向，以确保国债发行工作的平稳运行。
-
-**关键信息：**
-- 波兰国债近期销量持续攀升
-- 个人投资者对国债需求显著增长
-- 稳健收益是吸引投资者的主要原因
-- 专家预测今年销售额或将破纪录
-- 财政部正积极应对强劲的市场需求
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Polacy coraz chętniej kupują obligacje skarbowe. To bardzo bezpieczna forma in
 注意形容词的变格。本篇提到“bezpieczna forma” (名词单数阳性名词词尾为-a，形容词也以-a结尾)。当形容词修饰阴性名词时，词尾通常为-a；如果名词变为复数，形容词词尾则变为-e (如：bezpieczne formy)。在描述经济现象时，灵活掌握单复数一致性非常重要。
 
 ---
+
+### 🗞️ 中文摘要
+近期，波兰国债的销售热度持续攀升，呈现出强劲的增长态势。随着国民储蓄意识的增强，越来越多的个人投资者倾向于选择风险较低的国债产品。经济专家分析指出，高通胀背景下国债提供的稳定收益对其产生了极大吸引力。如果当前的购买热潮持续下去，今年很有可能创下波兰国债销售额的年度新高。财政部正在密切关注市场动向，以确保国债发行工作的平稳运行。
+
+**关键信息：**
+- 波兰国债近期销量持续攀升
+- 个人投资者对国债需求显著增长
+- 稳健收益是吸引投资者的主要原因
+- 专家预测今年销售额或将破纪录
+- 财政部正积极应对强劲的市场需求
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/biznes/z-kraju/obligacje-skarbowe-2026-rosnie-sprzedaz-papierow-dluznych-eksperci-prognozuja-nowy-rekord-st9004127?source=rss](https://tvn24.pl/biznes/z-kraju/obligacje-skarbowe-2026-rosnie-sprzedaz-papierow-dluznych-eksperci-prognozuja-nowy-rekord-st9004127?source=rss)

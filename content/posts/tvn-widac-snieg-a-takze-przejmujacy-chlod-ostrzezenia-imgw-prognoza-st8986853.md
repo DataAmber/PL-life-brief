@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["波兰天气", "降雪预警", "生活资讯", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰气象与水务研究所（IMGW）近日向国内多个地区发布了黄色降雪预警。受冷空气影响，预计未来短时间内相关地区将迎来明显降雪。降雪可能导致道路积雪及结冰，对早晚通勤交通造成一定程度的影响。气象专家建议民众密切关注天气变化，出行时注意交通安全。此外，市政部门已进入防冻备战状态，以确保道路运输通畅。
-
-**关键信息：**
-- 波兰气象与水务研究所发布黄色降雪预警
-- 预计未来多地将出现强降雪天气
-- 降雪可能导致路面湿滑和交通延误
-- 建议民众提前规划行程并注意保暖
-- 市政部门已启动除雪准备工作
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Instytut Meteorologii wydał ostrzeżenia pogodowe. W wielu regionach Polski spa
 注意“Kierowcy muszą zachować ostrożność”这句话中，“zachować”作为不定式动词跟在情态动词“muszą”（必须）后面。在B1级别，记住这类情态动词（musieć, chcieć, móc）后直接加动词原形，是构建句子的基本功。
 
 ---
+
+### 🗞️ 中文摘要
+波兰气象与水务研究所（IMGW）近日向国内多个地区发布了黄色降雪预警。受冷空气影响，预计未来短时间内相关地区将迎来明显降雪。降雪可能导致道路积雪及结冰，对早晚通勤交通造成一定程度的影响。气象专家建议民众密切关注天气变化，出行时注意交通安全。此外，市政部门已进入防冻备战状态，以确保道路运输通畅。
+
+**关键信息：**
+- 波兰气象与水务研究所发布黄色降雪预警
+- 预计未来多地将出现强降雪天气
+- 降雪可能导致路面湿滑和交通延误
+- 建议民众提前规划行程并注意保暖
+- 市政部门已启动除雪准备工作
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/tvnmeteo/prognoza/widac-snieg-a-takze-przejmujacy-chlod-ostrzezenia-imgw-prognoza-st8986853?source=rss](https://tvn24.pl/tvnmeteo/prognoza/widac-snieg-a-takze-przejmujacy-chlod-ostrzezenia-imgw-prognoza-st8986853?source=rss)

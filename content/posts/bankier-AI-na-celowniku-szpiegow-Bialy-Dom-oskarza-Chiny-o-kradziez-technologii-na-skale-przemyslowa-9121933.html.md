@@ -5,18 +5,6 @@ categories: ["Economy"]
 tags: ["人工智能", "美中关系", "科技战", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-美国白宫近日正式指控中国以“工业规模”窃取美国的人工智能技术。根据《金融时报》披露的文件，美方特别指出了“模型蒸馏”技术被滥用的问题，即中方通过学习美国大型AI模型来低成本构建自身产品。美方认为，包括DeepSeek在内的中国公司利用此手段非法获取了美企的核心研发成果。美国政府已表示将采取必要措施，追究相关实体的法律责任，以保护美企的知识产权和国家安全。目前，OpenAI和Anthropic等多家AI巨头已对中国企业的侵权行为表示强烈不满。
-
-**关键信息：**
-- 白宫指控中国“工业规模”盗窃美方AI技术
-- “模型蒸馏”成为中方非法获取技术的核心手段
-- 深言科技（DeepSeek）等公司被点名指控
-- 美国政府将采取措施追究相关主体的法律责任
-- 美企担忧蒸馏模型可能带来的生物安全与网络安全风险
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Biały Dom oskarżył Chiny o kradzież technologii AI. Firmy z Chin używają m
 注意句中的动词支配关系。在“oskarżyć kogoś o coś”（指控某人某事）结构中，介词“o”要求接名词的宾格（Biernik）。例如：Oskarżyli go o kradzież (kogo? co? -> kradzież是阴性名词，形式不变)。这在新闻阅读中是识别指控对象的关键技巧。
 
 ---
+
+### 🗞️ 中文摘要
+美国白宫近日正式指控中国以“工业规模”窃取美国的人工智能技术。根据《金融时报》披露的文件，美方特别指出了“模型蒸馏”技术被滥用的问题，即中方通过学习美国大型AI模型来低成本构建自身产品。美方认为，包括DeepSeek在内的中国公司利用此手段非法获取了美企的核心研发成果。美国政府已表示将采取必要措施，追究相关实体的法律责任，以保护美企的知识产权和国家安全。目前，OpenAI和Anthropic等多家AI巨头已对中国企业的侵权行为表示强烈不满。
+
+**关键信息：**
+- 白宫指控中国“工业规模”盗窃美方AI技术
+- “模型蒸馏”成为中方非法获取技术的核心手段
+- 深言科技（DeepSeek）等公司被点名指控
+- 美国政府将采取措施追究相关主体的法律责任
+- 美企担忧蒸馏模型可能带来的生物安全与网络安全风险
+
+---
+
 > 📰 原文来源：[https://www.bankier.pl/wiadomosc/AI-na-celowniku-szpiegow-Bialy-Dom-oskarza-Chiny-o-kradziez-technologii-na-skale-przemyslowa-9121933.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/AI-na-celowniku-szpiegow-Bialy-Dom-oskarza-Chiny-o-kradziez-technologii-na-skale-przemyslowa-9121933.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

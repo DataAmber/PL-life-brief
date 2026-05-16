@@ -5,16 +5,6 @@ categories: ["Economy"]
 tags: ["波兰国防", "国际贸易", "军事工业", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-波兰已选定瑞典萨博（Saab）公司制造的A26型潜艇，作为其“Orka”海军现代化项目的核心装备。瑞典卡尔斯克鲁纳的造船厂目前正在加紧筹备，双方计划在2030年前交付首艘潜艇，并深化两国工业领域的合作。
-
-**关键信息：**
-- **战略采购：** 波兰选定瑞典A26型潜艇，击败了法、德、韩等国的竞争对手。
-- **交付目标：** 首艘潜艇预计于2030年交付，项目总计涉及5艘潜艇的建造计划。
-- **工业合作：** 波兰国防集团（PGZ）将参与潜艇后续的维护与保障工作。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Szwecja zbuduje nowoczesne okręty podwodne dla Polski. Pierwszy okręt będzie 
 注意动词“zbudować”（建造）在这里是完成体。在波兰语中，当你强调“任务完成”或“最终结果”时，倾向于使用完成体动词；而描述正在进行的过程（如：stocznia buduje - 船厂正在建造）时，使用未完成体动词。
 
 ---
+
+### 🗞️ 中文摘要
+波兰已选定瑞典萨博（Saab）公司制造的A26型潜艇，作为其“Orka”海军现代化项目的核心装备。瑞典卡尔斯克鲁纳的造船厂目前正在加紧筹备，双方计划在2030年前交付首艘潜艇，并深化两国工业领域的合作。
+
+**关键信息：**
+- **战略采购：** 波兰选定瑞典A26型潜艇，击败了法、德、韩等国的竞争对手。
+- **交付目标：** 首艘潜艇预计于2030年交付，项目总计涉及5艘潜艇的建造计划。
+- **工业合作：** 波兰国防集团（PGZ）将参与潜艇后续的维护与保障工作。
+
+---
+
 > 📰 原文来源：[https://www.money.pl/gospodarka/okrety-podwodne-dla-polski-szwedzka-stocznia-szykuje-sie-do-pracy-7271925924423872a.html](https://www.money.pl/gospodarka/okrety-podwodne-dla-polski-szwedzka-stocznia-szykuje-sie-do-pracy-7271925924423872a.html)

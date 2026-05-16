@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["国际军事", "美国空军", "中东局势", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近日，有关美军如何在伊朗境内成功营救一名F-15飞行员的细节被披露，展现了美军特种部队极高水平的应急反应能力。此次行动克服了复杂的地理与政治障碍，最终确保了飞行员的安全撤离。
-
-**关键信息：**
-- 披露了美军在伊朗营救任务的战术部署。
-- 强调了跨部门协同作战的重要性。
-- 飞行员在险境中成功获救并平安撤离。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Amerykańscy żołnierze przeprowadzili trudną operację w Iranie. Uratowali pi
 注意动词“uratować” (救) 和 “zakończyć” (结束) 的用法。在描述过去发生的事件时，我们使用过去时（Czas przeszły），例如“Uratowali” (他们救了) 和 “zakończyła się” (它结束了)，请注意动词结尾会根据主语的性（阳性/阴性）发生变化。
 
 ---
+
+### 🗞️ 中文摘要
+近日，有关美军如何在伊朗境内成功营救一名F-15飞行员的细节被披露，展现了美军特种部队极高水平的应急反应能力。此次行动克服了复杂的地理与政治障碍，最终确保了飞行员的安全撤离。
+
+**关键信息：**
+- 披露了美军在伊朗营救任务的战术部署。
+- 强调了跨部门协同作战的重要性。
+- 飞行员在险境中成功获救并平安撤离。
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/swiat/tak-ratowali-amerykanskiego-pilota-f-15-w-iranie-nowe-informacje-st8984448?source=rss](https://tvn24.pl/swiat/tak-ratowali-amerykanskiego-pilota-f-15-w-iranie-nowe-informacje-st8984448?source=rss)

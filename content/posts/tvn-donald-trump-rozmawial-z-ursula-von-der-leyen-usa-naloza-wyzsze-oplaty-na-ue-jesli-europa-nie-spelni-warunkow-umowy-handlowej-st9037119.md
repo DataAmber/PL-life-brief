@@ -5,18 +5,6 @@ categories: ["News"]
 tags: ["国际政治", "欧盟新闻", "贸易政策", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-美国候任总统特朗普在与欧盟委员会主席冯德莱恩通话后，改变了针对欧洲的关税立场。双方就贸易平衡和加强跨大西洋合作进行了深入讨论，此次沟通直接推动了政策的调整。特朗普明确表示，目前将搁置此前威胁的对欧加征关税计划，以寻求通过谈判解决贸易分歧。分析认为，此举旨在避免新政府上台初期与欧洲盟友发生剧烈贸易冲突。双方同意在未来几周内继续保持对话，以建立更加稳固的经济贸易关系。
-
-**关键信息：**
-- 特朗普与冯德莱恩通过电话探讨贸易问题
-- 特朗普决定推迟对欧洲商品加征关税
-- 双方致力于寻求贸易平衡与经济合作
-- 此举旨在缓解跨大西洋贸易紧张局势
-- 后续将进行更深入的贸易谈判以解决分歧
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Donald Trump rozmawiał z Ursulą von der Leyen. Tematem rozmowy były relacje h
 本篇文本中出现了名词性词组的格变化，例如“o przesunięciu”使用了方位格 (Miejscownik)，通常在介词 o 后面表示谈论的内容或改变的状态。注意 -iu 的词尾变化是中性名词在方位格的标准形式。
 
 ---
+
+### 🗞️ 中文摘要
+美国候任总统特朗普在与欧盟委员会主席冯德莱恩通话后，改变了针对欧洲的关税立场。双方就贸易平衡和加强跨大西洋合作进行了深入讨论，此次沟通直接推动了政策的调整。特朗普明确表示，目前将搁置此前威胁的对欧加征关税计划，以寻求通过谈判解决贸易分歧。分析认为，此举旨在避免新政府上台初期与欧洲盟友发生剧烈贸易冲突。双方同意在未来几周内继续保持对话，以建立更加稳固的经济贸易关系。
+
+**关键信息：**
+- 特朗普与冯德莱恩通过电话探讨贸易问题
+- 特朗普决定推迟对欧洲商品加征关税
+- 双方致力于寻求贸易平衡与经济合作
+- 此举旨在缓解跨大西洋贸易紧张局势
+- 后续将进行更深入的贸易谈判以解决分歧
+
+---
+
 > 📰 原文来源：[https://tvn24.pl/biznes/ze-swiata/donald-trump-rozmawial-z-ursula-von-der-leyen-usa-naloza-wyzsze-oplaty-na-ue-jesli-europa-nie-spelni-warunkow-umowy-handlowej-st9037119?source=rss](https://tvn24.pl/biznes/ze-swiata/donald-trump-rozmawial-z-ursula-von-der-leyen-usa-naloza-wyzsze-oplaty-na-ue-jesli-europa-nie-spelni-warunkow-umowy-handlowej-st9037119?source=rss)

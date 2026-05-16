@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["华沙生活", "波兰治安", "育儿安全", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-近日在华沙普拉格区发生了一起虚惊一场的走失事件。一名9岁女童在前往游泳班时，因中心意外关闭而孤身站在路边哭泣。华沙城市卫队在巡逻中发现了这名无助的孩子，并耐心安抚其情绪。幸运的是，在警察的协作下，当局最终成功联系上了女孩的父母。卫队呼吁家长应为儿童佩戴带有联系方式的“防走失手环”，以备不时之需。
-
-**关键信息：**
-- 事件发生在华沙普拉格南区（Praga Południe）的一家游泳中心外。
-- 9岁女童因游泳课临时取消，且未记住父母电话而被迫滞留。
-- 华沙城市卫队通过检查女童书包内的玩偶进行情绪安抚。
-- 最终警方介入并迅速联系到了女童家长，确保了孩子安全。
-- 警方建议家长为孩子准备带有紧急联系信息的“防走失手环”。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Dziewięcioletnia dziewczynka została sama na ulicy w Warszawie. Szkoła pływa
 注意句中“nie znać”（不知道）后接的是属格（Genitive）。例如本段中“nie znać numeru”（不知道号码），numer (阳性名词) 变为 numeru。记住在波兰语否定句中，动词的宾语通常要变成属格形式。
 
 ---
+
+### 🗞️ 中文摘要
+近日在华沙普拉格区发生了一起虚惊一场的走失事件。一名9岁女童在前往游泳班时，因中心意外关闭而孤身站在路边哭泣。华沙城市卫队在巡逻中发现了这名无助的孩子，并耐心安抚其情绪。幸运的是，在警察的协作下，当局最终成功联系上了女孩的父母。卫队呼吁家长应为儿童佩戴带有联系方式的“防走失手环”，以备不时之需。
+
+**关键信息：**
+- 事件发生在华沙普拉格南区（Praga Południe）的一家游泳中心外。
+- 9岁女童因游泳课临时取消，且未记住父母电话而被迫滞留。
+- 华沙城市卫队通过检查女童书包内的玩偶进行情绪安抚。
+- 最终警方介入并迅速联系到了女童家长，确保了孩子安全。
+- 警方建议家长为孩子准备带有紧急联系信息的“防走失手环”。
+
+---
+
 > 📰 原文来源：[https://www.fakt.pl/wydarzenia/polska/warszawa/warszawa-zagubiona-i-zaplakana-dziewczynka-na-ulicy-szukala-znajomej-twarzy/q6j8byv](https://www.fakt.pl/wydarzenia/polska/warszawa/warszawa-zagubiona-i-zaplakana-dziewczynka-na-ulicy-szukala-znajomej-twarzy/q6j8byv)

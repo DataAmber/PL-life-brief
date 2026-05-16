@@ -5,18 +5,6 @@ categories: ["Lifestyle"]
 tags: ["波兰新闻", "慈善直播", "华沙生活", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-2026年4月，华沙网红Patryk Garkowski（网名Łatwogang）在TikTok上发起了一项“点赞换时长”的直播挑战，承诺每获一个赞就直播播放一秒歌曲。该挑战迅速爆红，他最终连续9天直播播放抗癌歌曲《Ciągle tutaj jestem》。这一举动不仅打破了吉尼斯世界纪录，还吸引了众多波兰名流参与。最终，这场直播为癌症基金会筹集了超过2.5亿兹罗提的善款。这不仅是互联网慈善的胜利，也展现了波兰社会在面对困难时的惊人凝聚力。
-
-**关键信息：**
-- 网红Łatwogang通过TikTok直播发起慈善挑战。
-- 直播循环播放Bedoes 2115与Maja Mecan合作的抗癌歌曲。
-- 活动筹集了2.5亿兹罗提善款，捐赠给癌症战士基金会。
-- 莱万多夫斯基夫妇等波兰名人纷纷参与助阵。
-- 该活动刷新了全球慈善直播筹款的吉尼斯世界纪录。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -39,4 +27,17 @@ Patryk Garkowski zorganizował długi stream na YouTube. Przez dziewięć dni zb
 注意“dziewięć dni”（9天）的用法。波兰语中，数字5及以上的基数词与名词搭配时，名词通常使用“属格复数”（Genitive Plural）。例如：dziewięć dni (9天)，pięć milionów (500万)。注意区分词尾的变化！
 
 ---
+
+### 🗞️ 中文摘要
+2026年4月，华沙网红Patryk Garkowski（网名Łatwogang）在TikTok上发起了一项“点赞换时长”的直播挑战，承诺每获一个赞就直播播放一秒歌曲。该挑战迅速爆红，他最终连续9天直播播放抗癌歌曲《Ciągle tutaj jestem》。这一举动不仅打破了吉尼斯世界纪录，还吸引了众多波兰名流参与。最终，这场直播为癌症基金会筹集了超过2.5亿兹罗提的善款。这不仅是互联网慈善的胜利，也展现了波兰社会在面对困难时的惊人凝聚力。
+
+**关键信息：**
+- 网红Łatwogang通过TikTok直播发起慈善挑战。
+- 直播循环播放Bedoes 2115与Maja Mecan合作的抗癌歌曲。
+- 活动筹集了2.5亿兹罗提善款，捐赠给癌症战士基金会。
+- 莱万多夫斯基夫妇等波兰名人纷纷参与助阵。
+- 该活动刷新了全球慈善直播筹款的吉尼斯世界纪录。
+
+---
+
 > 📰 原文来源：[https://warsawinsider.pl/how-latwogangs-nine-day-stream-changed-the-internet/](https://warsawinsider.pl/how-latwogangs-nine-day-stream-changed-the-internet/)

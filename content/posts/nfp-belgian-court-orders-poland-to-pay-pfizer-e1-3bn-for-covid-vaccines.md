@@ -5,16 +5,6 @@ categories: ["News"]
 tags: ["波兰新闻", "辉瑞疫苗", "国际法律", "Automated"]
 ---
 
-### 🗞️ 中文摘要
-比利时法院近日裁定，波兰因在疫情期间拒收辉瑞新冠疫苗，需向该公司支付约13亿欧元的赔偿金。波兰政府此前认为当时疫情好转且公共财政承压，故终止了部分订单，但法院驳回了波兰的抗辩理由。
-
-**关键信息：**
-- 比利时法院判决波兰败诉，需支付13亿欧元疫苗合同费用。
-- 波兰卫生部表示该裁决尚未生效，将寻求上诉以维护国家利益。
-- 辉瑞对此裁决表示欢迎，并要求波兰履行合同义务。
-
----
-
 ### 🇵🇱 波兰语学习 (3分钟速成)
 
 **🎧 听力文本 (Polish Text for Listening)：**
@@ -37,4 +27,15 @@ Sąd w Belgii nakazał Polsce zapłacić firmie Pfizer ponad miliard euro. Chodz
 注意动词 odwołać się (上诉) 的用法。在波兰语中，当我们想表达“对某决定进行上诉”时，常用“odwołać się od decyzji”。这里“od”后面接的是生格 (Genitive)，这是描述“从某个起点/源头离开”的典型用法。
 
 ---
+
+### 🗞️ 中文摘要
+比利时法院近日裁定，波兰因在疫情期间拒收辉瑞新冠疫苗，需向该公司支付约13亿欧元的赔偿金。波兰政府此前认为当时疫情好转且公共财政承压，故终止了部分订单，但法院驳回了波兰的抗辩理由。
+
+**关键信息：**
+- 比利时法院判决波兰败诉，需支付13亿欧元疫苗合同费用。
+- 波兰卫生部表示该裁决尚未生效，将寻求上诉以维护国家利益。
+- 辉瑞对此裁决表示欢迎，并要求波兰履行合同义务。
+
+---
+
 > 📰 原文来源：[https://notesfrompoland.com/2026/04/02/belgian-court-orders-poland-to-pay-pfizer-e1-3bn-for-covid-vaccines/](https://notesfrompoland.com/2026/04/02/belgian-court-orders-poland-to-pay-pfizer-e1-3bn-for-covid-vaccines/)
