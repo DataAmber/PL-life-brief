@@ -19,7 +19,7 @@ from fetchers import gis_fetcher, udsc_fetcher, rss_fetcher, mokotow_policja_fet
 #   fetch_content(url) -> str
 # ---------------------------------------------------------------
 SOURCES = [gis_fetcher, udsc_fetcher, rss_fetcher,mokotow_policja_fetcher, ursynow_fetcher ]
-
+SOURCES = [ursynow_fetcher ]
 POSTS_DIR = "content/posts/"
 AUDIO_DIR = "static/audio/"
 
