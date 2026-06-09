@@ -104,7 +104,20 @@ RSS_SOURCES = [
         "slug_prefix": "rpplt",
         "description": "WTP Warsaw – live service disruptions"
     },
-
+{
+    "url": "https://haloursynow.pl/feed",
+    "tag": "乌尔西诺夫",
+    "category": "Daily",
+    "slug_prefix": "hu",
+    "description": "Halo Ursynów – local Ursynów district news"
+},
+{
+    "url": "https://iursynow.pl/feed",
+    "tag": "乌尔西诺夫",
+    "category": "Daily",
+    "slug_prefix": "iu",
+    "description": "iUrsynów – Ursynów news, events, lifestyle"
+},
 
     # ── Removed (confirmed broken feeds) ─────────────────────────
     # https://tvpworld.com/feed         — malformed
