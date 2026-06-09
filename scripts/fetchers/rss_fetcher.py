@@ -58,6 +58,34 @@ RSS_SOURCES = [
         "slug_prefix": "money",
         "description": "Money.pl – personal finance, inflation, ZUS, taxes"
     },
+    {
+        "url": "https://www.pap.pl/rss.xml",
+        "tag": "官方通讯",
+        "category": "News",
+        "slug_prefix": "pap",
+        "description": "PAP – Polish Press Agency, official national newswire"
+    },
+    {
+        "url": "https://www.rmf24.pl/feed",
+        "tag": "即时新闻",
+        "category": "News",
+        "slug_prefix": "rmf",
+        "description": "RMF24 – breaking news, Poland's most-listened radio"
+    },
+    {
+        "url": "https://wyborcza.pl/pub/rss/najnowsze.xml",
+        "tag": "国家新闻",
+        "category": "News",
+        "slug_prefix": "wyborcza",
+        "description": "Gazeta Wyborcza – leading Polish daily, investigative journalism"
+    },
+    {
+        "url": "https://www.gazetaprawna.pl/rss/",
+        "tag": "法律财经",
+        "category": "Economy",
+        "slug_prefix": "gp",
+        "description": "Gazeta Prawna – law, tax, business daily"
+    },
 
     # ── Analysis & commentary ─────────────────────────────────────
     {
@@ -82,6 +110,15 @@ RSS_SOURCES = [
         "description": "Euractiv – EU affairs and policy analysis relevant to Poland"
     },
 
+    # ── Warsaw city ───────────────────────────────────────────────
+    {
+        "url": "https://warszawa.naszemiasto.pl/rss/",
+        "tag": "华沙生活",
+        "category": "Warsaw",
+        "slug_prefix": "nm",
+        "description": "NaszeMiasto Warszawa – neighbourhood-level Warsaw news"
+    },
+
     # ── Transport alerts ──────────────────────────────────────────
     {
         "url": "https://www.wtp.waw.pl/zmiany/feed/",
@@ -97,32 +134,51 @@ RSS_SOURCES = [
         "slug_prefix": "wtp-alert",
         "description": "WTP Warsaw – live service disruptions"
     },
-        {
+    {
         "url": "https://rp.pl/rss/671-prawo",
         "tag": "税务",
-        "category": "Warsaw",
+        "category": "Economy",
         "slug_prefix": "rpplt",
-        "description": "WTP Warsaw – live service disruptions"
+        "description": "Rzeczpospolita Prawo – law and tax changes"
     },
-{
-    "url": "https://haloursynow.pl/feed",
-    "tag": "乌尔西诺夫",
-    "category": "Daily",
-    "slug_prefix": "hu",
-    "description": "Halo Ursynów – local Ursynów district news"
-},
-{
-    "url": "https://iursynow.pl/feed",
-    "tag": "乌尔西诺夫",
-    "category": "Daily",
-    "slug_prefix": "iu",
-    "description": "iUrsynów – Ursynów news, events, lifestyle"
-},
+
+    # ── Health ────────────────────────────────────────────────────
+    {
+        "url": "https://zdrowie.wprost.pl/feed/",
+        "tag": "健康生活",
+        "category": "Lifestyle",
+        "slug_prefix": "wprost-zdrowie",
+        "description": "Zdrowie Wprost – health tips, NFZ, pharmacy, medicine"
+    },
+
+    # ── Official statistics ───────────────────────────────────────
+    {
+        "url": "https://stat.gov.pl/en/rss/",
+        "tag": "官方统计",
+        "category": "Economy",
+        "slug_prefix": "gus",
+        "description": "Statistics Poland (GUS) – official economic and social data"
+    },
+
+    # ── Ursynów local ─────────────────────────────────────────────
+    {
+        "url": "https://haloursynow.pl/feed",
+        "tag": "乌尔西诺夫",
+        "category": "Warsaw",
+        "slug_prefix": "hu",
+        "description": "Halo Ursynów – local Ursynów district news"
+    },
+    {
+        "url": "https://iursynow.pl/feed",
+        "tag": "乌尔西诺夫",
+        "category": "Warsaw",
+        "slug_prefix": "iu",
+        "description": "iUrsynów – Ursynów news, events, lifestyle"
+    },
 
     # ── Removed (confirmed broken feeds) ─────────────────────────
     # https://tvpworld.com/feed         — malformed
     # https://www.zw.com.pl/rss/1.html  — malformed
-    # https://rp.pl/rss/671-prawo       — malformed
     # https://rp.pl/rss/3551-zdrowie    — malformed
     # https://rp.pl/rss/631-praca       — malformed
     # https://visegradinsight.eu/feed/  — paywalled
@@ -182,4 +238,3 @@ def fetch_content(url):
     except Exception as e:
         print(f"Failed to fetch content from {url}: {e}")
         return ""
-        
