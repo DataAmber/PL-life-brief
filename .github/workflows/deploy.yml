@@ -34,6 +34,9 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true # Required for SCSS compilation in 'newsroom' theme
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
+
       - name: Execute Hugo Build
         # Minify output to optimize performance for users in Poland
         run: hugo --minify
