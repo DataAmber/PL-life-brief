@@ -32,10 +32,8 @@ jobs:
       - name: Setup Hugo Environment
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
-          extended: true # Required for SCSS compilation in 'newsroom' theme
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
+          hugo-version: '0.169.0'
+          extended: true # Required for SCSS compilation in 'newsroom
 
       - name: Execute Hugo Build
         # Minify output to optimize performance for users in Poland
